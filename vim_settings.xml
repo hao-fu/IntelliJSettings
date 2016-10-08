@@ -1,0 +1,22 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensitivePaths.java" timestamp="1475960854291">
+        <mark key="[" line="28" column="37" />
+        <mark key="]" line="28" column="36" />
+        <mark key="^" line="28" column="36" />
+        <mark key="." line="28" column="36" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts />
+  </component>
+</application>
