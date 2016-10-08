@@ -3,10 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1475964445950">
+      <file name="/Dummy.txt" timestamp="1475965918600">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968225700" />
+      <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/InstrumentationHelper.java" timestamp="1475967420157" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DefaultXMLParser.java" timestamp="1475966954226">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensitivePaths.java" timestamp="1475960854291">
         <mark key="[" line="28" column="37" />
@@ -17,20 +24,76 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1475964001961">
         <mark key="[" line="45" column="32" />
       </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1475968460272">
+        <mark key="[" line="32" column="50" />
+        <mark key="]" line="32" column="53" />
+        <mark key="." line="32" column="53" />
+        <mark key="^" line="32" column="53" />
+      </file>
       <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/Main.java" timestamp="1475965277485">
         <mark key="[" line="405" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1475965818435">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/ApkXMLParser.java" timestamp="1475968442304">
+        <mark key="[" line="149" column="24" />
+        <mark key="]" line="149" column="24" />
+        <mark key="." line="149" column="24" />
+        <mark key="^" line="230" column="29" />
+      </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/XMLParser.java" timestamp="1475968029647">
+        <mark key="[" line="93" column="16" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1475968507703">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1475967170686">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzb290LkcucmVzZXQoKTsK</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>Write entry Activities into a csv</text>
+        <text>XPathExpressionException, IOException, InterruptedException, ParserConfigurationException, SAXExce</text>
+      </register>
+      <register name="2" type="4">
+        <text>try {
+            doIt(apk);
+        } catch (Exception ex) {
+            throw new RuntimeException(ex);
+        }
+        System.out.println(&quot;--- exit for now&quot;);
+        System.exit(0);</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChDb25maWdzLnZlcmJvc2UpIGRkewo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>// This is work-in-progress. Once this is done and some additional minor setting
+// tweaks are done, the analysis will be ready to analyze APK files directly.</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKENvbmZpZ3MuYXBrTW9kZSkgewo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIERlZmF1bHRYTUxQYXJzZXIudigpOwo=</text>
+      </register>
+      <register name="9" type="4">
+        <text>Configs.project = args[0];
+        Configs.benchmarkName = args[1];
+        Configs.mockScene = true;</text>
       </register>
       <register name="-" type="4">
-        <text>Write entry Activities into a csv</text>
+        <text>XPathExpressionException, IOException, InterruptedException, ParserConfigurationException, SAXExce</text>
       </register>
     </registers>
     <search>
@@ -50,6 +113,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
