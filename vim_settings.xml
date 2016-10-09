@@ -8,11 +8,12 @@
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475992454317">
+      <file name="/Dummy.txt" timestamp="1476051612332">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/output/QKSMS-noAnalytics-debug.apk_tgtAct.csv" timestamp="1476051427394" />
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968666867">
         <mark key="[" line="33" column="32" />
       </file>
@@ -21,11 +22,14 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1475984641656">
-        <mark key="[" line="45" column="32" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1476051131057">
+        <mark key="[" line="220" column="24" />
+        <mark key="]" line="220" column="13" />
+        <mark key="^" line="220" column="13" />
+        <mark key="." line="220" column="13" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1476049157191">
-        <mark key="[" line="19" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1476051503978">
+        <mark key="[" line="43" column="8" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
@@ -56,7 +60,7 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Test.java" timestamp="1476048668461">
         <mark key="[" line="8" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1476048792853">
+      <file name="/fragment.java" timestamp="1476051266264">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1475967170686">
@@ -68,8 +72,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBhcGsgPSAiIjsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBhcGsgPSAiIjsK</text>
+      <register name="&quot;" type="4">
+        <text>InstrumentManifest.xml to make Activity startable</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAqIDMuIEZpbmQgdGhlIHRhcmdldCBBY3Rpdml0aWVzICh3aGVyZSB0aGUgZW50cnkgcG9pbnRzIGxpZSkK</text>
@@ -96,7 +100,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuLmFwcGVuZENoaWxkKG5ld05vZGUpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>File.getAbsolutePath()</text>
+        <text>InstrumentManifest.xml to make Activity startable</text>
       </register>
     </registers>
     <search>
