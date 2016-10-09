@@ -16,9 +16,6 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968666867">
         <mark key="[" line="33" column="32" />
       </file>
-      <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/InstrumentationHelper.java" timestamp="1475991617830" />
-      <file name="D:/workspace/ConDroid/src/main/java/acteve/explorer/Utils.java" timestamp="1475985038770" />
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Test.java" timestamp="1476042444327" />
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DefaultXMLParser.java" timestamp="1475966954226">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -27,11 +24,10 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1475984641656">
         <mark key="[" line="45" column="32" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1476048777277">
-        <mark key="[" line="48" column="19" />
-        <mark key="]" line="48" column="8" />
-        <mark key="." line="48" column="8" />
-        <mark key="^" line="48" column="8" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1476049157191">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1475992410266">
         <mark key="[" line="30" column="40" />
@@ -70,34 +66,34 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBhcGsgPSAiIjsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBhcGsgPSAiIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">ICAgICAqIDMuIEZpbmQgdGhlIHRhcmdldCBBY3Rpdml0aWVzICh3aGVyZSB0aGUgZW50cnkgcG9pbnRzIGxpZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRmlsZSBhcGtGaWxlID0gbnVsbDsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0LncK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRkCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgRmlsZSBhcGtGaWxlID0gbnVsbDsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuLmFwcGVuZENoaWxkKG5ld05vZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0LncK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBOb2RlIG5ld05vZGUgPSBkb2MuY3JlYXRlVGV4dE5vZGUoImFuZHJvaWQ6ZXhwb3J0ZWQ9XCJ0cnVlXCIiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBOb2RlTGlzdCBhY3RTdWJOb2RlcyA9IG4uZ2V0Q2hpbGROb2RlcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuLmFwcGVuZENoaWxkKG5ld05vZGUpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>File.getAbsolutePath()</text>
@@ -107,7 +103,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
