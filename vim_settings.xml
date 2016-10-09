@@ -17,24 +17,28 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968666867">
         <mark key="[" line="33" column="32" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/jellybean_publishedapimapping_parsed.txt" timestamp="1476052857802">
+      <file name="D:/workspace/COSMOS_TRIGGER/jellybean_publishedapimapping_parsed.txt" timestamp="1476053832021">
         <mark key="[" line="6" column="80" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/ClassUtils.java" timestamp="1476054818101">
+        <mark key="[" line="36" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DefaultXMLParser.java" timestamp="1475966954226">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1476051131057">
-        <mark key="[" line="220" column="24" />
-        <mark key="]" line="220" column="13" />
-        <mark key="^" line="220" column="13" />
-        <mark key="." line="220" column="13" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1476055313024">
+        <mark key="[" line="158" column="23" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1476051503978">
-        <mark key="[" line="43" column="8" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+        <mark key="[" line="44" column="8" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1475992410266">
         <mark key="[" line="30" column="40" />
@@ -73,37 +77,37 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBhcGsgPSAiIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5iYihUQUcsIGVudHJ5LmdldFNpZ25hdHVyZSgpICsgIiBAICIgKyBlbnRyeUNsYXNzQ29uc3RydWN0b3IpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>InstrumentManifest.xml to make Activity startable</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5iYihUQUcsIGVudHJ5LmdldFNpZ25hdHVyZSgpICsgIiBAICIgKyBlbnRyeUNsYXNzQ29uc3RydWN0b3IpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIDMuIEZpbmQgdGhlIHRhcmdldCBBY3Rpdml0aWVzICh3aGVyZSB0aGUgZW50cnkgcG9pbnRzIGxpZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGNvbS5hbmRyb2lkLm1tcy50cmFuc2FjdGlvbjogYm9vbGVhbiBzZW5kTWVzc2FnZShsb25nKT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBhcGsgPSAiIjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRmlsZSBhcGtGaWxlID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAqIDMuIEZpbmQgdGhlIHRhcmdldCBBY3Rpdml0aWVzICh3aGVyZSB0aGUgZW50cnkgcG9pbnRzIGxpZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0LncK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRkCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgRmlsZSBhcGtGaWxlID0gbnVsbDsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuLmFwcGVuZENoaWxkKG5ld05vZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>InstrumentManifest.xml to make Activity startable</text>
+        <text encoding="base64">IHRva2Vu</text>
       </register>
     </registers>
     <search>
