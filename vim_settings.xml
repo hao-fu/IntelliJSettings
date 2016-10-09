@@ -16,7 +16,7 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968666867">
         <mark key="[" line="33" column="32" />
       </file>
-      <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/InstrumentationHelper.java" timestamp="1475970334119" />
+      <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/InstrumentationHelper.java" timestamp="1475970676803" />
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DefaultXMLParser.java" timestamp="1475966954226">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -28,7 +28,7 @@
         <mark key="^" line="28" column="36" />
         <mark key="." line="28" column="36" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1475964001961">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1475971135118">
         <mark key="[" line="45" column="32" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1475969124807">
@@ -37,7 +37,13 @@
         <mark key="." line="24" column="26" />
         <mark key="^" line="24" column="26" />
       </file>
-      <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/Main.java" timestamp="1475965277485">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1475971054391">
+        <mark key="[" line="165" column="104" />
+        <mark key="]" line="165" column="43" />
+        <mark key="." line="165" column="43" />
+        <mark key="^" line="165" column="43" />
+      </file>
+      <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/Main.java" timestamp="1475970614987">
         <mark key="[" line="405" column="12" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/ApkXMLParser.java" timestamp="1475969621574">
@@ -59,60 +65,48 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="4">
-        <text>readRFile();
-
-        if (rIdMap.size() == 0) {
-            System.out.println(&quot;Read public.xml&quot;);
-            readPubXML();
-        }
-
-        // Strings must be read first
-        readStrings();
-
-        // Then, layout and menu. Later, we may need to read preference as well.
-        readLayout();
-        readMenu();</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>readRFile();
-
-        if (rIdMap.size() == 0) {
-            System.out.println(&quot;Read public.xml&quot;);
-            readPubXML();
-        }
-
-        // Strings must be read first
-        readStrings();
-
-        // Then, layout and menu. Later, we may need to read preference as well.
-        readLayout();
-        readMenu();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKGdldENsYXNzKCkpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKGdldENsYXNzKCkpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU2V0dXBBcHBsaWNhdGlvbiBhcHA7Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>readRFile();
+
+        if (rIdMap.size() == 0) {
+            System.out.println(&quot;Read public.xml&quot;);
+            readPubXML();
+        }
+
+        // Strings must be read first
+        readStrings();
+
+        // Then, layout and menu. Later, we may need to read preference as well.
+        readLayout();
+        readMenu();</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gVE9ETzogbWFpbiBhY3Rpdml0eQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>3. Determine all paths from methods in 2. to 1.
      * 4. Instrument those paths</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvL1NlbnNpdGl2ZVBhdGhzIHNlbnNpdGl2ZVBhdGhzID0gbmV3IFNlbnNpdGl2ZVBhdGhzKGFwaywgInRvb2xzL2FuZHJvaWQtMTkuamFyIik7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy54bWwuc2F4LlNBWEV4Y2VwdGlvbjsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5wYXJzZXJzLlBhcnNlckNvbmZpZ3VyYXRpb25FeGNlcHRpb247Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC54cGF0aC5YUGF0aEV4cHJlc3Npb25FeGNlcHRpb247Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzb290LkcucmVzZXQoKTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy54bWwuc2F4LlNBWEV4Y2VwdGlvbjsK</text>
       </register>
       <register name="-" type="4">
         <text>XPathExpressionException, IOException, InterruptedException, ParserConfigurationException, SAXExce</text>
