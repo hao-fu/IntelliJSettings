@@ -3,12 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DecompiledXMLParser.java" timestamp="1475985379493">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DecompiledXMLParser.java" timestamp="1475987192429">
+        <mark key="[" line="88" column="57" />
+        <mark key="]" line="88" column="27" />
+        <mark key="." line="88" column="27" />
+        <mark key="^" line="88" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475968538823">
+      <file name="/Dummy.txt" timestamp="1475985515092">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -16,7 +17,7 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968666867">
         <mark key="[" line="33" column="32" />
       </file>
-      <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/InstrumentationHelper.java" timestamp="1475984462492" />
+      <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/InstrumentationHelper.java" timestamp="1475987089268" />
       <file name="D:/workspace/ConDroid/src/main/java/acteve/explorer/Utils.java" timestamp="1475985038770" />
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DefaultXMLParser.java" timestamp="1475966954226">
         <mark key="[" line="18" column="0" />
@@ -43,7 +44,7 @@
         <mark key="." line="166" column="32" />
         <mark key="^" line="166" column="32" />
       </file>
-      <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/Main.java" timestamp="1475984987586">
+      <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/Main.java" timestamp="1475986023535">
         <mark key="[" line="405" column="12" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/ApkXMLParser.java" timestamp="1475969621574">
@@ -51,11 +52,10 @@
         <mark key="]" line="176" column="0" />
         <mark key="." line="176" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Settings.java" timestamp="1475985238899">
-        <mark key="[" line="125" column="7" />
-        <mark key="]" line="124" column="43" />
-        <mark key="^" line="124" column="43" />
-        <mark key="." line="124" column="43" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Settings.java" timestamp="1475985572745">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/XMLParser.java" timestamp="1475984792035">
         <mark key="[" line="93" column="38" />
@@ -73,49 +73,37 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkb0l0KCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkb0l0KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Zm9yIChOb2RlIG5vZGUgOiA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNvbXBpbGVkWE1MUGFyc2VyCg==</text>
+        <text encoding="base64">CQlMb2cuZGVidWcoVEFHLCAiRGVsZXRpbmcgIiArIGRpci5nZXRBYnNvbHV0ZVBhdGgoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcGtYTUxQYXJzZXIuZG9JdChhcGspOwo=</text>
+        <text encoding="base64">ICAgICAgICBkb0l0KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBcGtYTUxQYXJzZXIgYXBrWE1MUGFyc2VyID0gQXBrWE1MUGFyc2VyLnYoKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZWNvbXBpbGVkWE1MUGFyc2VyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcGtYTUxQYXJzZXIuZG9JdChhcGspOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKGdldENsYXNzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBBcGtYTUxQYXJzZXIgYXBrWE1MUGFyc2VyID0gQXBrWE1MUGFyc2VyLnYoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKGdldENsYXNzKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU2V0dXBBcHBsaWNhdGlvbiBhcHA7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKGdldENsYXNzKCkpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>readRFile();
-
-        if (rIdMap.size() == 0) {
-            System.out.println(&quot;Read public.xml&quot;);
-            readPubXML();
-        }
-
-        // Strings must be read first
-        readStrings();
-
-        // Then, layout and menu. Later, we may need to read preference as well.
-        readLayout();
-        readMenu();</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKGdldENsYXNzKCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>XPathExpressionException, IOException, InterruptedException, ParserConfigurationException, SAXExce</text>
+        <text encoding="base64">Zm9yIChOb2RlIG5vZGUgOiA=</text>
       </register>
     </registers>
     <search>
