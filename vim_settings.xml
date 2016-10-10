@@ -3,19 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DecompiledXMLParser.java" timestamp="1475992031757">
-        <mark key="[" line="78" column="33" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1476051612332">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/workspace/COSMOS_TRIGGER/output/QKSMS-noAnalytics-debug.apk_tgtAct.csv" timestamp="1476051427394" />
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968666867">
-        <mark key="[" line="33" column="32" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/AndroidView.java" timestamp="1476081230117" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/NameValueFunction.java" timestamp="1476082017149">
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1476080542313">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/jellybean_publishedapimapping_parsed.txt" timestamp="1476053832021">
         <mark key="[" line="6" column="80" />
@@ -30,24 +24,16 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1476077200895">
-        <mark key="[" line="158" column="23" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
-      </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1476051503978">
         <mark key="[" line="44" column="8" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1475992410266">
-        <mark key="[" line="30" column="40" />
-        <mark key="]" line="30" column="40" />
-        <mark key="." line="30" column="40" />
-        <mark key="^" line="30" column="40" />
-      </file>
-      <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/Main.java" timestamp="1475991490385">
-        <mark key="[" line="405" column="12" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1476082833336">
+        <mark key="[" line="155" column="68" />
+        <mark key="]" line="155" column="17" />
+        <mark key="." line="155" column="17" />
+        <mark key="^" line="155" column="17" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/ApkXMLParser.java" timestamp="1475969621574">
         <mark key="[" line="176" column="0" />
@@ -59,6 +45,33 @@
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1475967170686">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DecompiledXMLParser.java" timestamp="1476083022471">
+        <mark key="'" line="919" column="12" />
+        <mark key="[" line="480" column="8" />
+        <mark key="]" line="1061" column="17" />
+        <mark key="." line="1061" column="17" />
+        <mark key="^" line="1061" column="17" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1476051612332">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968666867">
+        <mark key="[" line="33" column="32" />
+      </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/IncludeAndroidView.java" timestamp="1476081313686" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1476077200895">
+        <mark key="[" line="158" column="23" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
+      </file>
+      <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/Main.java" timestamp="1475991490385">
+        <mark key="[" line="405" column="12" />
+      </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/XMLParser.java" timestamp="1475990904369">
         <mark key="[" line="67" column="25" />
         <mark key="]" line="72" column="0" />
@@ -67,47 +80,47 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Test.java" timestamp="1476048668461">
         <mark key="[" line="8" column="19" />
       </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/IAndroidView.java" timestamp="1476081218733" />
       <file name="/fragment.java" timestamp="1476051266264">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/ActionScript File Header.txt.ft" timestamp="1475967170686">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="917" column="12" filename="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DecompiledXMLParser.java" />
+    </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5iYihUQUcsIGVudHJ5LmdldFNpZ25hdHVyZSgpICsgIiBAICIgKyBlbnRyeUNsYXNzQ29uc3RydWN0b3IpOwo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5iYihUQUcsIGVudHJ5LmdldFNpZ25hdHVyZSgpICsgIiBAICIgKyBlbnRyeUNsYXNzQ29uc3RydWN0b3IpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">PGNvbS5hbmRyb2lkLm1tcy50cmFuc2FjdGlvbjogYm9vbGVhbiBzZW5kTWVzc2FnZShsb25nKT4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBhcGsgPSAiIjsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIDMuIEZpbmQgdGhlIHRhcmdldCBBY3Rpdml0aWVzICh3aGVyZSB0aGUgZW50cnkgcG9pbnRzIGxpZSkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="4">
+        <text>erbose)</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZWFkTWFuaWZlc3QoKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIERlZmF1bHRYTUxQYXJzZXIgdGhlSW5zdDsK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">cHJpdmF0ZSBEZWZhdWx0WE1MUGFyc2VyKCkgewogICAgICAgIGRvSXQoKTsKICAgIH0KCiAgICBzdGF0aWMgc3luY2hyb25pemVkIERlZmF1bHRYTUxQYXJzZXIgdigpIHsKICAgICAgICBpZiAodGhlSW5zdCA9PSBudWxsKSB7CiAgICAgICAgICAgIHRoZUluc3QgPSBuZXcgRGVmYXVsdFhNTFBhcnNlcigpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gdGhlSW5zdDsKICAgIH0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBEZWNvbXBpbGVkWE1MUGFyc2VyIGV4dGVuZHMgWE1MUGFyc2VyLkFic3RyYWN0WE1MUGFyc2VyIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRmlsZSBhcGtGaWxlID0gbnVsbDsK</text>
+        <text encoding="base64">aW1wb3J0IHByZXN0by5hbmRyb2lkLkNvbmZpZ3M7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHByZXN0by5hbmRyb2lkLnhtbC5YTUxQYXJzZXIuQWJzdHJhY3RYTUxQYXJzZXI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRva2Vu</text>
+        <text>erbose)</text>
       </register>
     </registers>
     <search>
