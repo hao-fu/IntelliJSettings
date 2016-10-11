@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DecompiledXMLParser.java" timestamp="1476150989532">
-        <mark key="'" line="928" column="12" />
-        <mark key="[" line="32" column="40" />
-        <mark key="]" line="633" column="0" />
-        <mark key="." line="633" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DecompiledXMLParser.java" timestamp="1476224547785">
+        <mark key="'" line="932" column="12" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476158306637">
+      <file name="/Dummy.txt" timestamp="1476224192540">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -104,13 +104,20 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>/*
+ * This is a re-design of the xml parsing component.
+ */</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>/*
+ * This is a re-design of the xml parsing component.
+ */</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL0xvZy5tc2coVEFHLCAibWV0aG9kICIgKyBtaXNzZWRNZXRob2QgKyBtaXNzZWRNZXRob2QuaGFzQWN0aXZlQm9keSgpICsiIGZvciAiICsgbWlzc2VkKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL0xvZy5tc2coVEFHLCAibWV0aG9kICIgKyBtaXNzZWRNZXRob2QgKyBtaXNzZWRNZXRob2QuaGFzQWN0aXZlQm9keSgpICsiIGZvciAiICsgbWlzc2VkKTsK</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>if (method.hasActiveBody()) {
                         Log.msg(TAG, &quot;FM: &quot; + method.getSubSignature());
                         for (Unit unit : method.getActiveBody().getUnits()) {
@@ -123,26 +130,23 @@
                         }
                     }</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">aWYgKG1pc3NlZE1ldGhvZCAhPSBudWxsICYmICFtaXNzZWRNZXRob2QuaGFzQWN0aXZlQm9keSgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIG1pc3NlZE1ldGhvZC5yZXRyaWV2ZUFjdGl2ZUJvZHkoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgaWYgKG1pc3NlZE1ldGhvZC5oYXNBY3RpdmVCb2R5KCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgTG9nLm1zZyhUQUcsICJGTTogIiArIG1pc3NlZE1ldGhvZC5nZXRTdWJTaWduYXR1cmUoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGZvciAoVW5pdCB1bml0IDogbWlzc2VkTWV0aG9kLmdldEFjdGl2ZUJvZHkoKS5nZXRVbml0cygpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdG10IHN0bXQgPSAoU3RtdCkgdW5pdDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChzdG10LmNvbnRhaW5zSW52b2tlRXhwcigpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU29vdE1ldGhvZCBwb3RlbiA9IHN0bXQuZ2V0SW52b2tlRXhwcigpLmdldE1ldGhvZCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFkZEFzVGFyZ2V0KHBvdGVuLCBtaXNzZWRNZXRob2QpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFkZEZpbmRWaWV3Q2FsbGVyKHBvdGVuLCB1bml0LCBtaXNzZWRNZXRob2QpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy9xdWV1ZS5jbGVhcigpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtaXNzZWRNZXRob2QucmV0cmlldmVBY3RpdmVCb2R5KCk7KQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5tc2coVEFHLCAiIiArIHNvb3RDbGFzcy5nZXRNZXRob2RVbnNhZmUoInZvaWQgb25DcmVhdGUoYW5kcm9pZC5vcy5CdW5kbGUpIikpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5tc2coVEFHLCAiIiArIHNvb3RDbGFzcy5nZXRNZXRob2RVbnNhZmUoImFuZHJvaWQudmlldy5WaWV3IG9uQ3JlYXRlVmlldyhhbmRyb2lkLnZpZXcuTGF5b3V0SW5mbGF0ZXIsYW5kcm9pZC52aWV3LlZpZXdHcm91cCxhbmRyb2lkLm9zLkJ1bmRsZSkiKSk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNjZW5lLnYoKS5sb2FkTmVjZXNzYXJ5Q2xhc3NlcygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>jellybean_publishedapimapping_parsed</text>
