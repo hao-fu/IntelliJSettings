@@ -56,7 +56,7 @@
         <mark key="]" line="633" column="0" />
         <mark key="." line="633" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476153023257">
+      <file name="/Dummy.txt" timestamp="1476158306637">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -65,6 +65,11 @@
         <mark key="[" line="33" column="32" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/IncludeAndroidView.java" timestamp="1476081313686" />
+      <file name="D:/workspace/COSMOS_TRIGGER/AndroidCallbacks.txt" timestamp="1476158789346">
+        <mark key="[" line="180" column="52" />
+        <mark key="]" line="180" column="52" />
+        <mark key="." line="180" column="52" />
+      </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1476156826265">
         <mark key="[" line="163" column="16" />
         <mark key="]" line="131" column="0" />
@@ -94,35 +99,35 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CkM6L1VzZXJzL2hhby9Eb3dubG9hZHMvYW5kcm9pZC1zZGstd2luZG93cy9wbGF0Zm9ybXMvYW5kcm9pZC0yMi9hbmRyb2lkLmphciEv</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CkM6L1VzZXJzL2hhby9Eb3dubG9hZHMvYW5kcm9pZC1zZGstd2luZG93cy9wbGF0Zm9ybXMvYW5kcm9pZC0yMi9hbmRyb2lkLmphciEv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTY2VuZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG91dC5zcmNTdG10KCkuCg==</text>
+        <text encoding="base64">ICAgICAgICBTY2VuZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVudHJ5LmdldERlY2xhcmluZ0NsYXNzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG91dC5zcmNTdG10KCkuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLm1zZyhUQUcsICJMb2NhdGUgQWN0aXZpdHkgIiArIGFjdGl2aXR5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVudHJ5LmdldERlY2xhcmluZ0NsYXNzKCkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBNYXA8U29vdENsYXNzLCBTZXQ8U29vdE1ldGhvZD4+IGdldFRhcmdldEFjdGl2aXRpZXMoKSB7CiAgICAgICAgcmV0dXJuIHRhcmdldEFjdGl2aXRpZXM7CiAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLm1zZyhUQUcsICJMb2NhdGUgQWN0aXZpdHkgIiArIGFjdGl2aXR5KTsK</text>
       </register>
       <register name="-" type="4">
         <text>+ &quot; @ &quot; + out.src().getDeclaringClass()</text>
