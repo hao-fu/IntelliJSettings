@@ -26,7 +26,7 @@
       <file name="/a.dummy" timestamp="1476080542313">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/jellybean_publishedapimapping_parsed.txt" timestamp="1476053832021">
+      <file name="D:/workspace/COSMOS_TRIGGER/jellybean_publishedapimapping_parsed.txt" timestamp="1476219148654">
         <mark key="[" line="6" column="80" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -44,17 +44,18 @@
         <mark key="]" line="180" column="52" />
         <mark key="." line="180" column="52" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1476162735150">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1476219204928">
+        <mark key="[" line="144" column="75" />
+        <mark key="]" line="144" column="75" />
+        <mark key="." line="144" column="75" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1476157143006">
+      <file name="D:/workspace/COSMOS_TRIGGER/libs/sootsources-trunk.jar!/soot/SootClass.java" timestamp="1476218657332" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1476217768471">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1476162795326">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1476217606115">
         <mark key="[" line="156" column="74" />
         <mark key="]" line="155" column="17" />
         <mark key="." line="155" column="17" />
@@ -99,8 +100,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>Bundle</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CkM6L1VzZXJzL2hhby9Eb3dubG9hZHMvYW5kcm9pZC1zZGstd2luZG93cy9wbGF0Zm9ybXMvYW5kcm9pZC0yMi9hbmRyb2lkLmphciEv</text>
@@ -127,7 +128,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVudHJ5LmdldERlY2xhcmluZ0NsYXNzKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>+ &quot; @ &quot; + out.src().getDeclaringClass()</text>
+        <text>Bundle</text>
       </register>
     </registers>
     <search>
