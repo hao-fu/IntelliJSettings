@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DecompiledXMLParser.java" timestamp="1476310886608">
-        <mark key="'" line="932" column="12" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DecompiledXMLParser.java" timestamp="1476312397911">
+        <mark key="'" line="935" column="12" />
+        <mark key="[" line="478" column="24" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1476307373801">
         <mark key="[" line="0" column="0" />
@@ -61,7 +61,7 @@
         <mark key="." line="149" column="27" />
         <mark key="^" line="136" column="40" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1476310314405">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1476312426526">
         <mark key="[" line="74" column="65" />
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
