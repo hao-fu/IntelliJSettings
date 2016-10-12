@@ -66,7 +66,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476246649503">
+      <file name="/Dummy.txt" timestamp="1476257703244">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -117,7 +117,7 @@
         <text encoding="base64">Ly8gMS4gRmluZCB0aGUgY29uc3RydWN0b3Igb2YgdGhlIGVudHJ5IGNsYXNzIChlLmcuIENsaWNrTGlzdGVuZXIpCiAgICAgICAgLy8gMi4gU2VhcmNoIHRoZSBjYWxsZXIgY2xhc3Mgb2YgdGhlIGVudHJ5IGNvbnN0cnVjdG9yCiAgICAgICAgTGlzdDxTb290TWV0aG9kPiBlbnRyeUNsYXNzQ29uc3RydWN0b3JzID0gTWV0aG9kVXRpbHMuZ2V0Q29uc3RydWN0b3JzKGVudHJ5Q2xhc3MpOwogICAgICAgIGlmIChlbnRyeUNsYXNzQ29uc3RydWN0b3JzLnNpemUoKSA9PSAwKSB7CiAgICAgICAgICAgIExvZy5lcnIoVEFHLCAiQ2Fubm90IGZpbmQgdGhlIGNvbnN0cnVjdG9ycyBvZiB0aGUgZW50cnkgY2xhc3MhIik7CiAgICAgICAgfQogICAgICAgIFNvb3RNZXRob2QgZW50cnlDbGFzc0NvbnN0cnVjdG9yID0gZW50cnlDbGFzc0NvbnN0cnVjdG9ycy5nZXQoMCk7</text>
       </register>
       <register name="&quot;" type="4">
-        <text>MethodUtils.getClassHasCall(entryClassConstructor);</text>
+        <text>Change the order: check whether is a View then Listener</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAvLyAK</text>
@@ -144,7 +144,7 @@
         <text encoding="base64">ICAgICAgICAgICAgTG9nLm1zZyhUQUcsIHNvb3RDbGFzcy5nZXRTdXBlcmNsYXNzKCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>MethodUtils.getClassHasCall(entryClassConstructor);</text>
+        <text>Change the order: check whether is a View then Listener</text>
       </register>
     </registers>
     <search>
