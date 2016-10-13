@@ -9,7 +9,7 @@
         <mark key="]" line="187" column="0" />
         <mark key="." line="187" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476307373801">
+      <file name="/Dummy.txt" timestamp="1476317579809">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -19,6 +19,7 @@
         <mark key="]" line="1" column="56" />
         <mark key="." line="1" column="56" />
       </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/output/QKSMS-noAnalytics-debug.apk_tgtAct.csv" timestamp="1476317563765" />
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/AndroidView.java" timestamp="1476315987591">
         <mark key="[" line="27" column="26" />
       </file>
@@ -55,15 +56,15 @@
         <mark key="]" line="130" column="52" />
         <mark key="." line="130" column="52" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1476316769396">
-        <mark key="[" line="182" column="0" />
-        <mark key="]" line="182" column="0" />
-        <mark key="." line="182" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1476316856661">
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="185" column="0" />
+        <mark key="." line="185" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1476315994740">
-        <mark key="[" line="107" column="50" />
-        <mark key="]" line="107" column="50" />
-        <mark key="." line="107" column="50" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1476317779762">
+        <mark key="[" line="112" column="106" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1476217606115">
         <mark key="[" line="156" column="74" />
@@ -114,34 +115,44 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2cubXNnKFRBRywgZGVjb21waWxlZFhNTFBhcnNlci5nZXRJZEZyb21MYXlvdXQodmlldy5nZXRPcmlnaW4oKSkpOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2cubXNnKFRBRywgZGVjb21waWxlZFhNTFBhcnNlci5nZXRJZEZyb21MYXlvdXQodmlldy5nZXRPcmlnaW4oKSkpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ly8gQ2hlY2sgd2hldGhlciBpcyBmaW5kVmlld0J5SWQoKQogICAgICAgIGlmIChwb3RlbnRpYWwuZ2V0U3ViU2lnbmF0dXJlKCkuY29udGFpbnMoKSkgewogICAgICAgICAgICBMb2cubXNnKFRBRywgImZpbmRWaWV3ICIgKyB1bml0ICsgIiBAICIgKyBzcmNNZXRob2QuZ2V0RGVjbGFyaW5nQ2xhc3MoKS5nZXROYW1lKCkpOwogICAgICAgICAgICBmb3IgKFZhbHVlQm94IHZhbHVlQm94IDogdW5pdC5nZXRVc2VCb3hlcygpKSB7CiAgICAgICAgICAgICAgICBpZiAodmFsdWVCb3ggaW5zdGFuY2VvZiBJbW1lZGlhdGVCb3gpIHsKICAgICAgICAgICAgICAgICAgICBJbW1lZGlhdGVCb3ggaW1tZWRpYXRlQm94ID0gKEltbWVkaWF0ZUJveCkgdmFsdWVCb3g7CiAgICAgICAgICAgICAgICAgICAgVmFsdWUgdmFsdWUgPSBpbW1lZGlhdGVCb3guZ2V0VmFsdWUoKTsKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBpbnQgaWQgPSBJbnRlZ2VyLnBhcnNlSW50KHZhbHVlLnRvU3RyaW5nKCkpOwoKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFmaW5kVmlld0NhbGxlcnMuY29udGFpbnNLZXkoaWQpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaW5kVmlld0NhbGxlcnMucHV0KGlkLCBuZXcgSGFzaFNldDw+KCkpOwogICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICBmaW5kVmlld0NhbGxlcnMuZ2V0KGlkKS5hZGQoc3JjTWV0aG9kKTsKICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChOdW1iZXJGb3JtYXRFeGNlcHRpb24gZSkgewoKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaGVja0FuZEFkZCgpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">U2V0PFNvb3RNZXRob2Q+IHNldENvbnRlbnRWaWV3Q2FsbGVycyA9IHNldENvbnRlbnRWaWV3Q2FsbGVyc0FsbC5nZXQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoc2V0Q29udGVudFZpZXdDYWxsZXJzICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>for (SootMethod caller : findViewCallers.get(view.getId())) {
+                                    SootClass lieClass = caller.getDeclaringClass();
+                                    Log.msg(TAG, &quot;lieClass &quot; + caller.getDeclaringClass().getName());
+                                    if (ClassUtils.isActivity(lieClass)) {
+                                        addAsTgtActivity(lieClass, target);
+                                    } else if (ClassUtils.isFragment(lieClass)) {
+                                        fragment2Activity(lieClass, target);
+                                    } else {
+                                        Log.warn(TAG, &quot;Cannot identify the type of &quot; + lieClass);
+                                    }
+                                }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBhZGRTZXRDb250ZW50Vmlld0NhbGxlcihTb290TWV0aG9kIHBvdGVudGlhbCwgVW5pdCB1bml0LCBTb290TWV0aG9kIHNyY01ldGhvZCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cubXNnKFRBRywgImxheW91dEZpbGUgIiArIGxheW91dE5hbWUpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">Ly8gQ2hlY2sgd2hldGhlciBpcyBmaW5kVmlld0J5SWQoKQogICAgICAgIGlmIChwb3RlbnRpYWwuZ2V0U3ViU2lnbmF0dXJlKCkuY29udGFpbnMoKSkgewogICAgICAgICAgICBMb2cubXNnKFRBRywgImZpbmRWaWV3ICIgKyB1bml0ICsgIiBAICIgKyBzcmNNZXRob2QuZ2V0RGVjbGFyaW5nQ2xhc3MoKS5nZXROYW1lKCkpOwogICAgICAgICAgICBmb3IgKFZhbHVlQm94IHZhbHVlQm94IDogdW5pdC5nZXRVc2VCb3hlcygpKSB7CiAgICAgICAgICAgICAgICBpZiAodmFsdWVCb3ggaW5zdGFuY2VvZiBJbW1lZGlhdGVCb3gpIHsKICAgICAgICAgICAgICAgICAgICBJbW1lZGlhdGVCb3ggaW1tZWRpYXRlQm94ID0gKEltbWVkaWF0ZUJveCkgdmFsdWVCb3g7CiAgICAgICAgICAgICAgICAgICAgVmFsdWUgdmFsdWUgPSBpbW1lZGlhdGVCb3guZ2V0VmFsdWUoKTsKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBpbnQgaWQgPSBJbnRlZ2VyLnBhcnNlSW50KHZhbHVlLnRvU3RyaW5nKCkpOwoKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFmaW5kVmlld0NhbGxlcnMuY29udGFpbnNLZXkoaWQpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaW5kVmlld0NhbGxlcnMucHV0KGlkLCBuZXcgSGFzaFNldDw+KCkpOwogICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICBmaW5kVmlld0NhbGxlcnMuZ2V0KGlkKS5hZGQoc3JjTWV0aG9kKTsKICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChOdW1iZXJGb3JtYXRFeGNlcHRpb24gZSkgewoKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaGVja0FuZEFkZCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLm1zZyhUQUcsIHJzdHJpbmcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyByc3RyaW5nIDogcklkTWFwLmtleVNldCgpKSB7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBhZGRTZXRDb250ZW50Vmlld0NhbGxlcihTb290TWV0aG9kIHBvdGVudGlhbCwgVW5pdCB1bml0LCBTb290TWV0aG9kIHNyY01ldGhvZCkgewo=</text>
       </register>
       <register name="-" type="4">
         <text>getParent().getParent()</text>
