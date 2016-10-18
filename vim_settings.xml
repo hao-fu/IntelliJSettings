@@ -31,10 +31,10 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1476748582281">
-        <mark key="[" line="121" column="20" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1476750934718">
+        <mark key="[" line="28" column="69" />
+        <mark key="]" line="28" column="69" />
+        <mark key="." line="28" column="69" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1476748198592">
         <mark key="[" line="51" column="58" />
@@ -123,8 +123,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PSBuZXcgSGFzaE1hcDw+KCk7IC8vIDx0Z3QgQWN0aXZpdHksIHRhcmdldHM+</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChlICE9IG51bGwpIHsK</text>
@@ -151,7 +151,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChhcGsuY28pCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmICFmaWxlLmdldE5hbWUoKS5jb250YWlucygibW9kaWZpZWQuYXBrIik=</text>
+        <text encoding="base64">PSBuZXcgSGFzaE1hcDw+KCk7IC8vIDx0Z3QgQWN0aXZpdHksIHRhcmdldHM+</text>
       </register>
     </registers>
     <search>
