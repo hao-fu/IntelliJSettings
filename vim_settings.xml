@@ -105,10 +105,10 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Log.java" timestamp="1476748572930">
         <mark key="[" line="189" column="28" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Test.java" timestamp="1476831953817">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Test.java" timestamp="1476916456630">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="8" />
+        <mark key="." line="15" column="8" />
       </file>
       <file name="/fragment.java" timestamp="1476744387544">
         <mark key="[" line="0" column="0" />
@@ -125,8 +125,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>if (System.getProperty(&quot;os.name&quot;))</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -157,7 +157,7 @@ import java.util.Set;</text>
         <text encoding="base64">ICAgICAgICAgICAgTG9nLm1zZyhUQUcsICJOb3QgYSAiICsgc3VwZXJLbGFzcyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSBuZXcgSGFzaE1hcDw+KCk7IC8vIDx0Z3QgQWN0aXZpdHksIHRhcmdldHM+</text>
+        <text>if (System.getProperty(&quot;os.name&quot;))</text>
       </register>
     </registers>
     <search>
