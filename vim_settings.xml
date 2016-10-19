@@ -20,7 +20,7 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Test.java" timestamp="1476757822894">
         <mark key="[" line="12" column="69" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/ClassUtils.java" timestamp="1476768132315">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/ClassUtils.java" timestamp="1476917239012">
         <mark key="'" line="112" column="59" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -44,6 +44,9 @@
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Statistics.java" timestamp="1476745896308">
         <mark key="[" line="17" column="41" />
+      </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/OsUtils.java" timestamp="1476917454408">
+        <mark key="[" line="8" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/ApkXMLParser.java" timestamp="1475969621574">
         <mark key="[" line="176" column="0" />
@@ -105,10 +108,10 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Log.java" timestamp="1476748572930">
         <mark key="[" line="189" column="28" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Test.java" timestamp="1476916456630">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="8" />
-        <mark key="." line="15" column="8" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Test.java" timestamp="1476917476115">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1476744387544">
         <mark key="[" line="0" column="0" />
@@ -123,38 +126,38 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZ2V0UHJvcGVydGllcygpLmxpc3QoU3lzdGVtLm91dCk7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>if (System.getProperty(&quot;os.name&quot;))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZ2V0UHJvcGVydGllcygpLmxpc3QoU3lzdGVtLm91dCk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>import java.io.File;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU2V0dXBBcHBsaWNhdGlvbiBhcHA7Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU2V0dXBBcHBsaWNhdGlvbiBhcHA7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFNldDxTdHJpbmc+IG9taXRBcGtzID0gbmV3IEhhc2hTZXQ8PigpOwoKICAgIHN0YXRpYyB7CiAgICAgICAgb21pdEFwa3MuYWRkKCJ3cy5jb3Zlcm1lLmltLmFwayIpOwogICAgfQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLm1zZyhUQUcsICJkZXRlY3QgIiArIGtsYXNzKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLm1zZyhUQUcsICJOb3QgYSAiICsgc3VwZXJLbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLm1zZyhUQUcsICJkZXRlY3QgIiArIGtsYXNzKTsK</text>
       </register>
       <register name="-" type="4">
         <text>if (System.getProperty(&quot;os.name&quot;))</text>
