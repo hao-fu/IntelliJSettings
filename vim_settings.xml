@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/ListenerTracer.java" timestamp="1478750546421">
-        <mark key="[" line="18" column="59" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/ListenerTracer.java" timestamp="1478757921764">
+        <mark key="[" line="31" column="50" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/utils/soot/ApkPackerTest.java" timestamp="1478742511536">
         <mark key="[" line="14" column="30" />
@@ -38,7 +38,7 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/NameValueFunction.java" timestamp="1476082017149">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1478755817768">
+      <file name="/a.dummy" timestamp="1478756618748">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/jellybean_publishedapimapping_parsed.txt" timestamp="1476747387312">
@@ -71,8 +71,8 @@
         <mark key="." line="265" column="0" />
         <mark key="^" line="261" column="20" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/DataTracer.java" timestamp="1478750511064">
-        <mark key="[" line="2" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/DataTracer.java" timestamp="1478756257601">
+        <mark key="[" line="95" column="5" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
@@ -123,15 +123,23 @@
         <mark key="]" line="1" column="56" />
         <mark key="." line="1" column="56" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/ListenerTracerTest.java" timestamp="1478750482257">
-        <mark key="'" line="88" column="31" />
-        <mark key="[" line="71" column="46" />
-        <mark key="]" line="71" column="46" />
-        <mark key="^" line="48" column="32" />
-        <mark key="." line="71" column="46" />
+      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/ListenerTracerTest.java" timestamp="1478757273717">
+        <mark key="'" line="180" column="31" />
+        <mark key="[" line="47" column="92" />
+        <mark key="]" line="50" column="39" />
+        <mark key="." line="50" column="39" />
+        <mark key="^" line="50" column="39" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968666867">
         <mark key="[" line="33" column="32" />
+      </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FindViewTracer.java" timestamp="1478757898899">
+        <mark key="[" line="37" column="11" />
+      </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/FindViewTracerTest.java" timestamp="1478756646502">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/MethodUtils.java" timestamp="1478737690264">
         <mark key="[" line="299" column="31" />
@@ -150,6 +158,12 @@
         <mark key="." line="81" column="55" />
         <mark key="^" line="81" column="55" />
       </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/DataForwardTracer.java" timestamp="1478757833146">
+        <mark key="[" line="109" column="16" />
+        <mark key="]" line="109" column="16" />
+        <mark key="." line="109" column="16" />
+        <mark key="^" line="104" column="84" />
+      </file>
       <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/Main.java" timestamp="1476156527938">
         <mark key="[" line="405" column="12" />
       </file>
@@ -161,7 +175,7 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1478745188807">
+      <file name="/fragment.java" timestamp="1478756571039">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -175,41 +189,41 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNvb3QuKjsK</text>
+      <register name="1" type="4">
+        <text>hasTainted = true;
+                break;</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNvb3QuKjsK</text>
+      <register name="&quot;" type="4">
+        <text>hasTainted = true;
+                break;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNvb3QudG9vbGtpdHMuZ3JhcGguRXhjZXB0aW9uYWxVbml0R3JhcGg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXA7Cg==</text>
+      <register name="3" type="4">
+        <text>System.out.println(&quot;======================RUN==================&quot;);
+        doAnalysis();</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExpc3RlbmVyVHJhY2VyLkxpc3RlbmVyVHJhY2VyQW5hbHlzaXMgbGlzdGVuZXJUcmFjZXJBbmFseXNpczsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgdGhpcy5ldmVudExpc3RlbmVyICE9IG51bGw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNvb3QudG9vbGtpdHMuZ3JhcGguRXhjZXB0aW9uYWxVbml0R3JhcGg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2ZpbmRWaWV3VHJhY2VyID0gbmV3IEZpbmRWaWV3VHJhY2VyKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHNvb3QudG9vbGtpdHMuc2NhbGFyLkFycmF5U3BhcnNlU2V0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>import soot.toolkits.scalar.ForwardFlowAnalysis;
-
-import java.util.List;
-import java.util.Map;</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHNvb3QuKjsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHVibGljIGNsYXNzIERhdGFUcmFjZXIgZXh0ZW5kcyBCb2R5VHJhbnNmb3JtZXIgewogICAgQE92ZXJyaWRlCiAgICBwcm90ZWN0ZWQgdm9pZCBpbnRlcm5hbFRyYW5zZm9ybShCb2R5IGJvZHksIFN0cmluZyBwaGFzZU5hbWUsIE1hcDxTdHJpbmcsIFN0cmluZz4gb3B0aW9ucykgewogICAgICAgIG5ldyBEYXRhVHJhY2VyQW5hbHlzaXMobmV3IEV4Y2VwdGlvbmFsVW5pdEdyYXBoKGJvZHkpKTsKICAgICAgICAvLyB1c2UgRy52KCkub3V0IGluc3RlYWQgb2YgU3lzdGVtLm91dCBzbyB0aGF0IFNvb3QgY2FuCiAgICAgICAgLy8gcmVkaXJlY3QgdGhpcyBvdXRwdXQgdG8gdGhlIEVjbGlwc2UgY29uc29sZQogICAgICAgIEcudigpLm91dC5wcmludGxuKGJvZHkuZ2V0TWV0aG9kKCkpOwogICAgfQoKICAgIHB1YmxpYyBEYXRhVHJhY2VyKCkgewogICAgICAgIC8vVHJhbnNmb3JtIHRyYW5zZm9ybSA9IG5ldyBUcmFuc2Zvcm0oImp0cC5saXN0ZW5lclRyYWNrZXIiLCB0aGlzKTsKICAgICAgICAvL1BhY2tNYW5hZ2VyLnYoKS5nZXRQYWNrKCJqdHAiKS5hZGQodHJhbnNmb3JtKTsKICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgUGFja01hbmFnZXIudigpLmdldFBhY2soImp0cCIpCiAgICAgICAgICAgICAgICAuYWRkKG5ldyBUcmFuc2Zvcm0oImp0cC5saXN0ZW5lclRyYWNrZXIiLCBuZXcgRGF0YVRyYWNlcigpKSk7CiAgICAgICAgLy9QYWNrTWFuYWdlci52KCkucnVuUGFja3MoKTsKICAgICAgICBzb290Lk1haW4ubWFpbihhcmdzKTsKICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IHNvb3QudG9vbGtpdHMuZ3JhcGguRXhjZXB0aW9uYWxVbml0R3JhcGg7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Analysis</text>
+        <text>findViewById&quot;</text>
       </register>
     </registers>
     <search>
