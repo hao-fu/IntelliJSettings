@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/utils/soot/ApkPackerTest.java" timestamp="1477355676852">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/ListenerTracer.java" timestamp="1478745199822">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/utils/soot/ApkPackerTest.java" timestamp="1478742511536">
         <mark key="[" line="14" column="30" />
         <mark key="]" line="16" column="15" />
         <mark key="^" line="16" column="15" />
@@ -12,16 +17,28 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/AndroidView.java" timestamp="1476692073131">
         <mark key="[" line="158" column="60" />
       </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/ListenerTrackerTest.java" timestamp="1478742270522">
+        <mark key="[" line="32" column="37" />
+        <mark key="]" line="27" column="37" />
+        <mark key="^" line="27" column="37" />
+        <mark key="." line="27" column="37" />
+      </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/utils/soot/tt.java" timestamp="1478574544358">
         <mark key="[" line="47" column="16" />
         <mark key="]" line="26" column="28" />
         <mark key="^" line="26" column="28" />
         <mark key="." line="26" column="28" />
       </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/ListenerTracker.java" timestamp="1478741725384">
+        <mark key="[" line="23" column="43" />
+        <mark key="]" line="22" column="53" />
+        <mark key="^" line="22" column="53" />
+        <mark key="." line="22" column="53" />
+      </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/NameValueFunction.java" timestamp="1476082017149">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1477294911311">
+      <file name="/a.dummy" timestamp="1478743038915">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/jellybean_publishedapimapping_parsed.txt" timestamp="1476747387312">
@@ -48,7 +65,7 @@
         <mark key="]" line="58" column="8" />
         <mark key="." line="58" column="8" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1477361027108">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1478744500665">
         <mark key="[" line="265" column="35" />
         <mark key="]" line="265" column="0" />
         <mark key="." line="265" column="0" />
@@ -101,6 +118,12 @@
         <mark key="]" line="1" column="56" />
         <mark key="." line="1" column="56" />
       </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/ListenerTracerTest.java" timestamp="1478744822196">
+        <mark key="[" line="77" column="27" />
+        <mark key="]" line="77" column="27" />
+        <mark key="^" line="65" column="33" />
+        <mark key="." line="77" column="27" />
+      </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968666867">
         <mark key="[" line="33" column="32" />
       </file>
@@ -132,7 +155,7 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1477355402501">
+      <file name="/fragment.java" timestamp="1478745188807">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -145,38 +168,38 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZmlsZVBhdGggPSAiRDpcXCIgKyBmaWxlTmFtZSsiLnR4dCI7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGRvSXQoKSB7CiAgICAgICAgUGFja01hbmFnZXIudigpLnJ1blBhY2tzKCk7CiAgICB9</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZmlsZVBhdGggPSAiRDpcXCIgKyBmaWxlTmFtZSsiLnR4dCI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>D:\\workspace\\COSMOS_TRIGGER\\</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcganNvbiA9IGdzb24udG9Kc29uKGVudHJpZXMudmFsdWVzKCkpOwo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBzZXA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGRvZy5tc2coVEFHLCAianNvbjogIiArIGpzb24pOwo=</text>
+        <text encoding="base64">ICAgIFRhaW50Rm9yd2FyZEFuYWx5c2lzLlRhaW50Rm9yd2FyZFZhckFuYWx5c2lzIHRhOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZmlsZVBhdGggPSAiRDpcXCIgKyBmaWxlTmFtZSsiLnR4dCI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcganNvbiA9IGdzb24udG9Kc29uKGVudHJpZXMudmFsdWVzKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGRvZy5tc2coVEFHLCAianNvbjogIiArIGpzb24pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vUGFjayA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFyZy5lcXVhbHMoKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vID09PSBpbXBsZW1lbnRhdGlvbiBkZXRhaWxzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>D:\\workspace\\COSMOS_TRIGGER\\</text>
       </register>
     </registers>
     <search>
