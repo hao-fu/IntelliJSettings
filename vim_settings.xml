@@ -118,7 +118,7 @@
         <mark key="]" line="1" column="56" />
         <mark key="." line="1" column="56" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/ListenerTracerTest.java" timestamp="1478757273717">
+      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/ListenerTracerTest.java" timestamp="1478842128114">
         <mark key="'" line="180" column="31" />
         <mark key="[" line="47" column="92" />
         <mark key="]" line="50" column="39" />
@@ -128,16 +128,17 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968666867">
         <mark key="[" line="33" column="32" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FindViewTracer.java" timestamp="1478837829341">
-        <mark key="[" line="27" column="16" />
-        <mark key="]" line="27" column="16" />
-        <mark key="^" line="24" column="34" />
-        <mark key="." line="27" column="16" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FindViewTracer.java" timestamp="1478841706694">
+        <mark key="[" line="34" column="31" />
+        <mark key="]" line="34" column="13" />
+        <mark key="^" line="34" column="13" />
+        <mark key="." line="34" column="13" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/FindViewTracerTest.java" timestamp="1478756646502">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/FindViewTracerTest.java" timestamp="1478842111330">
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="64" column="34" />
+        <mark key="." line="64" column="34" />
+        <mark key="^" line="64" column="34" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/MethodUtils.java" timestamp="1478737690264">
         <mark key="[" line="299" column="31" />
@@ -190,7 +191,7 @@
         <text encoding="base64">Ly8gaWYgcmV0dXJuZWQgYnkgc291cmNlKCkKICAgICAgICAgICAgaWYgKCgoQXNzaWduU3RtdCkgdW5pdCkuY29udGFpbnNJbnZva2VFeHByKCkKICAgICAgICAgICAgICAgICAgICAmJiB1bml0LnRvU3RyaW5nKCkuY29udGFpbnMoImZpbmRWaWV3QnlJZCIpKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJmb3VuZCBTb3VyY2UhICIgKyB1bml0KTsKICAgICAgICAgICAgICAgIGFkZERlZkJveCh1bml0LCBvdXRTZXQpOwogICAgICAgICAgICAgICAgaGFzVGFpbnRlZCA9IHRydWU7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC8vIGlmIHggOj0geSwgd2hlcmUgeSBpcyB0YWludGVkCiAgICAgICAgICAgIGlmIChsZWZ0VGFpbnRlZEFzUmlnaHRUYWludGVkKHVuaXQsIGluU2V0LCBvdXRTZXQpKSB7CiAgICAgICAgICAgICAgICBoYXNUYWludGVkID0gdHJ1ZTsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Object stmt = (Object) (assignStmt;</text>
+        <text>etOnClickListener(android.view.View</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">aWYgKHVuaXQgaW5zdGFuY2VvZiBBc3NpZ25TdG10KSB7CiAgICAgICAgICAgIC8vIGlmIHJldHVybmVkIGJ5IHNvdXJjZSgpCiAgICAgICAgICAgIGlmICgoKEFzc2lnblN0bXQpIHVuaXQpLmNvbnRhaW5zSW52b2tlRXhwcigpCiAgICAgICAgICAgICAgICAgICAgJiYgdW5pdC50b1N0cmluZygpLmNvbnRhaW5zKCJmaW5kVmlld0J5SWQiKSkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgiZm91bmQgU291cmNlISAiICsgdW5pdCk7CiAgICAgICAgICAgICAgICBhZGREZWZCb3godW5pdCwgb3V0U2V0KTsKICAgICAgICAgICAgICAgIGhhc1RhaW50ZWQgPSB0cnVlOwogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyBpZiB4IDo9IHksIHdoZXJlIHkgaXMgdGFpbnRlZAogICAgICAgICAgICBpZiAobGVmdFRhaW50ZWRBc1JpZ2h0VGFpbnRlZCh1bml0LCBpblNldCwgb3V0U2V0KSkgewogICAgICAgICAgICAgICAgaGFzVGFpbnRlZCA9IHRydWU7CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
@@ -225,7 +226,7 @@
         <text encoding="base64">ICAgICAgICBGbG93U2V0IGluU2V0ID0gKEZsb3dTZXQpIGluLAogICAgICAgICAgICAgICAgb3V0U2V0ID0gKEZsb3dTZXQpIG91dDsKICAgICAgICBVbml0IHVuaXQgPSAoVW5pdCkgbm9kZTsKICAgICAgICBjb3B5KGluU2V0LCBvdXRTZXQpOw==</text>
       </register>
       <register name="-" type="4">
-        <text>Object stmt = (Object) (assignStmt;</text>
+        <text>etOnClickListener(android.view.View</text>
       </register>
     </registers>
     <search>
