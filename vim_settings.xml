@@ -39,11 +39,11 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/NameValueFunction.java" timestamp="1476082017149">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/DataBackwardTracer.java" timestamp="1478837702884">
-        <mark key="[" line="85" column="63" />
-        <mark key="]" line="61" column="22" />
-        <mark key="." line="61" column="22" />
-        <mark key="^" line="61" column="22" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/DataBackwardTracer.java" timestamp="1478842402420">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="58" column="22" />
       </file>
       <file name="/a.dummy" timestamp="1478763355651">
         <mark key="[" line="0" column="0" />
@@ -66,11 +66,11 @@
         <mark key="]" line="58" column="8" />
         <mark key="." line="58" column="8" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1478744500665">
-        <mark key="[" line="265" column="35" />
-        <mark key="]" line="265" column="0" />
-        <mark key="." line="265" column="0" />
-        <mark key="^" line="261" column="20" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1478843996653">
+        <mark key="[" line="118" column="29" />
+        <mark key="]" line="266" column="0" />
+        <mark key="." line="266" column="0" />
+        <mark key="^" line="262" column="20" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/DataTracer.java" timestamp="1478756257601">
         <mark key="[" line="95" column="5" />
@@ -107,7 +107,7 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1475967170686">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478764257221">
+      <file name="/Dummy.txt" timestamp="1478842183689">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -128,17 +128,17 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968666867">
         <mark key="[" line="33" column="32" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FindViewTracer.java" timestamp="1478841706694">
-        <mark key="[" line="34" column="31" />
-        <mark key="]" line="34" column="13" />
-        <mark key="^" line="34" column="13" />
-        <mark key="." line="34" column="13" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FindViewTracer.java" timestamp="1478845480880">
+        <mark key="[" line="43" column="28" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="56" />
+        <mark key="." line="36" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/FindViewTracerTest.java" timestamp="1478842111330">
-        <mark key="[" line="30" column="27" />
-        <mark key="]" line="64" column="34" />
-        <mark key="." line="64" column="34" />
-        <mark key="^" line="64" column="34" />
+      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/FindViewTracerTest.java" timestamp="1478844463798">
+        <mark key="[" line="65" column="43" />
+        <mark key="]" line="65" column="11" />
+        <mark key="." line="65" column="11" />
+        <mark key="^" line="65" column="11" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/MethodUtils.java" timestamp="1478737690264">
         <mark key="[" line="299" column="31" />
@@ -187,46 +187,38 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ly8gaWYgcmV0dXJuZWQgYnkgc291cmNlKCkKICAgICAgICAgICAgaWYgKCgoQXNzaWduU3RtdCkgdW5pdCkuY29udGFpbnNJbnZva2VFeHByKCkKICAgICAgICAgICAgICAgICAgICAmJiB1bml0LnRvU3RyaW5nKCkuY29udGFpbnMoImZpbmRWaWV3QnlJZCIpKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJmb3VuZCBTb3VyY2UhICIgKyB1bml0KTsKICAgICAgICAgICAgICAgIGFkZERlZkJveCh1bml0LCBvdXRTZXQpOwogICAgICAgICAgICAgICAgaGFzVGFpbnRlZCA9IHRydWU7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC8vIGlmIHggOj0geSwgd2hlcmUgeSBpcyB0YWludGVkCiAgICAgICAgICAgIGlmIChsZWZ0VGFpbnRlZEFzUmlnaHRUYWludGVkKHVuaXQsIGluU2V0LCBvdXRTZXQpKSB7CiAgICAgICAgICAgICAgICBoYXNUYWludGVkID0gdHJ1ZTsKICAgICAgICAgICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSW52b2tlRXhwciBpbnZva2VFeHByID0gc3RtdC5nZXRJbnZva2VFeHByKCk7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>etOnClickListener(android.view.View</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSW52b2tlRXhwciBpbnZva2VFeHByID0gc3RtdC5nZXRJbnZva2VFeHByKCk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">aWYgKHVuaXQgaW5zdGFuY2VvZiBBc3NpZ25TdG10KSB7CiAgICAgICAgICAgIC8vIGlmIHJldHVybmVkIGJ5IHNvdXJjZSgpCiAgICAgICAgICAgIGlmICgoKEFzc2lnblN0bXQpIHVuaXQpLmNvbnRhaW5zSW52b2tlRXhwcigpCiAgICAgICAgICAgICAgICAgICAgJiYgdW5pdC50b1N0cmluZygpLmNvbnRhaW5zKCJmaW5kVmlld0J5SWQiKSkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgiZm91bmQgU291cmNlISAiICsgdW5pdCk7CiAgICAgICAgICAgICAgICBhZGREZWZCb3godW5pdCwgb3V0U2V0KTsKICAgICAgICAgICAgICAgIGhhc1RhaW50ZWQgPSB0cnVlOwogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyBpZiB4IDo9IHksIHdoZXJlIHkgaXMgdGFpbnRlZAogICAgICAgICAgICBpZiAobGVmdFRhaW50ZWRBc1JpZ2h0VGFpbnRlZCh1bml0LCBpblNldCwgb3V0U2V0KSkgewogICAgICAgICAgICAgICAgaGFzVGFpbnRlZCA9IHRydWU7CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCh1bml0ICsgIjogIiArIHVuaXQuZ2V0VGFncygpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGhhc1RhaW50ZWQgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJhYTogIiArIHNldEV2ZW50SGFuZGxlcik7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text encoding="base64">aW50IGxpbmVOdW0gPSAoKExpbmVOdW1iZXJUYWcpIHNldEV2ZW50SGFuZGxlci5nZXRUYWcoIkxpbmVOdW1iZXJUYWciKSkuZ2V0TGluZU51bWJlcigpOwogICAgICAgIGZvciAoVW5pdCB1bml0IDogZXhjZXB0aW9uYWxVbml0R3JhcGgpIHsKICAgICAgICAgICAgTGluZU51bWJlclRhZyB0YWcgPSAoTGluZU51bWJlclRhZykKICAgICAgICAgICAgICAgICAgICB1bml0LmdldFRhZygiTGluZU51bWJlclRhZyIpOwogICAgICAgICAgICBpZih0YWcgIT0gbnVsbCl7CiAgICAgICAgICAgICAgICBpZiAodGFnLmdldExpbmVOdW1iZXIoKSA9PSBsaW5lTnVtICYmIHVuaXQudG9TdHJpbmcoKS5lcXVhbHMoc2V0RXZlbnRIYW5kbGVyLnRvU3RyaW5nKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJGb3VuZCAiICsgdW5pdCk7CiAgICAgICAgICAgICAgICAgICAgdGhpcy5zZXRFdmVudEhhbmRsZXIgPSB1bml0OwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
       </register>
       <register name="5" type="4">
-        <text>for (ValueBox valueBox : unit.getDefBoxes()) {
-            Value value = valueBox.getValue();
-           if (value instanceof Local) {
-               Local local = (Local) value;
-               out.remove(local);
-           }
-       }</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVuaXQgPT0gc2V0RXZlbnRIYW5kbGVyKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRm91bmQgU3JjKCkgYXQgIiArIHVuaXQpOwogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="6" type="4">
-        <text>if (unit instanceof AssignStmt) {
-
-        }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0YWcuZ2V0TGluZU51bWJlcigpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaGFzVGFpbnRlZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNpY0tpbGwoKFVuaXQpbm9kZSwgKEZsb3dTZXQpb3V0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBGbG93U2V0IGluU2V0ID0gKEZsb3dTZXQpIGluLAogICAgICAgICAgICAgICAgb3V0U2V0ID0gKEZsb3dTZXQpIG91dDsKICAgICAgICBVbml0IHVuaXQgPSAoVW5pdCkgbm9kZTsKICAgICAgICBjb3B5KGluU2V0LCBvdXRTZXQpOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxuTGluZSBudW1iZXIgZm9yIFVuaXQ6Iit1bml0KyIgOiIrdGFnLmdldExpbmVOdW1iZXIoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>etOnClickListener(android.view.View</text>
+        <text>tag.getLineNumber();</text>
       </register>
     </registers>
     <search>
