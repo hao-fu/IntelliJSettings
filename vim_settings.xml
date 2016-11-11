@@ -39,11 +39,11 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/NameValueFunction.java" timestamp="1476082017149">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/DataBackwardTracer.java" timestamp="1478833183154">
-        <mark key="[" line="74" column="7" />
-        <mark key="]" line="59" column="22" />
-        <mark key="." line="59" column="22" />
-        <mark key="^" line="59" column="22" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/DataBackwardTracer.java" timestamp="1478837702884">
+        <mark key="[" line="85" column="63" />
+        <mark key="]" line="61" column="22" />
+        <mark key="." line="61" column="22" />
+        <mark key="^" line="61" column="22" />
       </file>
       <file name="/a.dummy" timestamp="1478763355651">
         <mark key="[" line="0" column="0" />
@@ -128,8 +128,11 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968666867">
         <mark key="[" line="33" column="32" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FindViewTracer.java" timestamp="1478762592921">
-        <mark key="[" line="37" column="11" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FindViewTracer.java" timestamp="1478837829341">
+        <mark key="[" line="27" column="16" />
+        <mark key="]" line="27" column="16" />
+        <mark key="^" line="24" column="34" />
+        <mark key="." line="27" column="16" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/FindViewTracerTest.java" timestamp="1478756646502">
         <mark key="[" line="21" column="0" />
@@ -153,7 +156,7 @@
         <mark key="." line="295" column="0" />
         <mark key="^" line="81" column="55" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/DataForwardTracer.java" timestamp="1478830382653">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/DataForwardTracer.java" timestamp="1478837930577">
         <mark key="[" line="70" column="5" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
@@ -184,38 +187,45 @@
         <text>e</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">aWYgKHN0bXQgPT0gdWlTZXRFdmVudEhhbmRsZXIpIHsKICAgICAgICAgICAgLy8gZ2VuOiBzb3VyY2UKICAgICAgICAgICAgLy8gc2hvdWxkIHVzZSA9PSByYXRoZXIgdGhhbiBlcXVhbHMKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJCOiBmb3VuZCBzb3VyY2UhIik7CiAgICAgICAgICAgIEludm9rZUV4cHIgaWUgPSBzdG10LmdldEludm9rZUV4cHIoKTsKICAgICAgICAgICAgVmFsdWUgaW5zdGFuY2UgPSAoKEluc3RhbmNlSW52b2tlRXhwcikgaWUpLmdldEJhc2UoKTsKICAgICAgICAgICAgb3V0U2V0LmFkZChpbnN0YW5jZSk7CiAgICAgICAgfSBlbHNlIGlmIChzdG10IGluc3RhbmNlb2YgQXNzaWduU3RtdAogICAgICAgICAgICAgICAgJiYgKHN0bXQudG9TdHJpbmcoKS5jb250YWlucygiZmluZFZpZXciKQogICAgICAgICAgICAgICAgfHwgc3RtdC50b1N0cmluZygpLmNvbnRhaW5zKCJmaW5kSXRlbSIpKSkgewogICAgICAgICAgICAvLyBraWxsOiBzaW5rCiAgICAgICAgICAgIGlmIChpblNldC5jb250YWlucygoKEFzc2lnblN0bXQpIHN0bXQpLmdldExlZnRPcCgpKSkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJCOiBmb3VuZCB2aWV3IGlkIHN0bXQiKTsKICAgICAgICAgICAgICAgIGlkcy5hZGQoc3RtdCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgb3V0U2V0LnJlbW92ZSgoKEFzc2lnblN0bXQpc3RtdCkuZ2V0TGVmdE9wKCkpOwogICAgICAgIH0gZWxzZSBpZiAoc3RtdCBpbnN0YW5jZW9mIEFzc2lnblN0bXQKICAgICAgICAgICAgICAgICYmIGluU2V0LmNvbnRhaW5zKCgoQXNzaWduU3RtdCkgc3RtdCkuZ2V0TGVmdE9wKCkpKSB7CiAgICAgICAgICAgIG91dFNldC5yZW1vdmUoKChBc3NpZ25TdG10KSBzdG10KS5nZXRMZWZ0T3AoKSk7CiAgICAgICAgICAgIGlmIChzdG10LmNvbnRhaW5zSW52b2tlRXhwcigpKSB7CiAgICAgICAgICAgICAgICBJbnZva2VFeHByIGllID0gc3RtdC5nZXRJbnZva2VFeHByKCk7CiAgICAgICAgICAgICAgICBvdXRTZXQuYWRkKGllLmdldEFyZygwKSk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBmb3IgKFZhbHVlQm94IGJveCA6ICgoQXNzaWduU3RtdCkgc3RtdCkuZ2V0UmlnaHRPcCgpCiAgICAgICAgICAgICAgICAgICAgICAgIC5nZXRVc2VCb3hlcygpKSB7CiAgICAgICAgICAgICAgICAgICAgb3V0U2V0LmFkZChib3guZ2V0VmFsdWUoKSk7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJCOiAiICsgYm94LmdldFZhbHVlKCkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
+        <text encoding="base64">Ly8gaWYgcmV0dXJuZWQgYnkgc291cmNlKCkKICAgICAgICAgICAgaWYgKCgoQXNzaWduU3RtdCkgdW5pdCkuY29udGFpbnNJbnZva2VFeHByKCkKICAgICAgICAgICAgICAgICAgICAmJiB1bml0LnRvU3RyaW5nKCkuY29udGFpbnMoImZpbmRWaWV3QnlJZCIpKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJmb3VuZCBTb3VyY2UhICIgKyB1bml0KTsKICAgICAgICAgICAgICAgIGFkZERlZkJveCh1bml0LCBvdXRTZXQpOwogICAgICAgICAgICAgICAgaGFzVGFpbnRlZCA9IHRydWU7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC8vIGlmIHggOj0geSwgd2hlcmUgeSBpcyB0YWludGVkCiAgICAgICAgICAgIGlmIChsZWZ0VGFpbnRlZEFzUmlnaHRUYWludGVkKHVuaXQsIGluU2V0LCBvdXRTZXQpKSB7CiAgICAgICAgICAgICAgICBoYXNUYWludGVkID0gdHJ1ZTsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">aWYgKHN0bXQgPT0gdWlTZXRFdmVudEhhbmRsZXIpIHsKICAgICAgICAgICAgLy8gZ2VuOiBzb3VyY2UKICAgICAgICAgICAgLy8gc2hvdWxkIHVzZSA9PSByYXRoZXIgdGhhbiBlcXVhbHMKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJCOiBmb3VuZCBzb3VyY2UhIik7CiAgICAgICAgICAgIEludm9rZUV4cHIgaWUgPSBzdG10LmdldEludm9rZUV4cHIoKTsKICAgICAgICAgICAgVmFsdWUgaW5zdGFuY2UgPSAoKEluc3RhbmNlSW52b2tlRXhwcikgaWUpLmdldEJhc2UoKTsKICAgICAgICAgICAgb3V0U2V0LmFkZChpbnN0YW5jZSk7CiAgICAgICAgfSBlbHNlIGlmIChzdG10IGluc3RhbmNlb2YgQXNzaWduU3RtdAogICAgICAgICAgICAgICAgJiYgKHN0bXQudG9TdHJpbmcoKS5jb250YWlucygiZmluZFZpZXciKQogICAgICAgICAgICAgICAgfHwgc3RtdC50b1N0cmluZygpLmNvbnRhaW5zKCJmaW5kSXRlbSIpKSkgewogICAgICAgICAgICAvLyBraWxsOiBzaW5rCiAgICAgICAgICAgIGlmIChpblNldC5jb250YWlucygoKEFzc2lnblN0bXQpIHN0bXQpLmdldExlZnRPcCgpKSkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJCOiBmb3VuZCB2aWV3IGlkIHN0bXQiKTsKICAgICAgICAgICAgICAgIGlkcy5hZGQoc3RtdCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgb3V0U2V0LnJlbW92ZSgoKEFzc2lnblN0bXQpc3RtdCkuZ2V0TGVmdE9wKCkpOwogICAgICAgIH0gZWxzZSBpZiAoc3RtdCBpbnN0YW5jZW9mIEFzc2lnblN0bXQKICAgICAgICAgICAgICAgICYmIGluU2V0LmNvbnRhaW5zKCgoQXNzaWduU3RtdCkgc3RtdCkuZ2V0TGVmdE9wKCkpKSB7CiAgICAgICAgICAgIG91dFNldC5yZW1vdmUoKChBc3NpZ25TdG10KSBzdG10KS5nZXRMZWZ0T3AoKSk7CiAgICAgICAgICAgIGlmIChzdG10LmNvbnRhaW5zSW52b2tlRXhwcigpKSB7CiAgICAgICAgICAgICAgICBJbnZva2VFeHByIGllID0gc3RtdC5nZXRJbnZva2VFeHByKCk7CiAgICAgICAgICAgICAgICBvdXRTZXQuYWRkKGllLmdldEFyZygwKSk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBmb3IgKFZhbHVlQm94IGJveCA6ICgoQXNzaWduU3RtdCkgc3RtdCkuZ2V0UmlnaHRPcCgpCiAgICAgICAgICAgICAgICAgICAgICAgIC5nZXRVc2VCb3hlcygpKSB7CiAgICAgICAgICAgICAgICAgICAgb3V0U2V0LmFkZChib3guZ2V0VmFsdWUoKSk7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJCOiAiICsgYm94LmdldFZhbHVlKCkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
+        <text>Object stmt = (Object) (assignStmt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgKHVuaXQgaW5zdGFuY2VvZiBBc3NpZ25TdG10KSB7CiAgICAgICAgICAgIC8vIGlmIHJldHVybmVkIGJ5IHNvdXJjZSgpCiAgICAgICAgICAgIGlmICgoKEFzc2lnblN0bXQpIHVuaXQpLmNvbnRhaW5zSW52b2tlRXhwcigpCiAgICAgICAgICAgICAgICAgICAgJiYgdW5pdC50b1N0cmluZygpLmNvbnRhaW5zKCJmaW5kVmlld0J5SWQiKSkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgiZm91bmQgU291cmNlISAiICsgdW5pdCk7CiAgICAgICAgICAgICAgICBhZGREZWZCb3godW5pdCwgb3V0U2V0KTsKICAgICAgICAgICAgICAgIGhhc1RhaW50ZWQgPSB0cnVlOwogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyBpZiB4IDo9IHksIHdoZXJlIHkgaXMgdGFpbnRlZAogICAgICAgICAgICBpZiAobGVmdFRhaW50ZWRBc1JpZ2h0VGFpbnRlZCh1bml0LCBpblNldCwgb3V0U2V0KSkgewogICAgICAgICAgICAgICAgaGFzVGFpbnRlZCA9IHRydWU7CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoU2V0Owo=</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGhhc1RhaW50ZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNvb3QuamltcGxlLmludGVybmFsLkltbWVkaWF0ZUJveDsK</text>
-      </register>
-      <register name="6" type="4">
-        <text>import soot.Value;
-import soot.ValueBox;</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="4">
+        <text>for (ValueBox valueBox : unit.getDefBoxes()) {
+            Value value = valueBox.getValue();
+           if (value instanceof Local) {
+               Local local = (Local) value;
+               out.remove(local);
+           }
+       }</text>
+      </register>
+      <register name="6" type="4">
+        <text>if (unit instanceof AssignStmt) {
+
+        }</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaGFzVGFpbnRlZDsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVjaygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBiYXNpY0tpbGwoKFVuaXQpbm9kZSwgKEZsb3dTZXQpb3V0KTsK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">dHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGludCBpZCA9IEludGVnZXIucGFyc2VJbnQodmFsdWUudG9TdHJpbmcoKSk7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFjYWxsZXJzLmNvbnRhaW5zS2V5KGlkKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhbGxlcnMucHV0KGlkLCBuZXcgSGFzaFNldDw+KCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhbGxlcnMuZ2V0KGlkKS5hZGQoc3JjTWV0aG9kKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoTnVtYmVyRm9ybWF0RXhjZXB0aW9uIGUpIHsKCiAgICAgICAgICAgICAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">ICAgICAgICBGbG93U2V0IGluU2V0ID0gKEZsb3dTZXQpIGluLAogICAgICAgICAgICAgICAgb3V0U2V0ID0gKEZsb3dTZXQpIG91dDsKICAgICAgICBVbml0IHVuaXQgPSAoVW5pdCkgbm9kZTsKICAgICAgICBjb3B5KGluU2V0LCBvdXRTZXQpOw==</text>
       </register>
       <register name="-" type="4">
-        <text>EventListenerTracer: t</text>
+        <text>Object stmt = (Object) (assignStmt;</text>
       </register>
     </registers>
     <search>
