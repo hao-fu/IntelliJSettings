@@ -39,7 +39,7 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/NameValueFunction.java" timestamp="1476082017149">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/DataBackwardTracer.java" timestamp="1478842402420">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/DataBackwardTracer.java" timestamp="1478850025518">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -128,11 +128,11 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968666867">
         <mark key="[" line="33" column="32" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FindViewTracer.java" timestamp="1478848551464">
-        <mark key="[" line="35" column="40" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="36" column="17" />
-        <mark key="." line="36" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FindViewTracer.java" timestamp="1478850059616">
+        <mark key="[" line="67" column="8" />
+        <mark key="]" line="67" column="8" />
+        <mark key="^" line="37" column="21" />
+        <mark key="." line="67" column="8" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/FindViewTracerTest.java" timestamp="1478844463798">
         <mark key="[" line="65" column="43" />
@@ -187,35 +187,67 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RtdC5nCg==</text>
+      <register name="1" type="4">
+        <text>Stmt stmt = (Stmt) unit;
+
+        if (unit instanceof AssignStmt) {
+            AssignStmt assignStmt = (AssignStmt) unit;
+            Local local = (Local) assignStmt.getLeftOp();
+
+            if (assignStmt.getLeftOp() instanceof Local) {
+                if (out.contains(local)) {
+                    out.remove(local);
+                }
+            }
+        }
+        
+        // Invocations terminate propagation
+        if (!stmt.containsInvokeExpr()) {
+            return;
+        }</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RtdC5nCg==</text>
+      <register name="&quot;" type="4">
+        <text>Stmt stmt = (Stmt) unit;
+
+        if (unit instanceof AssignStmt) {
+            AssignStmt assignStmt = (AssignStmt) unit;
+            Local local = (Local) assignStmt.getLeftOp();
+
+            if (assignStmt.getLeftOp() instanceof Local) {
+                if (out.contains(local)) {
+                    out.remove(local);
+                }
+            }
+        }
+        
+        // Invocations terminate propagation
+        if (!stmt.containsInvokeExpr()) {
+            return;
+        }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW52b2tlRXhwciBpbnZva2VFeHByID0gc3RtdC5nZXRJbnZva2VFeHByKCk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChWYWx1ZSBib3ggOiBpbnZva2VFeHByLmdldFVzZUJveGVzKCkpIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihib3gpOwogICAgICAgICAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCh1bml0ICsgIjogIiArIHVuaXQuZ2V0VGFncygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW52b2tlRXhwcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJhYTogIiArIHNldEV2ZW50SGFuZGxlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RtdC5nCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">aW50IGxpbmVOdW0gPSAoKExpbmVOdW1iZXJUYWcpIHNldEV2ZW50SGFuZGxlci5nZXRUYWcoIkxpbmVOdW1iZXJUYWciKSkuZ2V0TGluZU51bWJlcigpOwogICAgICAgIGZvciAoVW5pdCB1bml0IDogZXhjZXB0aW9uYWxVbml0R3JhcGgpIHsKICAgICAgICAgICAgTGluZU51bWJlclRhZyB0YWcgPSAoTGluZU51bWJlclRhZykKICAgICAgICAgICAgICAgICAgICB1bml0LmdldFRhZygiTGluZU51bWJlclRhZyIpOwogICAgICAgICAgICBpZih0YWcgIT0gbnVsbCl7CiAgICAgICAgICAgICAgICBpZiAodGFnLmdldExpbmVOdW1iZXIoKSA9PSBsaW5lTnVtICYmIHVuaXQudG9TdHJpbmcoKS5lcXVhbHMoc2V0RXZlbnRIYW5kbGVyLnRvU3RyaW5nKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJGb3VuZCAiICsgdW5pdCk7CiAgICAgICAgICAgICAgICAgICAgdGhpcy5zZXRFdmVudEhhbmRsZXIgPSB1bml0OwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSW52b2tlRXhwciBpbnZva2VFeHByID0gc3RtdC5nZXRJbnZva2VFeHByKCk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVuaXQgPT0gc2V0RXZlbnRIYW5kbGVyKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRm91bmQgU3JjKCkgYXQgIiArIHVuaXQpOwogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCh1bml0ICsgIjogIiArIHVuaXQuZ2V0VGFncygpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0YWcuZ2V0TGluZU51bWJlcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJhYTogIiArIHNldEV2ZW50SGFuZGxlcik7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">aW50IGxpbmVOdW0gPSAoKExpbmVOdW1iZXJUYWcpIHNldEV2ZW50SGFuZGxlci5nZXRUYWcoIkxpbmVOdW1iZXJUYWciKSkuZ2V0TGluZU51bWJlcigpOwogICAgICAgIGZvciAoVW5pdCB1bml0IDogZXhjZXB0aW9uYWxVbml0R3JhcGgpIHsKICAgICAgICAgICAgTGluZU51bWJlclRhZyB0YWcgPSAoTGluZU51bWJlclRhZykKICAgICAgICAgICAgICAgICAgICB1bml0LmdldFRhZygiTGluZU51bWJlclRhZyIpOwogICAgICAgICAgICBpZih0YWcgIT0gbnVsbCl7CiAgICAgICAgICAgICAgICBpZiAodGFnLmdldExpbmVOdW1iZXIoKSA9PSBsaW5lTnVtICYmIHVuaXQudG9TdHJpbmcoKS5lcXVhbHMoc2V0RXZlbnRIYW5kbGVyLnRvU3RyaW5nKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJGb3VuZCAiICsgdW5pdCk7CiAgICAgICAgICAgICAgICAgICAgdGhpcy5zZXRFdmVudEhhbmRsZXIgPSB1bml0OwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVuaXQgPT0gc2V0RXZlbnRIYW5kbGVyKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRm91bmQgU3JjKCkgYXQgIiArIHVuaXQpOwogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="-" type="4">
         <text>tag.getLineNumber();</text>
