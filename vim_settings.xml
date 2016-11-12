@@ -15,7 +15,7 @@
         <mark key="^" line="16" column="15" />
         <mark key="." line="16" column="15" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/AndroidView.java" timestamp="1476692073131">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/AndroidView.java" timestamp="1478931930732">
         <mark key="[" line="158" column="60" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/ListenerTrackerTest.java" timestamp="1478742270522">
@@ -67,10 +67,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1478923730021">
-        <mark key="[" line="336" column="44" />
-        <mark key="]" line="325" column="8" />
-        <mark key="." line="325" column="8" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1478932281408">
+        <mark key="[" line="343" column="39" />
+        <mark key="]" line="347" column="92" />
+        <mark key="." line="347" column="92" />
+        <mark key="^" line="347" column="92" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1478843996653">
         <mark key="[" line="118" column="29" />
@@ -113,7 +114,8 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1475967170686">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478923785202">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DecompiledXMLParser.java" timestamp="1478932088072" />
+      <file name="/Dummy.txt" timestamp="1478931338986">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -157,11 +159,11 @@
         <mark key="]" line="130" column="52" />
         <mark key="." line="130" column="52" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1478921172823">
-        <mark key="[" line="253" column="11" />
-        <mark key="]" line="311" column="0" />
-        <mark key="." line="311" column="0" />
-        <mark key="^" line="83" column="55" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1478932143284">
+        <mark key="[" line="75" column="37" />
+        <mark key="]" line="75" column="36" />
+        <mark key="." line="75" column="36" />
+        <mark key="^" line="75" column="36" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/DataForwardTracer.java" timestamp="1478837930577">
         <mark key="[" line="70" column="5" />
@@ -194,53 +196,37 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdmlld0lkczsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ueG1sLmludGVybmFsLndzLmNsaWVudC5zZWkuUmVzcG9uc2VCdWlsZGVyOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ueG1sLmludGVybmFsLndzLmNsaWVudC5zZWkuUmVzcG9uc2VCdWlsZGVyOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaXN0ZW5lclRyYWNlcgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">cHVibGljIFNldDxJbnRlZ2VyPiBnZXRWaWV3SWRzKCkgewogICAgICAgICAgICByZXR1cm4gdmlld0lkczsKICAgICAgICB9</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IC8qCiAgICAgICAgLy8gR2V0IHRoZSBjYWxsZXJzIG9mIHRoZSBjb25zdHJ1Y3RvciBvZiB0aGUgZXZlbnQgbGlzdGVuZXIKICAgICAgICBMaXN0PFNvb3RNZXRob2Q+IGxpc3RlbmVyQ29uc3RydWN0b3JzID0gTWV0aG9kVXRpbHMuZ2V0Q29uc3RydWN0b3JzKGV2ZW50TGlzdGVuZXIpOwogICAgICAgIGZvciAoU29vdE1ldGhvZCBsaXN0ZW5lckNvbnN0cnVjdG9yIDogbGlzdGVuZXJDb25zdHJ1Y3RvcnMpIHsKICAgICAgICAgICAgU2V0PFNvb3RNZXRob2Q+IGNvbnN0cnVjdG9yQ2FsbGVycyA9IE1ldGhvZFV0aWxzLmdldENhbGxlcnNPZihsaXN0ZW5lckNvbnN0cnVjdG9yKTsKICAgICAgICAgICAgTG9nLm1zZyhUQUcsICJMaXN0Q2FsbGVyczogIiArIGNvbnN0cnVjdG9yQ2FsbGVycyk7CiAgICAgICAgICAgIGZvciAoU29vdE1ldGhvZCBjYWxsZXIgOiBjb25zdHJ1Y3RvckNhbGxlcnMpIHsKICAgICAgICAgICAgICAgIGNhbGxlci5yZXRyaWV2ZUFjdGl2ZUJvZHkoKTsKICAgICAgICAgICAgICAgIGlmIChjYWxsZXIuaGFzQWN0aXZlQm9keSgpICYmICFjYWxsZXIuZ2V0U3ViU2lnbmF0dXJlKCkuY29udGFpbnMoImR1bW15IikpIHsKICAgICAgICAgICAgICAgICAgICBCb2R5IGJvZHkgPSBjYWxsZXIuZ2V0QWN0aXZlQm9keSgpOwogICAgICAgICAgICAgICAgICAgIGZvciAoVW5pdCB1bml0IDogYm9keS5nZXRVbml0cygpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIExvZy5tc2coVEFHLCB1bml0KTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9Ki8=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmlld0lkcyA9IG5ldyBIYXNoU2V0PD4oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8SW50ZWdlcj4gdmlld0lkczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdmlld0lkczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FsbGVycy5nZXQoaWQpLmFkZChzcmNNZXRob2QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaXN0ZW5lclRyYWNlcgo=</text>
       </register>
       <register name="7" type="4">
-        <text>Stmt stmt = (Stmt) unit;
-
-        if (unit instanceof AssignStmt) {
-            AssignStmt assignStmt = (AssignStmt) unit;
-            Local local = (Local) assignStmt.getLeftOp();
-
-            if (assignStmt.getLeftOp() instanceof Local) {
-                if (out.contains(local)) {
-                    out.remove(local);
-                }
-            }
-        }
-        
-        // Invocations terminate propagation
-        if (!stmt.containsInvokeExpr()) {
-            return;
-        }</text>
+        <text encoding="base64">IC8qCiAgICAgICAgLy8gR2V0IHRoZSBjYWxsZXJzIG9mIHRoZSBjb25zdHJ1Y3RvciBvZiB0aGUgZXZlbnQgbGlzdGVuZXIKICAgICAgICBMaXN0PFNvb3RNZXRob2Q+IGxpc3RlbmVyQ29uc3RydWN0b3JzID0gTWV0aG9kVXRpbHMuZ2V0Q29uc3RydWN0b3JzKGV2ZW50TGlzdGVuZXIpOwogICAgICAgIGZvciAoU29vdE1ldGhvZCBsaXN0ZW5lckNvbnN0cnVjdG9yIDogbGlzdGVuZXJDb25zdHJ1Y3RvcnMpIHsKICAgICAgICAgICAgU2V0PFNvb3RNZXRob2Q+IGNvbnN0cnVjdG9yQ2FsbGVycyA9IE1ldGhvZFV0aWxzLmdldENhbGxlcnNPZihsaXN0ZW5lckNvbnN0cnVjdG9yKTsKICAgICAgICAgICAgTG9nLm1zZyhUQUcsICJMaXN0Q2FsbGVyczogIiArIGNvbnN0cnVjdG9yQ2FsbGVycyk7CiAgICAgICAgICAgIGZvciAoU29vdE1ldGhvZCBjYWxsZXIgOiBjb25zdHJ1Y3RvckNhbGxlcnMpIHsKICAgICAgICAgICAgICAgIGNhbGxlci5yZXRyaWV2ZUFjdGl2ZUJvZHkoKTsKICAgICAgICAgICAgICAgIGlmIChjYWxsZXIuaGFzQWN0aXZlQm9keSgpICYmICFjYWxsZXIuZ2V0U3ViU2lnbmF0dXJlKCkuY29udGFpbnMoImR1bW15IikpIHsKICAgICAgICAgICAgICAgICAgICBCb2R5IGJvZHkgPSBjYWxsZXIuZ2V0QWN0aXZlQm9keSgpOwogICAgICAgICAgICAgICAgICAgIGZvciAoVW5pdCB1bml0IDogYm9keS5nZXRVbml0cygpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIExvZy5tc2coVEFHLCB1bml0KTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9Ki8=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChWYWx1ZSBib3ggOiBpbnZva2VFeHByLmdldFVzZUJveGVzKCkpIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihib3gpOwogICAgICAgICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW52b2tlRXhwcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">TWFwPFN0cmluZywg</text>
       </register>
     </registers>
     <search>
