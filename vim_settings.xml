@@ -107,7 +107,7 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1475967170686">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478842183689">
+      <file name="/Dummy.txt" timestamp="1478850339020">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -128,11 +128,11 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968666867">
         <mark key="[" line="33" column="32" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FindViewTracer.java" timestamp="1478850059616">
-        <mark key="[" line="67" column="8" />
-        <mark key="]" line="67" column="8" />
-        <mark key="^" line="37" column="21" />
-        <mark key="." line="67" column="8" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FindViewTracer.java" timestamp="1478917848377">
+        <mark key="[" line="73" column="44" />
+        <mark key="]" line="73" column="15" />
+        <mark key="^" line="73" column="15" />
+        <mark key="." line="73" column="15" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/FindViewTracerTest.java" timestamp="1478844463798">
         <mark key="[" line="65" column="43" />
@@ -207,23 +207,7 @@
         }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Stmt stmt = (Stmt) unit;
-
-        if (unit instanceof AssignStmt) {
-            AssignStmt assignStmt = (AssignStmt) unit;
-            Local local = (Local) assignStmt.getLeftOp();
-
-            if (assignStmt.getLeftOp() instanceof Local) {
-                if (out.contains(local)) {
-                    out.remove(local);
-                }
-            }
-        }
-        
-        // Invocations terminate propagation
-        if (!stmt.containsInvokeExpr()) {
-            return;
-        }</text>
+        <text>DataBackwardTracer and</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIChWYWx1ZSBib3ggOiBpbnZva2VFeHByLmdldFVzZUJveGVzKCkpIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihib3gpOwogICAgICAgICAgICB9</text>
@@ -250,7 +234,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHVuaXQgPT0gc2V0RXZlbnRIYW5kbGVyKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRm91bmQgU3JjKCkgYXQgIiArIHVuaXQpOwogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text>tag.getLineNumber();</text>
+        <text>DataBackwardTracer and</text>
       </register>
     </registers>
     <search>
