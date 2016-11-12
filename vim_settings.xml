@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/ListenerTracer.java" timestamp="1478821223449">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="84" column="23" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/ListenerTracer.java" timestamp="1478919962009">
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="94" column="23" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/utils/soot/ApkPackerTest.java" timestamp="1478742511536">
         <mark key="[" line="14" column="30" />
@@ -56,15 +56,21 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Test.java" timestamp="1476757822894">
         <mark key="[" line="12" column="69" />
       </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/ClassUtils.java" timestamp="1478922266060">
+        <mark key="'" line="112" column="59" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DefaultXMLParser.java" timestamp="1475966954226">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1478763460728">
-        <mark key="[" line="325" column="5" />
-        <mark key="]" line="58" column="8" />
-        <mark key="." line="58" column="8" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1478922582294">
+        <mark key="[" line="336" column="44" />
+        <mark key="]" line="325" column="8" />
+        <mark key="." line="325" column="8" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1478843996653">
         <mark key="[" line="118" column="29" />
@@ -118,9 +124,9 @@
         <mark key="]" line="1" column="56" />
         <mark key="." line="1" column="56" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/ListenerTracerTest.java" timestamp="1478842128114">
-        <mark key="'" line="180" column="31" />
-        <mark key="[" line="47" column="92" />
+      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/ListenerTracerTest.java" timestamp="1478920518092">
+        <mark key="'" line="181" column="31" />
+        <mark key="[" line="65" column="41" />
         <mark key="]" line="50" column="39" />
         <mark key="." line="50" column="39" />
         <mark key="^" line="50" column="39" />
@@ -134,13 +140,13 @@
         <mark key="^" line="93" column="41" />
         <mark key="." line="92" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/FindViewTracerTest.java" timestamp="1478844463798">
+      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/FindViewTracerTest.java" timestamp="1478919812512">
         <mark key="[" line="65" column="43" />
         <mark key="]" line="65" column="11" />
         <mark key="." line="65" column="11" />
         <mark key="^" line="65" column="11" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/MethodUtils.java" timestamp="1478737690264">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/MethodUtils.java" timestamp="1478922301586">
         <mark key="[" line="299" column="31" />
         <mark key="]" line="303" column="31" />
         <mark key="^" line="303" column="31" />
@@ -151,11 +157,11 @@
         <mark key="]" line="130" column="52" />
         <mark key="." line="130" column="52" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1478918579154">
-        <mark key="[" line="247" column="11" />
-        <mark key="]" line="305" column="0" />
-        <mark key="." line="305" column="0" />
-        <mark key="^" line="81" column="55" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1478921172823">
+        <mark key="[" line="253" column="11" />
+        <mark key="]" line="311" column="0" />
+        <mark key="." line="311" column="0" />
+        <mark key="^" line="83" column="55" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/DataForwardTracer.java" timestamp="1478837930577">
         <mark key="[" line="70" column="5" />
@@ -188,15 +194,27 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdmlld0lkczsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Fix</text>
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FsbGVycy5nZXQoaWQpLmFkZChzcmNNZXRob2QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaXN0ZW5lclRyYWNlcgo=</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">IC8qCiAgICAgICAgLy8gR2V0IHRoZSBjYWxsZXJzIG9mIHRoZSBjb25zdHJ1Y3RvciBvZiB0aGUgZXZlbnQgbGlzdGVuZXIKICAgICAgICBMaXN0PFNvb3RNZXRob2Q+IGxpc3RlbmVyQ29uc3RydWN0b3JzID0gTWV0aG9kVXRpbHMuZ2V0Q29uc3RydWN0b3JzKGV2ZW50TGlzdGVuZXIpOwogICAgICAgIGZvciAoU29vdE1ldGhvZCBsaXN0ZW5lckNvbnN0cnVjdG9yIDogbGlzdGVuZXJDb25zdHJ1Y3RvcnMpIHsKICAgICAgICAgICAgU2V0PFNvb3RNZXRob2Q+IGNvbnN0cnVjdG9yQ2FsbGVycyA9IE1ldGhvZFV0aWxzLmdldENhbGxlcnNPZihsaXN0ZW5lckNvbnN0cnVjdG9yKTsKICAgICAgICAgICAgTG9nLm1zZyhUQUcsICJMaXN0Q2FsbGVyczogIiArIGNvbnN0cnVjdG9yQ2FsbGVycyk7CiAgICAgICAgICAgIGZvciAoU29vdE1ldGhvZCBjYWxsZXIgOiBjb25zdHJ1Y3RvckNhbGxlcnMpIHsKICAgICAgICAgICAgICAgIGNhbGxlci5yZXRyaWV2ZUFjdGl2ZUJvZHkoKTsKICAgICAgICAgICAgICAgIGlmIChjYWxsZXIuaGFzQWN0aXZlQm9keSgpICYmICFjYWxsZXIuZ2V0U3ViU2lnbmF0dXJlKCkuY29udGFpbnMoImR1bW15IikpIHsKICAgICAgICAgICAgICAgICAgICBCb2R5IGJvZHkgPSBjYWxsZXIuZ2V0QWN0aXZlQm9keSgpOwogICAgICAgICAgICAgICAgICAgIGZvciAoVW5pdCB1bml0IDogYm9keS5nZXRVbml0cygpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIExvZy5tc2coVEFHLCB1bml0KTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9Ki8=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAqCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FsbGVycy5nZXQoaWQpLmFkZChzcmNNZXRob2QpOwo=</text>
+      </register>
+      <register name="7" type="4">
         <text>Stmt stmt = (Stmt) unit;
 
         if (unit instanceof AssignStmt) {
@@ -215,26 +233,14 @@
             return;
         }</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIChWYWx1ZSBib3ggOiBpbnZva2VFeHByLmdldFVzZUJveGVzKCkpIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihib3gpOwogICAgICAgICAgICB9</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW52b2tlRXhwcgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RtdC5nCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW52b2tlRXhwciBpbnZva2VFeHByID0gc3RtdC5nZXRJbnZva2VFeHByKCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCh1bml0ICsgIjogIiArIHVuaXQuZ2V0VGFncygpKTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJhYTogIiArIHNldEV2ZW50SGFuZGxlcik7Cg==</text>
-      </register>
       <register name="-" type="4">
-        <text>Fix</text>
+        <text />
       </register>
     </registers>
     <search>
