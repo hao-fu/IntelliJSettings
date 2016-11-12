@@ -107,7 +107,7 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1475967170686">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478850339020">
+      <file name="/Dummy.txt" timestamp="1478919046870">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -128,11 +128,11 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968666867">
         <mark key="[" line="33" column="32" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FindViewTracer.java" timestamp="1478917848377">
-        <mark key="[" line="73" column="44" />
-        <mark key="]" line="73" column="15" />
-        <mark key="^" line="73" column="15" />
-        <mark key="." line="73" column="15" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FindViewTracer.java" timestamp="1478918880616">
+        <mark key="[" line="98" column="5" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="93" column="41" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/FindViewTracerTest.java" timestamp="1478844463798">
         <mark key="[" line="65" column="43" />
@@ -151,10 +151,10 @@
         <mark key="]" line="130" column="52" />
         <mark key="." line="130" column="52" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1478763520591">
-        <mark key="[" line="295" column="0" />
-        <mark key="]" line="295" column="0" />
-        <mark key="." line="295" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1478918579154">
+        <mark key="[" line="247" column="11" />
+        <mark key="]" line="305" column="0" />
+        <mark key="." line="305" column="0" />
         <mark key="^" line="81" column="55" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/DataForwardTracer.java" timestamp="1478837930577">
@@ -180,14 +180,23 @@
     <jumps>
       <jump line="917" column="12" filename="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DecompiledXMLParser.java" />
       <jump line="92" column="59" filename="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/ClassUtils.java" />
-      <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="88" column="31" filename="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/ListenerTracerTest.java" />
+      <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>Fix</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FsbGVycy5nZXQoaWQpLmFkZChzcmNNZXRob2QpOwo=</text>
+      </register>
+      <register name="3" type="4">
         <text>Stmt stmt = (Stmt) unit;
 
         if (unit instanceof AssignStmt) {
@@ -206,35 +215,26 @@
             return;
         }</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>DataBackwardTracer and</text>
-      </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIChWYWx1ZSBib3ggOiBpbnZva2VFeHByLmdldFVzZUJveGVzKCkpIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihib3gpOwogICAgICAgICAgICB9</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW52b2tlRXhwcgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RtdC5nCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSW52b2tlRXhwciBpbnZva2VFeHByID0gc3RtdC5nZXRJbnZva2VFeHByKCk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCh1bml0ICsgIjogIiArIHVuaXQuZ2V0VGFncygpKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJhYTogIiArIHNldEV2ZW50SGFuZGxlcik7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">aW50IGxpbmVOdW0gPSAoKExpbmVOdW1iZXJUYWcpIHNldEV2ZW50SGFuZGxlci5nZXRUYWcoIkxpbmVOdW1iZXJUYWciKSkuZ2V0TGluZU51bWJlcigpOwogICAgICAgIGZvciAoVW5pdCB1bml0IDogZXhjZXB0aW9uYWxVbml0R3JhcGgpIHsKICAgICAgICAgICAgTGluZU51bWJlclRhZyB0YWcgPSAoTGluZU51bWJlclRhZykKICAgICAgICAgICAgICAgICAgICB1bml0LmdldFRhZygiTGluZU51bWJlclRhZyIpOwogICAgICAgICAgICBpZih0YWcgIT0gbnVsbCl7CiAgICAgICAgICAgICAgICBpZiAodGFnLmdldExpbmVOdW1iZXIoKSA9PSBsaW5lTnVtICYmIHVuaXQudG9TdHJpbmcoKS5lcXVhbHMoc2V0RXZlbnRIYW5kbGVyLnRvU3RyaW5nKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJGb3VuZCAiICsgdW5pdCk7CiAgICAgICAgICAgICAgICAgICAgdGhpcy5zZXRFdmVudEhhbmRsZXIgPSB1bml0OwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVuaXQgPT0gc2V0RXZlbnRIYW5kbGVyKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRm91bmQgU3JjKCkgYXQgIiArIHVuaXQpOwogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0=</text>
-      </register>
       <register name="-" type="4">
-        <text>DataBackwardTracer and</text>
+        <text>Fix</text>
       </register>
     </registers>
     <search>
