@@ -116,11 +116,11 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DecompiledXMLParser.java" timestamp="1479003323254">
         <mark key="[" line="1209" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478932336964">
+      <file name="/Dummy.txt" timestamp="1479003492810">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/MissedCallbacks.txt" timestamp="1476221464654">
         <mark key="[" line="1" column="56" />
@@ -199,8 +199,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2cubXNnKFRBRywgImludElkOiAiICsgaW50SWQpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2cubXNnKFRBRywgImludElkOiAiICsgaW50SWQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>output by reorganizing View ids</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZy5tc2coVEFHLCAiTmFtZSAiICsgZW50cnkuZ2V0TmFtZSgpKTsK</text>
@@ -227,7 +227,7 @@
         <text encoding="base64">cHVibGljIFNldDxJbnRlZ2VyPiBnZXRWaWV3SWRzKCkgewogICAgICAgICAgICByZXR1cm4gdmlld0lkczsKICAgICAgICB9</text>
       </register>
       <register name="-" type="4">
-        <text>getSignature()</text>
+        <text>output by reorganizing View ids</text>
       </register>
     </registers>
     <search>
