@@ -59,10 +59,10 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1479161777064">
-        <mark key="[" line="376" column="33" />
-        <mark key="]" line="377" column="0" />
-        <mark key="." line="377" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1479166688510">
+        <mark key="[" line="202" column="46" />
+        <mark key="]" line="202" column="0" />
+        <mark key="." line="202" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1478843996653">
         <mark key="[" line="118" column="29" />
@@ -173,30 +173,33 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy53YXJuKFRBRywgZS5nZXRNZXNzYWdlKCkgKyAiQCIgKyBlLmcpOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy53YXJuKFRBRywgZS5nZXRNZXNzYWdlKCkgKyAiQCIgKyBlLmcpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChJbnRlZ2VyIGludElkIDogaW50SWRzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2V0PEludGVnZXI+IGludElkcyA9IGRlY29tcGlsZWRYTUxQYXJzZXIuZ2V0SW52Q2FsbGJhY2tzWE1MKCkuZ2V0KGVudHJ5LmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChJbnRlZ2VyIGludElkIDogaW50SWRzKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVjb21waWxlZFhNTFBhcnNlciBkZWNvbXBpbGVkWE1MUGFyc2VyID0gRGVjb21waWxlZFhNTFBhcnNlci52KCk7ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2V0PEludGVnZXI+IGludElkcyA9IGRlY29tcGlsZWRYTUxQYXJzZXIuZ2V0SW52Q2FsbGJhY2tzWE1MKCkuZ2V0KGVudHJ5LmdldE5hbWUoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRGVjb21waWxlZFhNTFBhcnNlciBkZWNvbXBpbGVkWE1MUGFyc2VyID0gRGVjb21waWxlZFhNTFBhcnNlci52KCk7ZGQK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">aWYgKHRyaWdnZXJPdXRwdXQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoZGVjb21waWxlZFhNTFBhcnNlci5nZXRJbnZDYWxsYmFja3NYTUwoKS5jb250YWluc0tleShlbnRyeS5nZXROYW1lKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBNYXA8SW50ZWdlciwgU3RyaW5nPiB2aWV3SWRzID0gdHJpZ2dlck91dHB1dC5nZXRTZW5zRW50cmllcygpLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnZXQoZW50cnkuZ2V0U2lnbmF0dXJlKCkpLmdldFZpZXdJZHMoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNldDxJbnRlZ2VyPiBpbnRJZHMgPSBkZWNvbXBpbGVkWE1MUGFyc2VyLmdldEludkNhbGxiYWNrc1hNTCgpLmdldChlbnRyeS5nZXROYW1lKCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChJbnRlZ2VyIGludElkIDogaW50SWRzKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmlld0lkcy5wdXQoaW50SWQsIERlY29tcGlsZWRYTUxQYXJzZXIudigpLmdldEFwcGxpY2F0aW9uUklkTmFtZShpbnRJZCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBJZiB0aGUgCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>JsonParser parser = new JsonParser();
 
 
@@ -209,9 +212,6 @@
 
 
         }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNvbk9iamVjdC5nZXQK</text>
       </register>
       <register name="-" type="4">
         <text>TriggerOutput triggerOutput =</text>
