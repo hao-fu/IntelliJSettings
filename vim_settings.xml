@@ -59,11 +59,11 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1479169616768">
-        <mark key="[" line="442" column="11" />
-        <mark key="]" line="448" column="15" />
-        <mark key="." line="448" column="15" />
-        <mark key="^" line="448" column="15" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1479197601042">
+        <mark key="[" line="120" column="67" />
+        <mark key="]" line="120" column="67" />
+        <mark key="." line="120" column="67" />
+        <mark key="^" line="391" column="15" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1478843996653">
         <mark key="[" line="118" column="29" />
@@ -77,7 +77,7 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/OsUtils.java" timestamp="1477294858441">
         <mark key="[" line="27" column="5" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Settings.java" timestamp="1479023185352">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Settings.java" timestamp="1479196768942">
         <mark key="[" line="80" column="28" />
         <mark key="]" line="80" column="15" />
         <mark key="." line="80" column="15" />
@@ -146,13 +146,15 @@
         <mark key="]" line="27" column="8" />
         <mark key="." line="27" column="8" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Log.java" timestamp="1477023370595">
-        <mark key="[" line="45" column="52" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Log.java" timestamp="1479197568777">
+        <mark key="[" line="60" column="44" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Test.java" timestamp="1479005188575">
-        <mark key="[" line="25" column="23" />
-        <mark key="]" line="25" column="23" />
-        <mark key="." line="25" column="23" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Test.java" timestamp="1479195763909">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/MainTestQKSMS.java" timestamp="1479172277978">
         <mark key="[" line="25" column="24" />
@@ -183,39 +185,37 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dERpciArIGFwa05hbWUgKyAiX2Z1Lmhhby50ZXN0Y29uZHJvaWQuQWN0aXZpdHkyLmpzb24iKTsK</text>
+        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJDcmVhdGUgZGlyICIgKyBmaWxlKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dERpciArIGFwa05hbWUgKyAiX2Z1Lmhhby50ZXN0Y29uZHJvaWQuQWN0aXZpdHkyLmpzb24iKTsK</text>
+      <register name="&quot;" type="4">
+        <text>// To prevent error in Windows..</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cmlnZ2VyT3V0cHV0ID0gTWFpbi5qc29uMlRyaWdnZXJPdXRwdXQoCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAvKgogICAgcHJpdmF0ZSBzdGF0aWMgdm9pZCBhZGRJbnRvVGd0QWN0aXZpdHkoU29vdENsYXNzIHNvb3RDbGFzcywgU29vdE1ldGhvZCB0YXJnZXQpIHsKICAgICAgICBpZiAoIXRhcmdldEFjdGl2aXRpZXMuY29udGFpbnNLZXkoc29vdENsYXNzKSkgewogICAgICAgICAgICB0YXJnZXRBY3Rpdml0aWVzLnB1dChzb290Q2xhc3MsIG5ldyBIYXNoU2V0PD4oKSk7CiAgICAgICAgfQoKICAgICAgICBTZXQ8U29vdE1ldGhvZD4gbWFwcGVkVGd0cyA9IHRhcmdldEFjdGl2aXRpZXMuZ2V0KHNvb3RDbGFzcyk7CiAgICAgICAgbWFwcGVkVGd0cy5hZGQodGFyZ2V0KTsKICAgICAgICBMb2cubXNnKFRBRywgIlN1YiBUYXJnZXQ6OiAiICsgdGFyZ2V0LmdldFN1YlNpZ25hdHVyZSgpKTsKICAgIH0qLw==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICB0cmlnZ2VyT3V0cHV0ID0gTWFpbi5qc29uMlRyaWdnZXJPdXRwdXQoCiAgICAgICAgICAgICAgICBvdXRwdXREaXIgKyBhcGtOYW1lICsgIl9mdS5oYW8udGVzdGNvbmRyb2lkLkFjdGl2aXR5Mi5qc29uIik7</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvL2FyZ3VzWzBdID0gIkQ6L3dvcmtzcGFjZS9xa3Ntcy9RS1NNUy9RS1NNUy1ub0FuYWx5dGljcy1kZWJ1Zy5hcGsiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dERpciArICJUZXN0V2l0aEFkLmFwa19mdS5oYW8udGVzdGNvbmRyb2lkLkFjdGl2aXR5Mi5qc29uIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2FyZ3VzWzBdID0gIkQ6L3dvcmtzcGFjZS9UZXN0Q29uRHJvaWQvYXBwL2FwcC1yZWxlYXNlLmFwayI7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>for (String sensEntry : triggerOutput.getSensEntries().keySet()) {
-
-        }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhcmd1c1swXSA9ICJEOlxcd29ya3NwYWNlXFxUZXN0XFxhcHAvYXBwLXJlbGVhc2UuYXBrIjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odHJpZ2dlck91dHB1dC5nZXRTZW5zRW50cmllcygpKTsgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dERpciArIGFwa05hbWUgKyAiX2Z1Lmhhby50ZXN0Y29uZHJvaWQuQWN0aXZpdHkyLmpzb24iKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9jYWwgbG9jYWwgPSAoTG9jYWwpIGFzc2lnblN0bXQuZ2V0TGVmdE9wKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cmlnZ2VyT3V0cHV0ID0gTWFpbi5qc29uMlRyaWdnZXJPdXRwdXQoCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy53YXJuKFRBRywgZS5nZXRNZXNzYWdlKCkgKyAiQCIgKyBlLmcpOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICB0cmlnZ2VyT3V0cHV0ID0gTWFpbi5qc29uMlRyaWdnZXJPdXRwdXQoCiAgICAgICAgICAgICAgICBvdXRwdXREaXIgKyBhcGtOYW1lICsgIl9mdS5oYW8udGVzdGNvbmRyb2lkLkFjdGl2aXR5Mi5qc29uIik7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dERpciArICJUZXN0V2l0aEFkLmFwa19mdS5oYW8udGVzdGNvbmRyb2lkLkFjdGl2aXR5Mi5qc29uIik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U2Vuc0VudHJ5RmluZGVyLlRyaWdnZXJPdXRwdXQuU2Vuc0VudHJ5UG9pbnQg</text>
+        <text>// To prevent error in Windows..</text>
       </register>
     </registers>
     <search>
