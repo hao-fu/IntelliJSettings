@@ -59,10 +59,11 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1479166688510">
-        <mark key="[" line="202" column="46" />
-        <mark key="]" line="202" column="0" />
-        <mark key="." line="202" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1479169616768">
+        <mark key="[" line="442" column="11" />
+        <mark key="]" line="448" column="15" />
+        <mark key="." line="448" column="15" />
+        <mark key="^" line="448" column="15" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1478843996653">
         <mark key="[" line="118" column="29" />
@@ -140,7 +141,7 @@
       <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/Main.java" timestamp="1476156527938">
         <mark key="[" line="405" column="12" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/utils/OSUtilsTest.java" timestamp="1479023759303">
+      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/utils/OSUtilsTest.java" timestamp="1479169358931">
         <mark key="[" line="27" column="8" />
         <mark key="]" line="27" column="8" />
         <mark key="." line="27" column="8" />
@@ -153,11 +154,16 @@
         <mark key="]" line="25" column="23" />
         <mark key="." line="25" column="23" />
       </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/MainTestQKSMS.java" timestamp="1479169135599">
+        <mark key="[" line="24" column="24" />
+      </file>
       <file name="/fragment.java" timestamp="1479161715625">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/MainTestAd.java" timestamp="1479161780799">
-        <mark key="[" line="12" column="25" />
+      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/MainTestAd.java" timestamp="1479169703727">
+        <mark key="[" line="26" column="54" />
+        <mark key="]" line="26" column="54" />
+        <mark key="." line="26" column="54" />
       </file>
     </filemarks>
     <jumps>
@@ -171,37 +177,37 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9jYWwgbG9jYWwgPSAoTG9jYWwpIGFzc2lnblN0bXQuZ2V0TGVmdE9wKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odHJpZ2dlck91dHB1dC5nZXRTZW5zRW50cmllcygpKTsgCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9jYWwgbG9jYWwgPSAoTG9jYWwpIGFzc2lnblN0bXQuZ2V0TGVmdE9wKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>fu.hao.cosmos.analysis.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy53YXJuKFRBRywgZS5nZXRNZXNzYWdlKCkgKyAiQCIgKyBlLmcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9jYWwgbG9jYWwgPSAoTG9jYWwpIGFzc2lnblN0bXQuZ2V0TGVmdE9wKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy53YXJuKFRBRywgZS5nZXRNZXNzYWdlKCkgKyAiQCIgKyBlLmcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChJbnRlZ2VyIGludElkIDogaW50SWRzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2V0PEludGVnZXI+IGludElkcyA9IGRlY29tcGlsZWRYTUxQYXJzZXIuZ2V0SW52Q2FsbGJhY2tzWE1MKCkuZ2V0KGVudHJ5LmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChJbnRlZ2VyIGludElkIDogaW50SWRzKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVjb21waWxlZFhNTFBhcnNlciBkZWNvbXBpbGVkWE1MUGFyc2VyID0gRGVjb21waWxlZFhNTFBhcnNlci52KCk7ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2V0PEludGVnZXI+IGludElkcyA9IGRlY29tcGlsZWRYTUxQYXJzZXIuZ2V0SW52Q2FsbGJhY2tzWE1MKCkuZ2V0KGVudHJ5LmdldE5hbWUoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRGVjb21waWxlZFhNTFBhcnNlciBkZWNvbXBpbGVkWE1MUGFyc2VyID0gRGVjb21waWxlZFhNTFBhcnNlci52KCk7ZGQK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">aWYgKHRyaWdnZXJPdXRwdXQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoZGVjb21waWxlZFhNTFBhcnNlci5nZXRJbnZDYWxsYmFja3NYTUwoKS5jb250YWluc0tleShlbnRyeS5nZXROYW1lKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBNYXA8SW50ZWdlciwgU3RyaW5nPiB2aWV3SWRzID0gdHJpZ2dlck91dHB1dC5nZXRTZW5zRW50cmllcygpLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnZXQoZW50cnkuZ2V0U2lnbmF0dXJlKCkpLmdldFZpZXdJZHMoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNldDxJbnRlZ2VyPiBpbnRJZHMgPSBkZWNvbXBpbGVkWE1MUGFyc2VyLmdldEludkNhbGxiYWNrc1hNTCgpLmdldChlbnRyeS5nZXROYW1lKCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChJbnRlZ2VyIGludElkIDogaW50SWRzKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmlld0lkcy5wdXQoaW50SWQsIERlY29tcGlsZWRYTUxQYXJzZXIudigpLmdldEFwcGxpY2F0aW9uUklkTmFtZShpbnRJZCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBJZiB0aGUgCg==</text>
-      </register>
       <register name="-" type="4">
-        <text>TriggerOutput triggerOutput =</text>
+        <text>fu.hao.cosmos.analysis.</text>
       </register>
     </registers>
     <search>
