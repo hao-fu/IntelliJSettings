@@ -110,11 +110,9 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968666867">
         <mark key="[" line="33" column="32" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FindViewTracer.java" timestamp="1478918880616">
-        <mark key="[" line="98" column="5" />
-        <mark key="]" line="92" column="0" />
-        <mark key="^" line="93" column="41" />
-        <mark key="." line="92" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FindViewTracer.java" timestamp="1479167548603">
+        <mark key="[" line="61" column="58" />
+        <mark key="^" line="92" column="41" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/FindViewTracerTest.java" timestamp="1479005384537">
         <mark key="[" line="31" column="28" />
@@ -173,45 +171,34 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy53YXJuKFRBRywgZS5nZXRNZXNzYWdlKCkgKyAiQCIgKyBlLmcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9jYWwgbG9jYWwgPSAoTG9jYWwpIGFzc2lnblN0bXQuZ2V0TGVmdE9wKCk7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy53YXJuKFRBRywgZS5nZXRNZXNzYWdlKCkgKyAiQCIgKyBlLmcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9jYWwgbG9jYWwgPSAoTG9jYWwpIGFzc2lnblN0bXQuZ2V0TGVmdE9wKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy53YXJuKFRBRywgZS5nZXRNZXNzYWdlKCkgKyAiQCIgKyBlLmcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChJbnRlZ2VyIGludElkIDogaW50SWRzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2V0PEludGVnZXI+IGludElkcyA9IGRlY29tcGlsZWRYTUxQYXJzZXIuZ2V0SW52Q2FsbGJhY2tzWE1MKCkuZ2V0KGVudHJ5LmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChJbnRlZ2VyIGludElkIDogaW50SWRzKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVjb21waWxlZFhNTFBhcnNlciBkZWNvbXBpbGVkWE1MUGFyc2VyID0gRGVjb21waWxlZFhNTFBhcnNlci52KCk7ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2V0PEludGVnZXI+IGludElkcyA9IGRlY29tcGlsZWRYTUxQYXJzZXIuZ2V0SW52Q2FsbGJhY2tzWE1MKCkuZ2V0KGVudHJ5LmdldE5hbWUoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRGVjb21waWxlZFhNTFBhcnNlciBkZWNvbXBpbGVkWE1MUGFyc2VyID0gRGVjb21waWxlZFhNTFBhcnNlci52KCk7ZGQK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">aWYgKHRyaWdnZXJPdXRwdXQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoZGVjb21waWxlZFhNTFBhcnNlci5nZXRJbnZDYWxsYmFja3NYTUwoKS5jb250YWluc0tleShlbnRyeS5nZXROYW1lKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBNYXA8SW50ZWdlciwgU3RyaW5nPiB2aWV3SWRzID0gdHJpZ2dlck91dHB1dC5nZXRTZW5zRW50cmllcygpLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnZXQoZW50cnkuZ2V0U2lnbmF0dXJlKCkpLmdldFZpZXdJZHMoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNldDxJbnRlZ2VyPiBpbnRJZHMgPSBkZWNvbXBpbGVkWE1MUGFyc2VyLmdldEludkNhbGxiYWNrc1hNTCgpLmdldChlbnRyeS5nZXROYW1lKCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChJbnRlZ2VyIGludElkIDogaW50SWRzKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmlld0lkcy5wdXQoaW50SWQsIERlY29tcGlsZWRYTUxQYXJzZXIudigpLmdldEFwcGxpY2F0aW9uUklkTmFtZShpbnRJZCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBJZiB0aGUgCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>JsonParser parser = new JsonParser();
-
-
-
-        JsonElement jsonTree = parser.parse(jsonLine);
-
-        if(jsonTree.isJsonObject()){
-            JsonObject jsonObject = jsonTree.getAsJsonObject();
-            System.out.println(jsonObject);
-
-
-        }</text>
       </register>
       <register name="-" type="4">
         <text>TriggerOutput triggerOutput =</text>
