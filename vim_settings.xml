@@ -132,11 +132,11 @@
         <mark key="." line="162" column="22" />
         <mark key="^" line="162" column="22" />
       </file>
-      <file name="D:/workspace/backstage-master/src/test/java/st/cs/uni/saarland/de/testApps/TestAppTest.java" timestamp="1481164554769">
-        <mark key="[" line="32" column="41" />
-        <mark key="]" line="32" column="6" />
-        <mark key="." line="32" column="6" />
-        <mark key="^" line="32" column="6" />
+      <file name="D:/workspace/backstage-master/src/test/java/st/cs/uni/saarland/de/testApps/TestAppTest.java" timestamp="1481177631387">
+        <mark key="[" line="19" column="71" />
+        <mark key="]" line="44" column="50" />
+        <mark key="." line="44" column="50" />
+        <mark key="^" line="44" column="50" />
       </file>
       <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/Main.java" timestamp="1476156527938">
         <mark key="[" line="405" column="12" />
@@ -189,7 +189,7 @@
         <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJDcmVhdGUgZGlyICIgKyBmaWxlKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>-apk &quot; + apkFile + &quot; -androidJar $ANDROID_JAR</text>
+        <text>QKSMS-noAnalytics</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAvKgogICAgcHJpdmF0ZSBzdGF0aWMgdm9pZCBhZGRJbnRvVGd0QWN0aXZpdHkoU29vdENsYXNzIHNvb3RDbGFzcywgU29vdE1ldGhvZCB0YXJnZXQpIHsKICAgICAgICBpZiAoIXRhcmdldEFjdGl2aXRpZXMuY29udGFpbnNLZXkoc29vdENsYXNzKSkgewogICAgICAgICAgICB0YXJnZXRBY3Rpdml0aWVzLnB1dChzb290Q2xhc3MsIG5ldyBIYXNoU2V0PD4oKSk7CiAgICAgICAgfQoKICAgICAgICBTZXQ8U29vdE1ldGhvZD4gbWFwcGVkVGd0cyA9IHRhcmdldEFjdGl2aXRpZXMuZ2V0KHNvb3RDbGFzcyk7CiAgICAgICAgbWFwcGVkVGd0cy5hZGQodGFyZ2V0KTsKICAgICAgICBMb2cubXNnKFRBRywgIlN1YiBUYXJnZXQ6OiAiICsgdGFyZ2V0LmdldFN1YlNpZ25hdHVyZSgpKTsKICAgIH0qLw==</text>
@@ -216,7 +216,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dERpciArICJUZXN0V2l0aEFkLmFwa19mdS5oYW8udGVzdGNvbmRyb2lkLkFjdGl2aXR5Mi5qc29uIik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>-apk &quot; + apkFile + &quot; -androidJar $ANDROID_JAR</text>
+        <text>QKSMS-noAnalytics</text>
       </register>
     </registers>
     <search>
