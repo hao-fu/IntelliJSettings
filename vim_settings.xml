@@ -50,6 +50,7 @@
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
+      <file name="D:/workspace/backstage-master/src/main/java/st/cs/uni/saarland/de/testApps/TestApp.java" timestamp="1481163732872" />
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Test.java" timestamp="1476757822894">
         <mark key="[" line="12" column="69" />
       </file>
@@ -95,18 +96,11 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DecompiledXMLParser.java" timestamp="1479092600731">
         <mark key="[" line="38" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479336334607">
+      <file name="/Dummy.txt" timestamp="1481163197770">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
-      </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/ListenerTracerTest.java" timestamp="1479004398446">
-        <mark key="'" line="181" column="31" />
-        <mark key="[" line="29" column="28" />
-        <mark key="]" line="50" column="39" />
-        <mark key="." line="50" column="39" />
-        <mark key="^" line="50" column="39" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968666867">
         <mark key="[" line="33" column="32" />
@@ -138,6 +132,12 @@
         <mark key="." line="162" column="22" />
         <mark key="^" line="162" column="22" />
       </file>
+      <file name="D:/workspace/backstage-master/src/test/java/st/cs/uni/saarland/de/testApps/TestAppTest.java" timestamp="1481164554769">
+        <mark key="[" line="32" column="41" />
+        <mark key="]" line="32" column="6" />
+        <mark key="." line="32" column="6" />
+        <mark key="^" line="32" column="6" />
+      </file>
       <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/Main.java" timestamp="1476156527938">
         <mark key="[" line="405" column="12" />
       </file>
@@ -165,7 +165,7 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1479161715625">
+      <file name="/fragment.java" timestamp="1481163026095">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/MainTestAd.java" timestamp="1479171698681">
@@ -189,7 +189,7 @@
         <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJDcmVhdGUgZGlyICIgKyBmaWxlKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>// To prevent error in Windows..</text>
+        <text>-apk &quot; + apkFile + &quot; -androidJar $ANDROID_JAR</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAvKgogICAgcHJpdmF0ZSBzdGF0aWMgdm9pZCBhZGRJbnRvVGd0QWN0aXZpdHkoU29vdENsYXNzIHNvb3RDbGFzcywgU29vdE1ldGhvZCB0YXJnZXQpIHsKICAgICAgICBpZiAoIXRhcmdldEFjdGl2aXRpZXMuY29udGFpbnNLZXkoc29vdENsYXNzKSkgewogICAgICAgICAgICB0YXJnZXRBY3Rpdml0aWVzLnB1dChzb290Q2xhc3MsIG5ldyBIYXNoU2V0PD4oKSk7CiAgICAgICAgfQoKICAgICAgICBTZXQ8U29vdE1ldGhvZD4gbWFwcGVkVGd0cyA9IHRhcmdldEFjdGl2aXRpZXMuZ2V0KHNvb3RDbGFzcyk7CiAgICAgICAgbWFwcGVkVGd0cy5hZGQodGFyZ2V0KTsKICAgICAgICBMb2cubXNnKFRBRywgIlN1YiBUYXJnZXQ6OiAiICsgdGFyZ2V0LmdldFN1YlNpZ25hdHVyZSgpKTsKICAgIH0qLw==</text>
@@ -216,7 +216,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dERpciArICJUZXN0V2l0aEFkLmFwa19mdS5oYW8udGVzdGNvbmRyb2lkLkFjdGl2aXR5Mi5qc29uIik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>// To prevent error in Windows..</text>
+        <text>-apk &quot; + apkFile + &quot; -androidJar $ANDROID_JAR</text>
       </register>
     </registers>
     <search>
