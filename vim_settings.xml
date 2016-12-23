@@ -59,11 +59,11 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1482461275858">
-        <mark key="[" line="202" column="73" />
-        <mark key="]" line="423" column="36" />
-        <mark key="." line="423" column="36" />
-        <mark key="^" line="423" column="36" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1482464228573">
+        <mark key="[" line="369" column="39" />
+        <mark key="]" line="369" column="39" />
+        <mark key="." line="369" column="39" />
+        <mark key="^" line="466" column="36" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1480053755815">
         <mark key="[" line="118" column="29" />
@@ -106,8 +106,10 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DecompiledXMLParser.java" timestamp="1479092600731">
-        <mark key="[" line="38" column="35" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DecompiledXMLParser.java" timestamp="1482464507196">
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="0" />
+        <mark key="." line="174" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1481217995319">
         <mark key="'" line="0" column="0" />
@@ -139,11 +141,10 @@
         <mark key="^" line="303" column="31" />
         <mark key="." line="303" column="31" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1482461193648">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1482463365729">
         <mark key="[" line="66" column="39" />
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
-        <mark key="^" line="225" column="34" />
       </file>
       <file name="D:/workspace/backstage-master/src/test/java/st/cs/uni/saarland/de/testApps/TestAppTest.java" timestamp="1481178641687">
         <mark key="[" line="19" column="71" />
@@ -198,38 +199,46 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0TGF5b3V0UklkTmFtZShJbnRlZ2VyIHZhbHVlKSB7CiAgICAgICAgcmV0dXJuIGludlJMYXlvdXRNYXAuZ2V0KHZhbHVlKTsKICAgIH0=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0TGF5b3V0UklkTmFtZShJbnRlZ2VyIHZhbHVlKSB7CiAgICAgICAgcmV0dXJuIGludlJMYXlvdXRNYXAuZ2V0KHZhbHVlKTsKICAgIH0=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">SXRlcmF0b3I8RWRnZT4gaXRlcmF0b3IgPSBjZy5lZGdlc091dE9mKG9uQ3JlYXRlKTsKICAgICAgICAgICAgICAgIHdoaWxlIChpdGVyYXRvci5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgICAgICAgICBFZGdlIGVkZ2UgPSBpdGVyYXRvci5uZXh0KCk7CiAgICAgICAgICAgICAgICAgICAgZWRnZS5nCiAgICAgICAgICAgICAgICAgICAgU29vdE1ldGhvZCBzb290TWV0aG9kID0gZWRnZS5nZXRUZ3QoKS5tZXRob2QoKTsKICAgICAgICAgICAgICAgICAgICBpZiAoc29vdE1ldGhvZC5nZXROYW1lKCkuZXF1YWxzKCJzZXRDb250ZW50VmlldyIpKSB7CgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH07</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzWzJdID0gIkQ6XFx3b3Jrc3BhY2VcXGJhY2tzdGFnZS1tYXN0ZXJcXG91dHB1dFxccmVzIjsK</text>
+      <register name="3" type="4">
+        <text>if (stmt instanceof AssignStmt) {
+                    AssignStmt assignStmt = (AssignStmt)stmt;
+                    Value assigned = assignStmt.getLeftOp();
+                    System.out.println(assignStmt + &quot;: &quot; + assigned);
+
+                    JimpleLocal local = new JimpleLocal(&quot;$x5&quot;, assigned.getType());
+                    assignStmt.setLeftOp(local);
+                    System.out.println(assignStmt + &quot;: &quot; + local);
+                }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJDcmVhdGUgZGlyICIgKyBmaWxlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAvKgogICAgcHJpdmF0ZSBzdGF0aWMgdm9pZCBhZGRJbnRvVGd0QWN0aXZpdHkoU29vdENsYXNzIHNvb3RDbGFzcywgU29vdE1ldGhvZCB0YXJnZXQpIHsKICAgICAgICBpZiAoIXRhcmdldEFjdGl2aXRpZXMuY29udGFpbnNLZXkoc29vdENsYXNzKSkgewogICAgICAgICAgICB0YXJnZXRBY3Rpdml0aWVzLnB1dChzb290Q2xhc3MsIG5ldyBIYXNoU2V0PD4oKSk7CiAgICAgICAgfQoKICAgICAgICBTZXQ8U29vdE1ldGhvZD4gbWFwcGVkVGd0cyA9IHRhcmdldEFjdGl2aXRpZXMuZ2V0KHNvb3RDbGFzcyk7CiAgICAgICAgbWFwcGVkVGd0cy5hZGQodGFyZ2V0KTsKICAgICAgICBMb2cubXNnKFRBRywgIlN1YiBUYXJnZXQ6OiAiICsgdGFyZ2V0LmdldFN1YlNpZ25hdHVyZSgpKTsKICAgIH0qLw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL2FyZ3VzWzBdID0gIkQ6L3dvcmtzcGFjZS9xa3Ntcy9RS1NNUy9RS1NNUy1ub0FuYWx5dGljcy1kZWJ1Zy5hcGsiOwo=</text>
+        <text encoding="base64">ICAgICAgICBhcmdzWzJdID0gIkQ6XFx3b3Jrc3BhY2VcXGJhY2tzdGFnZS1tYXN0ZXJcXG91dHB1dFxccmVzIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL2FyZ3VzWzBdID0gIkQ6L3dvcmtzcGFjZS9UZXN0Q29uRHJvaWQvYXBwL2FwcC1yZWxlYXNlLmFwayI7Cg==</text>
+        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJDcmVhdGUgZGlyICIgKyBmaWxlKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcmd1c1swXSA9ICJEOlxcd29ya3NwYWNlXFxUZXN0XFxhcHAvYXBwLXJlbGVhc2UuYXBrIjsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAvKgogICAgcHJpdmF0ZSBzdGF0aWMgdm9pZCBhZGRJbnRvVGd0QWN0aXZpdHkoU29vdENsYXNzIHNvb3RDbGFzcywgU29vdE1ldGhvZCB0YXJnZXQpIHsKICAgICAgICBpZiAoIXRhcmdldEFjdGl2aXRpZXMuY29udGFpbnNLZXkoc29vdENsYXNzKSkgewogICAgICAgICAgICB0YXJnZXRBY3Rpdml0aWVzLnB1dChzb290Q2xhc3MsIG5ldyBIYXNoU2V0PD4oKSk7CiAgICAgICAgfQoKICAgICAgICBTZXQ8U29vdE1ldGhvZD4gbWFwcGVkVGd0cyA9IHRhcmdldEFjdGl2aXRpZXMuZ2V0KHNvb3RDbGFzcyk7CiAgICAgICAgbWFwcGVkVGd0cy5hZGQodGFyZ2V0KTsKICAgICAgICBMb2cubXNnKFRBRywgIlN1YiBUYXJnZXQ6OiAiICsgdGFyZ2V0LmdldFN1YlNpZ25hdHVyZSgpKTsKICAgIH0qLw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dERpciArIGFwa05hbWUgKyAiX2Z1Lmhhby50ZXN0Y29uZHJvaWQuQWN0aXZpdHkyLmpzb24iKTsK</text>
+        <text encoding="base64">ICAgICAgICAvL2FyZ3VzWzBdID0gIkQ6L3dvcmtzcGFjZS9xa3Ntcy9RS1NNUy9RS1NNUy1ub0FuYWx5dGljcy1kZWJ1Zy5hcGsiOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>QKSMS-noAnalytics</text>
+        <text encoding="base64">ID0gbmV3IFRyaWdnZXJPdXRwdXQoc29vdENsYXNzLmdldE5hbWUoKSk=</text>
       </register>
     </registers>
     <search>
