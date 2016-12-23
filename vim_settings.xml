@@ -59,8 +59,8 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1482385527888">
-        <mark key="[" line="97" column="40" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1482453722028">
+        <mark key="[" line="202" column="73" />
         <mark key="]" line="421" column="36" />
         <mark key="." line="421" column="36" />
         <mark key="^" line="421" column="36" />
@@ -118,7 +118,7 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968666867">
         <mark key="[" line="33" column="32" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FindViewTracer.java" timestamp="1479167548603">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FindViewTracer.java" timestamp="1482452963318">
         <mark key="[" line="61" column="58" />
         <mark key="^" line="92" column="41" />
       </file>
@@ -139,11 +139,11 @@
         <mark key="^" line="303" column="31" />
         <mark key="." line="303" column="31" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1479162836935">
-        <mark key="[" line="162" column="16" />
-        <mark key="]" line="162" column="22" />
-        <mark key="." line="162" column="22" />
-        <mark key="^" line="162" column="22" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1482454042607">
+        <mark key="[" line="66" column="39" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
+        <mark key="^" line="225" column="34" />
       </file>
       <file name="D:/workspace/backstage-master/src/test/java/st/cs/uni/saarland/de/testApps/TestAppTest.java" timestamp="1481178641687">
         <mark key="[" line="19" column="71" />
@@ -199,34 +199,34 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzWzJdID0gIkQ6XFx3b3Jrc3BhY2VcXGJhY2tzdGFnZS1tYXN0ZXJcXG91dHB1dFxccmVzIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzWzJdID0gIkQ6XFx3b3Jrc3BhY2VcXGJhY2tzdGFnZS1tYXN0ZXJcXG91dHB1dFxccmVzIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJDcmVhdGUgZGlyICIgKyBmaWxlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAvKgogICAgcHJpdmF0ZSBzdGF0aWMgdm9pZCBhZGRJbnRvVGd0QWN0aXZpdHkoU29vdENsYXNzIHNvb3RDbGFzcywgU29vdE1ldGhvZCB0YXJnZXQpIHsKICAgICAgICBpZiAoIXRhcmdldEFjdGl2aXRpZXMuY29udGFpbnNLZXkoc29vdENsYXNzKSkgewogICAgICAgICAgICB0YXJnZXRBY3Rpdml0aWVzLnB1dChzb290Q2xhc3MsIG5ldyBIYXNoU2V0PD4oKSk7CiAgICAgICAgfQoKICAgICAgICBTZXQ8U29vdE1ldGhvZD4gbWFwcGVkVGd0cyA9IHRhcmdldEFjdGl2aXRpZXMuZ2V0KHNvb3RDbGFzcyk7CiAgICAgICAgbWFwcGVkVGd0cy5hZGQodGFyZ2V0KTsKICAgICAgICBMb2cubXNnKFRBRywgIlN1YiBUYXJnZXQ6OiAiICsgdGFyZ2V0LmdldFN1YlNpZ25hdHVyZSgpKTsKICAgIH0qLw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhcmdzWzJdID0gIkQ6XFx3b3Jrc3BhY2VcXGJhY2tzdGFnZS1tYXN0ZXJcXG91dHB1dFxccmVzIjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL2FyZ3VzWzBdID0gIkQ6L3dvcmtzcGFjZS9xa3Ntcy9RS1NNUy9RS1NNUy1ub0FuYWx5dGljcy1kZWJ1Zy5hcGsiOwo=</text>
+        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJDcmVhdGUgZGlyICIgKyBmaWxlKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL2FyZ3VzWzBdID0gIkQ6L3dvcmtzcGFjZS9UZXN0Q29uRHJvaWQvYXBwL2FwcC1yZWxlYXNlLmFwayI7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAvKgogICAgcHJpdmF0ZSBzdGF0aWMgdm9pZCBhZGRJbnRvVGd0QWN0aXZpdHkoU29vdENsYXNzIHNvb3RDbGFzcywgU29vdE1ldGhvZCB0YXJnZXQpIHsKICAgICAgICBpZiAoIXRhcmdldEFjdGl2aXRpZXMuY29udGFpbnNLZXkoc29vdENsYXNzKSkgewogICAgICAgICAgICB0YXJnZXRBY3Rpdml0aWVzLnB1dChzb290Q2xhc3MsIG5ldyBIYXNoU2V0PD4oKSk7CiAgICAgICAgfQoKICAgICAgICBTZXQ8U29vdE1ldGhvZD4gbWFwcGVkVGd0cyA9IHRhcmdldEFjdGl2aXRpZXMuZ2V0KHNvb3RDbGFzcyk7CiAgICAgICAgbWFwcGVkVGd0cy5hZGQodGFyZ2V0KTsKICAgICAgICBMb2cubXNnKFRBRywgIlN1YiBUYXJnZXQ6OiAiICsgdGFyZ2V0LmdldFN1YlNpZ25hdHVyZSgpKTsKICAgIH0qLw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcmd1c1swXSA9ICJEOlxcd29ya3NwYWNlXFxUZXN0XFxhcHAvYXBwLXJlbGVhc2UuYXBrIjsK</text>
+        <text encoding="base64">ICAgICAgICAvL2FyZ3VzWzBdID0gIkQ6L3dvcmtzcGFjZS9xa3Ntcy9RS1NNUy9RS1NNUy1ub0FuYWx5dGljcy1kZWJ1Zy5hcGsiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dERpciArIGFwa05hbWUgKyAiX2Z1Lmhhby50ZXN0Y29uZHJvaWQuQWN0aXZpdHkyLmpzb24iKTsK</text>
+        <text encoding="base64">ICAgICAgICAvL2FyZ3VzWzBdID0gIkQ6L3dvcmtzcGFjZS9UZXN0Q29uRHJvaWQvYXBwL2FwcC1yZWxlYXNlLmFwayI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cmlnZ2VyT3V0cHV0ID0gTWFpbi5qc29uMlRyaWdnZXJPdXRwdXQoCg==</text>
+        <text encoding="base64">ICAgICAgICBhcmd1c1swXSA9ICJEOlxcd29ya3NwYWNlXFxUZXN0XFxhcHAvYXBwLXJlbGVhc2UuYXBrIjsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICB0cmlnZ2VyT3V0cHV0ID0gTWFpbi5qc29uMlRyaWdnZXJPdXRwdXQoCiAgICAgICAgICAgICAgICBvdXRwdXREaXIgKyBhcGtOYW1lICsgIl9mdS5oYW8udGVzdGNvbmRyb2lkLkFjdGl2aXR5Mi5qc29uIik7</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dERpciArIGFwa05hbWUgKyAiX2Z1Lmhhby50ZXN0Y29uZHJvaWQuQWN0aXZpdHkyLmpzb24iKTsK</text>
       </register>
       <register name="-" type="4">
         <text>QKSMS-noAnalytics</text>
