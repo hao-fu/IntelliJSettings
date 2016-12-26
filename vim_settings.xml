@@ -53,11 +53,17 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Test.java" timestamp="1476757822894">
         <mark key="[" line="12" column="69" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1482464228573">
-        <mark key="[" line="369" column="39" />
-        <mark key="]" line="369" column="39" />
-        <mark key="." line="369" column="39" />
-        <mark key="^" line="466" column="36" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FragmentTracer.java" timestamp="1482732496314">
+        <mark key="[" line="18" column="3" />
+        <mark key="]" line="30" column="33" />
+        <mark key="^" line="30" column="33" />
+        <mark key="." line="30" column="33" />
+      </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1482731992043">
+        <mark key="[" line="199" column="26" />
+        <mark key="]" line="372" column="39" />
+        <mark key="." line="372" column="39" />
+        <mark key="^" line="469" column="36" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1480053755815">
         <mark key="[" line="118" column="29" />
@@ -114,7 +120,7 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968666867">
         <mark key="[" line="33" column="32" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FindViewTracer.java" timestamp="1482452963318">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FindViewTracer.java" timestamp="1482732390154">
         <mark key="[" line="61" column="58" />
         <mark key="^" line="92" column="41" />
       </file>
