@@ -124,7 +124,7 @@
         <mark key="[" line="61" column="58" />
         <mark key="^" line="92" column="41" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/FindViewTracerTest.java" timestamp="1482898434852">
+      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/FindViewTracerTest.java" timestamp="1482971716540">
         <mark key="[" line="31" column="28" />
         <mark key="]" line="65" column="11" />
         <mark key="." line="65" column="11" />
@@ -135,11 +135,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/FragmentTracerTest.java" timestamp="1482898495684">
-        <mark key="[" line="24" column="12" />
-        <mark key="]" line="55" column="36" />
-        <mark key="^" line="55" column="36" />
-        <mark key="." line="55" column="36" />
+      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/FragmentTracerTest.java" timestamp="1482971780761">
+        <mark key="[" line="70" column="12" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/MethodUtils.java" timestamp="1478922301586">
         <mark key="[" line="299" column="31" />
@@ -205,43 +204,35 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0TGF5b3V0UklkTmFtZShJbnRlZ2VyIHZhbHVlKSB7CiAgICAgICAgcmV0dXJuIGludlJMYXlvdXRNYXAuZ2V0KHZhbHVlKTsKICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZvdW5kIHZpZXcgSWRzOiAiICsgZmluZFZpZXdUcmFjZXIuZ2V0Vmlld0lkcygpKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0TGF5b3V0UklkTmFtZShJbnRlZ2VyIHZhbHVlKSB7CiAgICAgICAgcmV0dXJuIGludlJMYXlvdXRNYXAuZ2V0KHZhbHVlKTsKICAgIH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZvdW5kIHZpZXcgSWRzOiAiICsgZmluZFZpZXdUcmFjZXIuZ2V0Vmlld0lkcygpKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">SXRlcmF0b3I8RWRnZT4gaXRlcmF0b3IgPSBjZy5lZGdlc091dE9mKG9uQ3JlYXRlKTsKICAgICAgICAgICAgICAgIHdoaWxlIChpdGVyYXRvci5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgICAgICAgICBFZGdlIGVkZ2UgPSBpdGVyYXRvci5uZXh0KCk7CiAgICAgICAgICAgICAgICAgICAgZWRnZS5nCiAgICAgICAgICAgICAgICAgICAgU29vdE1ldGhvZCBzb290TWV0aG9kID0gZWRnZS5nZXRUZ3QoKS5tZXRob2QoKTsKICAgICAgICAgICAgICAgICAgICBpZiAoc29vdE1ldGhvZC5nZXROYW1lKCkuZXF1YWxzKCJzZXRDb250ZW50VmlldyIpKSB7CgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH07</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvL2ZpbmRWaWV3VHJhY2VyID0gbmV3IEZpbmRWaWV3VHJhY2VyKCk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>if (stmt instanceof AssignStmt) {
-                    AssignStmt assignStmt = (AssignStmt)stmt;
-                    Value assigned = assignStmt.getLeftOp();
-                    System.out.println(assignStmt + &quot;: &quot; + assigned);
-
-                    JimpleLocal local = new JimpleLocal(&quot;$x5&quot;, assigned.getType());
-                    assignStmt.setLeftOp(local);
-                    System.out.println(assignStmt + &quot;: &quot; + local);
-                }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldEV2ZW50SGFuZGxlciA9IHVuaXQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzWzJdID0gIkQ6XFx3b3Jrc3BhY2VcXGJhY2tzdGFnZS1tYXN0ZXJcXG91dHB1dFxccmVzIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVuaXQudG9TdHJpbmcoKS5jb250YWlucygiJE9uQ2xpY2tMaXN0ZW5lcik+KCRyNCkiKSkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJDcmVhdGUgZGlyICIgKyBmaWxlKTsK</text>
+        <text encoding="base64">ICAgICAgICBVbml0IHNldEV2ZW50SGFuZGxlciA9IG51bGw7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAvKgogICAgcHJpdmF0ZSBzdGF0aWMgdm9pZCBhZGRJbnRvVGd0QWN0aXZpdHkoU29vdENsYXNzIHNvb3RDbGFzcywgU29vdE1ldGhvZCB0YXJnZXQpIHsKICAgICAgICBpZiAoIXRhcmdldEFjdGl2aXRpZXMuY29udGFpbnNLZXkoc29vdENsYXNzKSkgewogICAgICAgICAgICB0YXJnZXRBY3Rpdml0aWVzLnB1dChzb290Q2xhc3MsIG5ldyBIYXNoU2V0PD4oKSk7CiAgICAgICAgfQoKICAgICAgICBTZXQ8U29vdE1ldGhvZD4gbWFwcGVkVGd0cyA9IHRhcmdldEFjdGl2aXRpZXMuZ2V0KHNvb3RDbGFzcyk7CiAgICAgICAgbWFwcGVkVGd0cy5hZGQodGFyZ2V0KTsKICAgICAgICBMb2cubXNnKFRBRywgIlN1YiBUYXJnZXQ6OiAiICsgdGFyZ2V0LmdldFN1YlNpZ25hdHVyZSgpKTsKICAgIH0qLw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvL2ZpbmRWaWV3VHJhY2VyID0gbmV3IEZpbmRWaWV3VHJhY2VyKCk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL2FyZ3VzWzBdID0gIkQ6L3dvcmtzcGFjZS9xa3Ntcy9RS1NNUy9RS1NNUy1ub0FuYWx5dGljcy1kZWJ1Zy5hcGsiOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0TGF5b3V0UklkTmFtZShJbnRlZ2VyIHZhbHVlKSB7CiAgICAgICAgcmV0dXJuIGludlJMYXlvdXRNYXAuZ2V0KHZhbHVlKTsKICAgIH0=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ID0gbmV3IFRyaWdnZXJPdXRwdXQoc29vdENsYXNzLmdldE5hbWUoKSk=</text>
