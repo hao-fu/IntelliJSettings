@@ -59,13 +59,12 @@
         <mark key="^" line="143" column="8" />
         <mark key="." line="143" column="8" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FragmentTracer.java" timestamp="1483132825985">
-        <mark key="[" line="124" column="3" />
-        <mark key="]" line="126" column="16" />
-        <mark key="." line="126" column="16" />
-        <mark key="^" line="126" column="16" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FragmentTracer.java" timestamp="1483133850381">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1483133175296">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1483133898034">
         <mark key="[" line="144" column="69" />
         <mark key="]" line="144" column="46" />
         <mark key="." line="144" column="46" />
@@ -219,34 +218,34 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNvb3RDbGFzcyB0Z3RDbGFzcyA9IFNjZW5lLnYoKS5sb2FkQ2xhc3NBbmRTdXBwb3J0KCJlZHUudWNkYXZpcy50ZXN0Lk1haW5BY3Rpdml0eSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU29vdENsYXNzIHBvdEZyYWcgPSBzb290TWV0aG9kLmdldERlY2xhcmluZ0NsYXNzKCk7Cg==</text>
       </register>
       <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU29vdENsYXNzIHBvdEZyYWcgPSBzb290TWV0aG9kLmdldERlY2xhcmluZ0NsYXNzKCk7Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFNvb3RDbGFzcyB0Z3RDbGFzcyA9IFNjZW5lLnYoKS5sb2FkQ2xhc3NBbmRTdXBwb3J0KCJlZHUudWNkYXZpcy50ZXN0Lk1haW5BY3Rpdml0eSIpOwo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgY2hlY2tCZWZvcmUoVW5pdCB1bml0LCBGbG93U2V0IG91dFNldCkgewoKICAgIH0=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBTdG10IHN0bXQgPSAoU3RtdCkgbm9kZTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJnYW4iKTs=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3RtdCBzdG10ID0gKFN0bXQpIHVuaXQ7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RtdC4K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYXNpY0dlbih1bml0LCBvdXQpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZvdW5kIHZpZXcgSWRzOiAiICsgZmluZFZpZXdUcmFjZXIuZ2V0Vmlld0lkcygpKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL2ZpbmRWaWV3VHJhY2VyID0gbmV3IEZpbmRWaWV3VHJhY2VyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZvdW5kIHZpZXcgSWRzOiAiICsgZmluZFZpZXdUcmFjZXIuZ2V0Vmlld0lkcygpKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IEZsb3dTZXQgaW5TZXQgPSAoRmxvd1NldCkgaW4sIG91dFNldCA9IChGbG93U2V0KSBvdXQ7</text>
