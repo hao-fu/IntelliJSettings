@@ -69,11 +69,10 @@
         <mark key="]" line="296" column="0" />
         <mark key="." line="296" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1480053755815">
-        <mark key="[" line="118" column="29" />
-        <mark key="]" line="266" column="0" />
-        <mark key="." line="266" column="0" />
-        <mark key="^" line="262" column="20" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1483144709935">
+        <mark key="[" line="152" column="20" />
+        <mark key="]" line="152" column="20" />
+        <mark key="." line="152" column="20" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Statistics.java" timestamp="1476745896308">
         <mark key="[" line="17" column="41" />
@@ -217,37 +216,37 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBEZXByZWNhdGVkCg==</text>
+        <text encoding="base64">ICAgICAgICBTY2VuZS52KCkubG9hZE5lY2Vzc2FyeUNsYXNzZXMoKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBEZXByZWNhdGVkCg==</text>
+      <register name="&quot;" type="4">
+        <text>app</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBEZXByZWNhdGVkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgZnJhZ21lbnQyQWN0aXZpdHkoU29vdENsYXNzIGZyYWdtZW50Q2xhc3MsIFNvb3RNZXRob2QgdGFyZ2V0LCBTb290TWV0aG9kIGVudHJ5LCBBbmRyb2lkVmlldyB2aWV3KSB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU29vdENsYXNzIHBvdEZyYWcgPSBzb290TWV0aG9kLmdldERlY2xhcmluZ0NsYXNzKCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgZnJhZ21lbnQyQWN0aXZpdHkoU29vdENsYXNzIGZyYWdtZW50Q2xhc3MsIFNvb3RNZXRob2QgdGFyZ2V0LCBTb290TWV0aG9kIGVudHJ5LCBBbmRyb2lkVmlldyB2aWV3KSB7Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU29vdENsYXNzIHBvdEZyYWcgPSBzb290TWV0aG9kLmdldERlY2xhcmluZ0NsYXNzKCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFNvb3RDbGFzcyB0Z3RDbGFzcyA9IFNjZW5lLnYoKS5sb2FkQ2xhc3NBbmRTdXBwb3J0KCJlZHUudWNkYXZpcy50ZXN0Lk1haW5BY3Rpdml0eSIpOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgY2hlY2tCZWZvcmUoVW5pdCB1bml0LCBGbG93U2V0IG91dFNldCkgewoKICAgIH0=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdG10IHN0bXQgPSAoU3RtdCkgbm9kZTsK</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">IEZsb3dTZXQgaW5TZXQgPSAoRmxvd1NldCkgaW4sIG91dFNldCA9IChGbG93U2V0KSBvdXQ7</text>
+        <text>app</text>
       </register>
     </registers>
     <search>
