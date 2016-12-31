@@ -64,11 +64,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1483148808697">
-        <mark key="[" line="320" column="75" />
-        <mark key="]" line="320" column="21" />
-        <mark key="." line="320" column="21" />
-        <mark key="^" line="320" column="21" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1483161494739">
+        <mark key="[" line="211" column="73" />
+        <mark key="]" line="211" column="56" />
+        <mark key="." line="211" column="56" />
+        <mark key="^" line="211" column="56" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1483144709935">
         <mark key="[" line="152" column="20" />
@@ -152,10 +152,10 @@
         <mark key="^" line="303" column="31" />
         <mark key="." line="303" column="31" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1483142958678">
-        <mark key="[" line="66" column="39" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1483160607575">
+        <mark key="[" line="67" column="47" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="D:/workspace/backstage-master/src/test/java/st/cs/uni/saarland/de/testApps/TestAppTest.java" timestamp="1481178641687">
         <mark key="[" line="19" column="71" />
@@ -217,34 +217,34 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoU2V0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>frag2Activities.get(entryClass).get(decompiledXMLParser.findViewById());</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTY2VuZS52KCkubG9hZE5lY2Vzc2FyeUNsYXNzZXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFN0cmluZyBhY3Rpdml0eUxheW91dE5hbWUgPSAiIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBEZXByZWNhdGVkCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoU2V0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTY2VuZS52KCkubG9hZE5lY2Vzc2FyeUNsYXNzZXMoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBEZXByZWNhdGVkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgZnJhZ21lbnQyQWN0aXZpdHkoU29vdENsYXNzIGZyYWdtZW50Q2xhc3MsIFNvb3RNZXRob2QgdGFyZ2V0LCBTb290TWV0aG9kIGVudHJ5LCBBbmRyb2lkVmlldyB2aWV3KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU29vdENsYXNzIHBvdEZyYWcgPSBzb290TWV0aG9kLmdldERlY2xhcmluZ0NsYXNzKCk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNvb3RDbGFzcyB0Z3RDbGFzcyA9IFNjZW5lLnYoKS5sb2FkQ2xhc3NBbmRTdXBwb3J0KCJlZHUudWNkYXZpcy50ZXN0Lk1haW5BY3Rpdml0eSIpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgZnJhZ21lbnQyQWN0aXZpdHkoU29vdENsYXNzIGZyYWdtZW50Q2xhc3MsIFNvb3RNZXRob2QgdGFyZ2V0LCBTb290TWV0aG9kIGVudHJ5LCBBbmRyb2lkVmlldyB2aWV3KSB7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>frag2Activities.get(entryClass).get(decompiledXMLParser.findViewById());</text>
