@@ -70,11 +70,6 @@
         <mark key="." line="317" column="84" />
         <mark key="^" line="317" column="84" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1483144709935">
-        <mark key="[" line="152" column="20" />
-        <mark key="]" line="152" column="20" />
-        <mark key="." line="152" column="20" />
-      </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Statistics.java" timestamp="1476745896308">
         <mark key="[" line="17" column="41" />
       </file>
@@ -290,6 +285,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
