@@ -15,7 +15,7 @@
         <mark key="^" line="16" column="15" />
         <mark key="." line="16" column="15" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/AndroidView.java" timestamp="1483405557606">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/AndroidView.java" timestamp="1483429509781">
         <mark key="[" line="73" column="8" />
         <mark key="]" line="73" column="8" />
         <mark key="." line="73" column="8" />
@@ -67,10 +67,11 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1483428120033">
-        <mark key="[" line="172" column="53" />
-        <mark key="]" line="173" column="20" />
-        <mark key="." line="173" column="20" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1483431575841">
+        <mark key="[" line="175" column="71" />
+        <mark key="]" line="175" column="53" />
+        <mark key="." line="175" column="53" />
+        <mark key="^" line="175" column="53" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Statistics.java" timestamp="1476745896308">
         <mark key="[" line="17" column="41" />
@@ -107,10 +108,10 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DecompiledXMLParser.java" timestamp="1483428840437">
-        <mark key="[" line="715" column="46" />
-        <mark key="]" line="715" column="0" />
-        <mark key="." line="715" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DecompiledXMLParser.java" timestamp="1483431512872">
+        <mark key="[" line="530" column="12" />
+        <mark key="]" line="530" column="12" />
+        <mark key="." line="530" column="12" />
       </file>
       <file name="/Dummy.txt" timestamp="1483402567773">
         <mark key="'" line="0" column="0" />
@@ -127,8 +128,10 @@
         <mark key="^" line="89" column="28" />
         <mark key="." line="122" column="3" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/IncludeAndroidView.java" timestamp="1483405691642">
-        <mark key="[" line="7" column="3" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/IncludeAndroidView.java" timestamp="1483430614762">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/FindViewTracerTest.java" timestamp="1482971716540">
         <mark key="[" line="31" column="28" />
@@ -223,41 +226,42 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgbGF5b3V0SWQgPSBudWxsO2RkZGQK</text>
+        <text encoding="base64">QERlcHJlY2F0ZWQK</text>
       </register>
       <register name="&quot;" type="2">
+        <text encoding="base64">QERlcHJlY2F0ZWQK</text>
+      </register>
+      <register name="2" type="4">
+        <text>+ &quot;, &quot; + view.getChildren() + &quot;, &quot; + rLayoutMap.get(layoutId) + &quot;, &quot;
+                    + id2View.get(rLayoutMap.get(layoutId)) + &quot;, &quot; + tgt</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgbGF5b3V0SWQgPSBudWxsO2RkZGQK</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cud2FybihUQUcsICJtICIgKyBpbnZSSWRNYXApOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>for (AndroidView androidView : views) {
                         Log.warn(TAG, &quot;s: &quot; + androidView.getParent());
                     }</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>if (this.parent != null) {
             this.parent.removeChildInternal(this);
         }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmluY2x1ZGVkQnkgPSBuZXcgSGFzaFNldDw+KCk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgU2V0PEFuZHJvaWRWaWV3PiBpbmNsdWRlZEJ5Owo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZCA9IG51bGw7Cg==</text>
-      </register>
       <register name="-" type="4">
-        <text>includeeId + &quot;, &quot; + view</text>
+        <text encoding="base64">Zm9yIChJQW5kcm9pZFZpZXcgdmlldzEgOiB2aWV3LmdldENoaWxkcmVuKCkpIA==</text>
       </register>
     </registers>
     <search>
