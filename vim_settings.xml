@@ -62,22 +62,25 @@
         <mark key="^" line="143" column="8" />
         <mark key="." line="143" column="8" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FragmentTracer.java" timestamp="1483329746057">
-        <mark key="[" line="53" column="20" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FragmentTracer.java" timestamp="1483441182178">
+        <mark key="[" line="109" column="20" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1483438931108">
-        <mark key="[" line="223" column="21" />
-        <mark key="]" line="215" column="46" />
-        <mark key="." line="215" column="46" />
-        <mark key="^" line="215" column="46" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1483440408538">
+        <mark key="[" line="225" column="21" />
+        <mark key="]" line="217" column="46" />
+        <mark key="." line="217" column="46" />
+        <mark key="^" line="217" column="46" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Statistics.java" timestamp="1476745896308">
         <mark key="[" line="17" column="41" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/OsUtils.java" timestamp="1477294858441">
         <mark key="[" line="27" column="5" />
+      </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/FragmentTracerTest2.java" timestamp="1483440855701">
+        <mark key="[" line="19" column="31" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Settings.java" timestamp="1479196768942">
         <mark key="[" line="80" column="28" />
@@ -90,8 +93,10 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/MainTestFrame.java" timestamp="1482449870226">
-        <mark key="[" line="12" column="28" />
+      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/MainTestFrame.java" timestamp="1483440547753">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="24" column="8" />
+        <mark key="." line="24" column="8" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/OSUtils.java" timestamp="1479023714481">
         <mark key="[" line="73" column="0" />
@@ -192,7 +197,7 @@
         <mark key="." line="19" column="32" />
         <mark key="^" line="19" column="32" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/MainTestQKSMS.java" timestamp="1483342242828">
+      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/MainTestQKSMS.java" timestamp="1483440679849">
         <mark key="'" line="38" column="23" />
         <mark key="[" line="44" column="13" />
         <mark key="]" line="44" column="13" />
@@ -204,7 +209,7 @@
         <mark key="." line="30" column="49" />
         <mark key="^" line="26" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1483402567796">
+      <file name="/fragment.java" timestamp="1483440611478">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/MainTestAd.java" timestamp="1482450039057">
@@ -226,43 +231,41 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkMkZyYWdtZW50cy5wdXQoaWQsIGApCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkMkZyYWdtZW50cy5wdXQoaWQsIGApCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAqCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTG9nLndhcm4oVEFHLCAiZ2c6ICIgKyB2aWV3ICsgIiwgIiArIHZpZXcuZ2V0T3JpZ2luKCkpOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>Log.warn(TAG, &quot;wocao &quot; + view.getId() + &quot;, &quot; + FilenameUtils.getBaseName(view.getOrigin()))
                 ;</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">QERlcHJlY2F0ZWQK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>+ &quot;, &quot; + view.getChildren() + &quot;, &quot; + rLayoutMap.get(layoutId) + &quot;, &quot;
                     + id2View.get(rLayoutMap.get(layoutId)) + &quot;, &quot; + tgt</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgbGF5b3V0SWQgPSBudWxsO2RkZGQK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cud2FybihUQUcsICJtICIgKyBpbnZSSWRNYXApOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>for (AndroidView androidView : views) {
                         Log.warn(TAG, &quot;s: &quot; + androidView.getParent());
                     }</text>
       </register>
-      <register name="9" type="4">
-        <text>if (this.parent != null) {
-            this.parent.removeChildInternal(this);
-        }</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">Zm9yIChJQW5kcm9pZFZpZXcgdmlldzEgOiB2aWV3LmdldENoaWxkcmVuKCkpIA==</text>
+        <text>args[0] = &quot;tools/Test/testFragment.apk&quot;;</text>
       </register>
     </registers>
     <search>
