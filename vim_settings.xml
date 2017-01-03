@@ -67,10 +67,10 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1483432233716">
-        <mark key="[" line="175" column="71" />
-        <mark key="]" line="175" column="53" />
-        <mark key="." line="175" column="53" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1483437494514">
+        <mark key="[" line="291" column="0" />
+        <mark key="]" line="291" column="0" />
+        <mark key="." line="291" column="0" />
         <mark key="^" line="175" column="53" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Statistics.java" timestamp="1476745896308">
@@ -108,10 +108,10 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DecompiledXMLParser.java" timestamp="1483436382894">
-        <mark key="[" line="751" column="13" />
-        <mark key="]" line="531" column="12" />
-        <mark key="." line="531" column="12" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DecompiledXMLParser.java" timestamp="1483437033926">
+        <mark key="[" line="753" column="0" />
+        <mark key="]" line="753" column="0" />
+        <mark key="." line="753" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1483402567773">
         <mark key="'" line="0" column="0" />
@@ -226,39 +226,40 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QERlcHJlY2F0ZWQK</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLndhcm4oVEFHLCAiZ2c6ICIgKyB2aWV3ICsgIiwgIiArIHZpZXcuZ2V0T3JpZ2luKCkpOwo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>Log.warn(TAG, &quot;wocao &quot; + view.getId() + &quot;, &quot; + FilenameUtils.getBaseName(view.getOrigin()))
+                ;</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">QERlcHJlY2F0ZWQK</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>+ &quot;, &quot; + view.getChildren() + &quot;, &quot; + rLayoutMap.get(layoutId) + &quot;, &quot;
                     + id2View.get(rLayoutMap.get(layoutId)) + &quot;, &quot; + tgt</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgbGF5b3V0SWQgPSBudWxsO2RkZGQK</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cud2FybihUQUcsICJtICIgKyBpbnZSSWRNYXApOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>for (AndroidView androidView : views) {
                         Log.warn(TAG, &quot;s: &quot; + androidView.getParent());
                     }</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>if (this.parent != null) {
             this.parent.removeChildInternal(this);
         }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmluY2x1ZGVkQnkgPSBuZXcgSGFzaFNldDw+KCk7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU2V0PEFuZHJvaWRWaWV3PiBpbmNsdWRlZEJ5Owo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Zm9yIChJQW5kcm9pZFZpZXcgdmlldzEgOiB2aWV3LmdldENoaWxkcmVuKCkpIA==</text>
