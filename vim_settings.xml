@@ -15,8 +15,11 @@
         <mark key="^" line="16" column="15" />
         <mark key="." line="16" column="15" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/AndroidView.java" timestamp="1483378648199">
-        <mark key="[" line="25" column="26" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/AndroidView.java" timestamp="1483405557606">
+        <mark key="[" line="73" column="8" />
+        <mark key="]" line="73" column="8" />
+        <mark key="." line="73" column="8" />
+        <mark key="^" line="14" column="35" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/ListenerTrackerTest.java" timestamp="1478742270522">
         <mark key="[" line="32" column="37" />
@@ -104,10 +107,10 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DecompiledXMLParser.java" timestamp="1483402466725">
-        <mark key="[" line="714" column="43" />
-        <mark key="]" line="712" column="0" />
-        <mark key="." line="712" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DecompiledXMLParser.java" timestamp="1483404702226">
+        <mark key="[" line="722" column="21" />
+        <mark key="]" line="715" column="0" />
+        <mark key="." line="715" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1483402567773">
         <mark key="'" line="0" column="0" />
@@ -123,6 +126,9 @@
         <mark key="]" line="122" column="3" />
         <mark key="^" line="89" column="28" />
         <mark key="." line="122" column="3" />
+      </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/IncludeAndroidView.java" timestamp="1483405691642">
+        <mark key="[" line="7" column="3" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/FindViewTracerTest.java" timestamp="1482971716540">
         <mark key="[" line="31" column="28" />
@@ -216,35 +222,39 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>if (this.parent != null) {
+            this.parent.removeChildInternal(this);
+        }</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>if (this.parent != null) {
+            this.parent.removeChildInternal(this);
+        }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZFZpZXcuZ2V0Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFnbWVudENsYXNzLmdldEZpZWxkQnlOYW1lVW5zYWZlKDEpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTb290TWV0aG9kIHRhcmdldCwgQW5kcm9pZFZpZXcgdmlldykgewo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2Vuc2l0aXZlQ29tcG9uZW50Owo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmluY2x1ZGVkQnkgPSBuZXcgSGFzaFNldDw+KCk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">aWYgKCF0YXJnZXRBY3Rpdml0aWVzLmNvbnRhaW5zS2V5KHNvb3RDbGFzcykpIHsKICAgICAgICAgICAgdGFyZ2V0QWN0aXZpdGllcy5wdXQoc29vdENsYXNzLCBuZXcgSGFzaFNldDw+KCkpOwogICAgICAgIH0KCiAgICAgICAgU2V0PFNvb3RNZXRob2Q+IG1hcHBlZFRndHMgPSB0YXJnZXRBY3Rpdml0aWVzLmdldChzb290Q2xhc3MpOwogICAgICAgIG1hcHBlZFRndHMuYWRkKHRhcmdldCk7CgogICAgICAgIERlY29tcGlsZWRYTUxQYXJzZXIgZGVjb21waWxlZFhNTFBhcnNlciA9IERlY29tcGlsZWRYTUxQYXJzZXIudigpOwogICAgICAgIGlmICghc2Vuc0VudHJ5QWN0aXZpdGllcy5jb250YWluc0tleShzb290Q2xhc3MpKSB7CiAgICAgICAgICAgIGNyZWF0ZU5ld1NlbnNDb21wb25lbnQoc29vdENsYXNzKTsKICAgICAgICB9CgogICAgICAgIFNlbnNFbnRyeUZpbmRlci5TZW5zaXRpdmVDb21wb25lbnQgc2Vuc2l0aXZlQ29tcG9uZW50ID0gc2Vuc0VudHJ5QWN0aXZpdGllcy5nZXQoc29vdENsYXNzKTsKICAgICAgICBzZW5zaXRpdmVDb21wb25lbnQuYWRkVGFyZ2V0TWV0aG9kKGVudHJ5LmdldFNpZ25hdHVyZSgpLCB0YXJnZXQuZ2V0U2lnbmF0dXJlKCkpOwogICAgICAgIExvZy5tc2coVEFHLCAiU3ViIFRhcmdldDo6ICIgKyB0YXJnZXQuZ2V0U3ViU2lnbmF0dXJlKCkpOwoKICAgICAgICBTZW5zRW50cnlQb2ludCBzZW5zRW50cnlQb2ludCA9IHNlbnNpdGl2ZUNvbXBvbmVudC5nZXRTZW5zRW50cmllcygpLgogICAgICAgICAgICAgICAgZ2V0KGVudHJ5LmdldFNpZ25hdHVyZSgpKTs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU2V0PEFuZHJvaWRWaWV3PiBpbmNsdWRlZEJ5Owo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZCA9IG51bGw7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZFZpZXcuZ2V0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2Vuc2l0aXZlQ29tcG9uZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICBmcmFnbWVudENsYXNzLmdldEZpZWxkQnlOYW1lVW5zYWZlKDEpCg==</text>
       </register>
       <register name="-" type="4">
         <text />
