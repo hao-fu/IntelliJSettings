@@ -67,10 +67,10 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1483379083726">
-        <mark key="[" line="174" column="38" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1483423091450">
+        <mark key="[" line="173" column="20" />
+        <mark key="]" line="173" column="20" />
+        <mark key="." line="173" column="20" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Statistics.java" timestamp="1476745896308">
         <mark key="[" line="17" column="41" />
@@ -107,10 +107,10 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DecompiledXMLParser.java" timestamp="1483415293438">
-        <mark key="[" line="722" column="21" />
-        <mark key="]" line="715" column="0" />
-        <mark key="." line="715" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/DecompiledXMLParser.java" timestamp="1483422907359">
+        <mark key="[" line="744" column="95" />
+        <mark key="]" line="744" column="95" />
+        <mark key="." line="744" column="95" />
       </file>
       <file name="/Dummy.txt" timestamp="1483402567773">
         <mark key="'" line="0" column="0" />
@@ -223,41 +223,43 @@
         <text>e</text>
       </register>
       <register name="1" type="4">
-        <text>if (this.parent != null) {
-            this.parent.removeChildInternal(this);
-        }</text>
+        <text>for (AndroidView androidView : views) {
+                        Log.warn(TAG, &quot;s: &quot; + androidView.getParent());
+                    }</text>
       </register>
       <register name="&quot;" type="4">
+        <text>for (AndroidView androidView : views) {
+                        Log.warn(TAG, &quot;s: &quot; + androidView.getParent());
+                    }</text>
+      </register>
+      <register name="2" type="4">
         <text>if (this.parent != null) {
             this.parent.removeChildInternal(this);
         }</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmluY2x1ZGVkQnkgPSBuZXcgSGFzaFNldDw+KCk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgU2V0PEFuZHJvaWRWaWV3PiBpbmNsdWRlZEJ5Owo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZCA9IG51bGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZFZpZXcuZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFnbWVudENsYXNzLmdldEZpZWxkQnlOYW1lVW5zYWZlKDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZFZpZXcuZ2V0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>includeeId + &quot;, &quot; + view</text>
       </register>
     </registers>
     <search>
