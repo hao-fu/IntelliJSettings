@@ -67,10 +67,10 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1483501649187">
-        <mark key="[" line="377" column="65" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1483514254752">
+        <mark key="[" line="597" column="8" />
+        <mark key="]" line="597" column="8" />
+        <mark key="." line="597" column="8" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Statistics.java" timestamp="1476745896308">
         <mark key="[" line="17" column="41" />
@@ -159,11 +159,11 @@
         <mark key="." line="325" column="17" />
         <mark key="^" line="325" column="17" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1483334372430">
-        <mark key="[" line="73" column="42" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
-        <mark key="^" line="122" column="36" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1483513248698">
+        <mark key="[" line="101" column="30" />
+        <mark key="]" line="101" column="28" />
+        <mark key="." line="101" column="28" />
+        <mark key="^" line="101" column="28" />
       </file>
       <file name="D:/workspace/backstage-master/src/test/java/st/cs/uni/saarland/de/testApps/TestAppTest.java" timestamp="1481178641687">
         <mark key="[" line="19" column="71" />
@@ -196,18 +196,18 @@
         <mark key="." line="19" column="32" />
         <mark key="^" line="19" column="32" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/MainTestQKSMS.java" timestamp="1483501445344">
+      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/MainTestQKSMS.java" timestamp="1483514159817">
         <mark key="'" line="38" column="23" />
-        <mark key="[" line="43" column="32" />
+        <mark key="[" line="42" column="11" />
         <mark key="]" line="44" column="19" />
         <mark key="." line="44" column="19" />
         <mark key="^" line="44" column="19" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/MainTestDataTracer.java" timestamp="1483336872222">
-        <mark key="[" line="30" column="49" />
-        <mark key="]" line="30" column="49" />
-        <mark key="." line="30" column="49" />
-        <mark key="^" line="26" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/MainTestDataTracer.java" timestamp="1483513714888">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="10" />
+        <mark key="." line="28" column="10" />
+        <mark key="^" line="28" column="10" />
       </file>
       <file name="/fragment.java" timestamp="1483440611478">
         <mark key="[" line="0" column="0" />
@@ -230,40 +230,41 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ub3JnLmFwYWNoZS54cGF0aC5pbnRlcm5hbC5vcGVyYXRpb25zLkFuZDsK</text>
+      <register name="1" type="4">
+        <text>SensitiveView sensitiveView = new SensitiveView(view.getId(),
+                                            DecompiledXMLParser.v().getApplicationRIdName(view.getId()), layoutFile);</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">VHJpZ2dlck91dHB1dC0+U2Vuc0NvbXA7IEZyYWdtZW50ICBzdXBwb3J0cyBsYXlvdXRmaWxl</text>
+        <text>SensEntryFinder.SensitiveComponent sensitiveComponent =</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkMkZyYWdtZW50cy5wdXQoaWQsIGApCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ub3JnLmFwYWNoZS54cGF0aC5pbnRlcm5hbC5vcGVyYXRpb25zLkFuZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkMkZyYWdtZW50cy5wdXQoaWQsIGApCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAqCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTG9nLndhcm4oVEFHLCAiZ2c6ICIgKyB2aWV3ICsgIiwgIiArIHZpZXcuZ2V0T3JpZ2luKCkpOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>Log.warn(TAG, &quot;wocao &quot; + view.getId() + &quot;, &quot; + FilenameUtils.getBaseName(view.getOrigin()))
                 ;</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">QERlcHJlY2F0ZWQK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>+ &quot;, &quot; + view.getChildren() + &quot;, &quot; + rLayoutMap.get(layoutId) + &quot;, &quot;
                     + id2View.get(rLayoutMap.get(layoutId)) + &quot;, &quot; + tgt</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgbGF5b3V0SWQgPSBudWxsO2RkZGQK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cud2FybihUQUcsICJtICIgKyBpbnZSSWRNYXApOwo=</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">VHJpZ2dlck91dHB1dC0+U2Vuc0NvbXA7IEZyYWdtZW50ICBzdXBwb3J0cyBsYXlvdXRmaWxl</text>
+        <text>SensEntryFinder.SensitiveComponent sensitiveComponent =</text>
       </register>
     </registers>
     <search>
