@@ -117,11 +117,11 @@
         <mark key="]" line="753" column="0" />
         <mark key="." line="753" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483402567773">
+      <file name="/Dummy.txt" timestamp="1483512588111">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968666867">
         <mark key="[" line="33" column="32" />
@@ -233,8 +233,8 @@
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5zdW4ub3JnLmFwYWNoZS54cGF0aC5pbnRlcm5hbC5vcGVyYXRpb25zLkFuZDsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ub3JnLmFwYWNoZS54cGF0aC5pbnRlcm5hbC5vcGVyYXRpb25zLkFuZDsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">VHJpZ2dlck91dHB1dC0+U2Vuc0NvbXA7IEZyYWdtZW50ICBzdXBwb3J0cyBsYXlvdXRmaWxl</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlkMkZyYWdtZW50cy5wdXQoaWQsIGApCg==</text>
@@ -263,7 +263,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cud2FybihUQUcsICJtICIgKyBpbnZSSWRNYXApOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>args[0] = &quot;tools/Test/testFragment.apk&quot;;</text>
+        <text encoding="base64">VHJpZ2dlck91dHB1dC0+U2Vuc0NvbXA7IEZyYWdtZW50ICBzdXBwb3J0cyBsYXlvdXRmaWxl</text>
       </register>
     </registers>
     <search>
