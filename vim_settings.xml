@@ -67,10 +67,10 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1483683265425">
-        <mark key="[" line="195" column="7" />
-        <mark key="]" line="192" column="0" />
-        <mark key="." line="192" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1483684205470">
+        <mark key="[" line="486" column="36" />
+        <mark key="]" line="486" column="36" />
+        <mark key="." line="486" column="36" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1483666407210">
         <mark key="[" line="250" column="1" />
@@ -123,7 +123,7 @@
         <mark key="]" line="753" column="0" />
         <mark key="." line="753" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483655618149">
+      <file name="/Dummy.txt" timestamp="1483684485390">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -237,45 +237,42 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzZXRDb250ZW50Vmlld2Vycwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzZXRDb250ZW50Vmlld2Vycwo=</text>
+      <register name="&quot;" type="4">
+        <text>DecompiledXMLParser.v().getApplicationRLayoutName(id)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBhdXRob3IgSGFvIEZ1KGhhb2Z1IEFUIHVjZGF2aXMuZWR1KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvdwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBsYXlvdXRGaWxlID0gRGVjb21waWxlZFhNTFBhcnNlci52KCkuZ2V0QXBwbGljYXRpb25STGF5b3V0TmFtZShpZCk7Cg==</text>
       </register>
       <register name="4" type="4">
+        <text>while (layoutFile == null || layoutFile.isEmpty()) {
+                                layoutFile = DecomsootClass.getSuperclass()
+                            }</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBzZXRDb250ZW50Vmlld2Vycwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAqIEBhdXRob3IgSGFvIEZ1KGhhb2Z1IEFUIHVjZGF2aXMuZWR1KQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAqIEB0aHJvdwo=</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">ICAgICogQHBhcmFtCiAgICAgKiBAdGhyb3cKICAgICAqIEByZXR1cm4KICAgICAqIEBhdXRob3IgSGFvIEZ1KGhhb2Z1IEFUIHVjZGF2aXMuZWR1KQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>* @param
          * @throw
          * @return
          * @author Hao Fu(haofu AT ucdavis.edu)</text>
       </register>
-      <register name="6" type="4">
-        <text>if (!csvFile.exists()) {
-            csvFile.createNewFile();
-        } else {
-            csvFile.delete();
-            csvFile.createNewFile();
-        }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm46IHZvaWQK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24K</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBlbnRyeUFjdGl2aXRpZXMK</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">PHNvb3QuU29vdENsYXNzLGphdmEubGFuZy5JbnRlZ2VyPg==</text>
+        <text>DecompiledXMLParser.v().getApplicationRLayoutName(id)</text>
       </register>
     </registers>
     <search>
