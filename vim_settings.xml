@@ -67,13 +67,17 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1483515622786">
-        <mark key="[" line="609" column="8" />
-        <mark key="]" line="609" column="8" />
-        <mark key="." line="609" column="8" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1483666279929">
+        <mark key="[" line="582" column="11" />
+        <mark key="]" line="582" column="18" />
+        <mark key="." line="582" column="18" />
+        <mark key="^" line="582" column="18" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1483566931347">
-        <mark key="[" line="154" column="8" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1483666407210">
+        <mark key="[" line="250" column="1" />
+        <mark key="]" line="250" column="1" />
+        <mark key="." line="250" column="1" />
+        <mark key="^" line="32" column="10" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Statistics.java" timestamp="1476745896308">
         <mark key="[" line="17" column="41" />
@@ -162,7 +166,7 @@
         <mark key="." line="325" column="17" />
         <mark key="^" line="325" column="17" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1483513248698">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1483666467416">
         <mark key="[" line="101" column="30" />
         <mark key="]" line="101" column="28" />
         <mark key="." line="101" column="28" />
@@ -234,40 +238,45 @@
         <text>e</text>
       </register>
       <register name="1" type="4">
-        <text>SensitiveView sensitiveView = new SensitiveView(view.getId(),
-                                            DecompiledXMLParser.v().getApplicationRIdName(view.getId()), layoutFile);</text>
+        <text encoding="base64">ICAgICogQHBhcmFtCiAgICAgKiBAdGhyb3cKICAgICAqIEByZXR1cm4KICAgICAqIEBhdXRob3IgSGFvIEZ1KGhhb2Z1IEFUIHVjZGF2aXMuZWR1KQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>SensEntryFinder.SensitiveComponent sensitiveComponent =</text>
+        <text encoding="base64">ICAgICogQHBhcmFtCiAgICAgKiBAdGhyb3cKICAgICAqIEByZXR1cm4KICAgICAqIEBhdXRob3IgSGFvIEZ1KGhhb2Z1IEFUIHVjZGF2aXMuZWR1KQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ub3JnLmFwYWNoZS54cGF0aC5pbnRlcm5hbC5vcGVyYXRpb25zLkFuZDsK</text>
+      <register name="2" type="4">
+        <text>* @param
+         * @throw
+         * @return
+         * @author Hao Fu(haofu AT ucdavis.edu)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkMkZyYWdtZW50cy5wdXQoaWQsIGApCg==</text>
+      <register name="3" type="4">
+        <text>if (!csvFile.exists()) {
+            csvFile.createNewFile();
+        } else {
+            csvFile.delete();
+            csvFile.createNewFile();
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm46IHZvaWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLndhcm4oVEFHLCAiZ2c6ICIgKyB2aWV3ICsgIiwgIiArIHZpZXcuZ2V0T3JpZ2luKCkpOwo=</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24K</text>
       </register>
-      <register name="6" type="4">
-        <text>Log.warn(TAG, &quot;wocao &quot; + view.getId() + &quot;, &quot; + FilenameUtils.getBaseName(view.getOrigin()))
-                ;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBlbnRyeUFjdGl2aXRpZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QERlcHJlY2F0ZWQK</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>+ &quot;, &quot; + view.getChildren() + &quot;, &quot; + rLayoutMap.get(layoutId) + &quot;, &quot;
-                    + id2View.get(rLayoutMap.get(layoutId)) + &quot;, &quot; + tgt</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpZXdJZHMucHV0KGludElkLCBEZWNvbXBpbGVkWE1MUGFyc2VyLnYoKS5nZXRBcHBsaWNhdGlvblJJZE5hbWUoaW50SWQpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgbGF5b3V0SWQgPSBudWxsO2RkZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNYXA8SW50ZWdlciwgU3RyaW5nPiB2aWV3SWRzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>SensEntryFinder.SensitiveComponent sensitiveComponent =</text>
+        <text>SootClass, SootClass</text>
       </register>
     </registers>
     <search>
