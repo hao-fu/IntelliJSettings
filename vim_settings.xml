@@ -48,8 +48,8 @@
         <mark key="." line="57" column="18" />
         <mark key="^" line="57" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1479005409561">
-        <mark key="[" line="0" column="8" />
+      <file name="/a.dummy" timestamp="1483750119455">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
@@ -123,7 +123,7 @@
         <mark key="]" line="753" column="0" />
         <mark key="." line="753" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483750064509">
+      <file name="/Dummy.txt" timestamp="1483750119463">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
