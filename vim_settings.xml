@@ -165,10 +165,10 @@
         <mark key="." line="325" column="17" />
         <mark key="^" line="325" column="17" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1483749822635">
-        <mark key="[" line="148" column="30" />
-        <mark key="]" line="148" column="67" />
-        <mark key="." line="148" column="67" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1483831345271">
+        <mark key="[" line="148" column="20" />
+        <mark key="]" line="148" column="20" />
+        <mark key="." line="148" column="20" />
         <mark key="^" line="148" column="67" />
       </file>
       <file name="D:/workspace/backstage-master/src/test/java/st/cs/uni/saarland/de/testApps/TestAppTest.java" timestamp="1481178641687">
@@ -237,17 +237,25 @@
         <text>e</text>
       </register>
       <register name="1" type="4">
-        <text>mvFile(DecompiledXMLParser.v().findViewById(id).getOrigin(),
-                    Settings.getOutputDirectory() + File.separator + layoutFile.getName());</text>
+        <text>if (layoutFile == null) {
+                        AndroidView androidView = DecompiledXMLParser.v().findViewById(rid)
+                        this.layoutFile = layoutFile;
+                    }</text>
       </register>
       <register name="&quot;" type="4">
+        <text>if (layoutFile == null) {
+                        AndroidView androidView = DecompiledXMLParser.v().findViewById(rid)
+                        this.layoutFile = layoutFile;
+                    }</text>
+      </register>
+      <register name="2" type="4">
         <text>mvFile(DecompiledXMLParser.v().findViewById(id).getOrigin(),
                     Settings.getOutputDirectory() + File.separator + layoutFile.getName());</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRmlsZSBsYXlvdXRGaWxlID0gbmV3IEZpbGUoKTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>@Deprecated
     private static void addIntoSensComponent(SootClass sootClass, SootMethod entry,
                                                            SootMethod target, SensitiveView view) {
@@ -255,23 +263,20 @@
         getSensEntry(sootClass, entry, target).addView(view);
     }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL0RlY29tcGlsZWRYTUxQYXJzZXIudigpLmZpbmRWaWV3QnlJZChpZCkuZ2V0T3JpZ2luKCkpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBhdXRob3IgSGFvIEZ1KGhhb2Z1QHVjZGF2aXMuZWR1KQo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvdwo=</text>
+        <text encoding="base64">ICAgICAqIEBhdXRob3IgSGFvIEZ1KGhhb2Z1QHVjZGF2aXMuZWR1KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBhdXRob3IgSGFvIEZ1KGhhb2Z1QHVjZGF2aXMuZWR1KQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAqIEB0aHJvdwo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAqIEBhdXRob3IgSGFvIEZ1KGhhb2Z1QHVjZGF2aXMuZWR1KQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvdwo=</text>
       </register>
       <register name="-" type="4">
         <text>Settings.getOutputDirectory() + layoutFile.getName()</text>
