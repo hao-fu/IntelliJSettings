@@ -57,16 +57,16 @@
         <mark key="[" line="12" column="69" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/ClassUtils.java" timestamp="1483836740744">
-        <mark key="[" line="151" column="71" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+        <mark key="[" line="148" column="71" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FragmentTracer.java" timestamp="1483441182178">
         <mark key="[" line="109" column="20" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1483834808941">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1483837475098">
         <mark key="[" line="284" column="37" />
         <mark key="]" line="210" column="0" />
         <mark key="." line="210" column="0" />
@@ -122,7 +122,7 @@
         <mark key="]" line="753" column="0" />
         <mark key="." line="753" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483833963295">
+      <file name="/Dummy.txt" timestamp="1483836842798">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -164,11 +164,10 @@
         <mark key="." line="325" column="17" />
         <mark key="^" line="325" column="17" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1483836810193">
-        <mark key="[" line="204" column="20" />
-        <mark key="]" line="204" column="20" />
-        <mark key="." line="204" column="20" />
-        <mark key="^" line="148" column="67" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1483837258076">
+        <mark key="[" line="383" column="0" />
+        <mark key="]" line="383" column="0" />
+        <mark key="." line="383" column="0" />
       </file>
       <file name="D:/workspace/backstage-master/src/test/java/st/cs/uni/saarland/de/testApps/TestAppTest.java" timestamp="1481178641687">
         <mark key="[" line="19" column="71" />
@@ -235,57 +234,38 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="4">
-        <text>entry.getDeclaringClass().getName()
-                        .startsWith(&quot;android&quot;)
-                        || entry.getDeclaringClass().getName()
-                        .startsWith(&quot;java&quot;)
-                        || entry.getDeclaringClass().getName()
-                        .startsWith(&quot;org.apache.http&quot;)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAqIEBhdXRob3IgSGFvIEZ1KGhhb2Z1IEFUIHVjZGF2aXMuZWR1KQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>entry.getDeclaringClass().getName()
-                        .startsWith(&quot;android&quot;)
-                        || entry.getDeclaringClass().getName()
-                        .startsWith(&quot;java&quot;)
-                        || entry.getDeclaringClass().getName()
-                        .startsWith(&quot;org.apache.http&quot;)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIEBhdXRob3IgSGFvIEZ1KGhhb2Z1IEFUIHVjZGF2aXMuZWR1KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvdwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRPRE8K</text>
+        <text encoding="base64">ICAgICAqIEBhdXRob3IgSGFvIEZ1KGhhb2Z1IEFUIHVjZGF2aXMuZWR1KQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>if (layoutFile == null) {
-                        AndroidView androidView = DecompiledXMLParser.v().findViewById(rid)
-                        this.layoutFile = layoutFile;
-                    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="6" type="4">
-        <text>mvFile(DecompiledXMLParser.v().findViewById(id).getOrigin(),
-                    Settings.getOutputDirectory() + File.separator + layoutFile.getName());</text>
+        <text encoding="base64">IEBwYXJhbQogICAgICogQHRocm93</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlsZSBsYXlvdXRGaWxlID0gbmV3IEZpbGUoKTsK</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gdm9pZAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>@Deprecated
-    private static void addIntoSensComponent(SootClass sootClass, SootMethod entry,
-                                                           SootMethod target, SensitiveView view) {
-        if ()
-        getSensEntry(sootClass, entry, target).addView(view);
-    }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAqIEBhdXRob3IgSGFvIEZ1KGhhb2Z1IEFUIHVjZGF2aXMuZWR1KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL0RlY29tcGlsZWRYTUxQYXJzZXIudigpLmZpbmRWaWV3QnlJZChpZCkuZ2V0T3JpZ2luKCkpOwo=</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvdwo=</text>
       </register>
       <register name="-" type="4">
-        <text>SensEntryFinder.</text>
+        <text encoding="base64">PHNvb3QuU29vdE1ldGhvZCxqYXZhLnV0aWwuU2V0PHNvb3QuU29vdE1ldGhvZD4+</text>
       </register>
     </registers>
     <search>
