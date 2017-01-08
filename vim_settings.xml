@@ -48,7 +48,7 @@
         <mark key="." line="57" column="18" />
         <mark key="^" line="57" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1483750119455">
+      <file name="/a.dummy" timestamp="1483833963284">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -66,10 +66,10 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1483833799153">
-        <mark key="[" line="310" column="0" />
-        <mark key="]" line="310" column="0" />
-        <mark key="." line="310" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1483834808941">
+        <mark key="[" line="284" column="37" />
+        <mark key="]" line="210" column="0" />
+        <mark key="." line="210" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1483832015474">
         <mark key="[" line="250" column="1" />
@@ -122,7 +122,7 @@
         <mark key="]" line="753" column="0" />
         <mark key="." line="753" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483832699453">
+      <file name="/Dummy.txt" timestamp="1483833963295">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -164,7 +164,7 @@
         <mark key="." line="325" column="17" />
         <mark key="^" line="325" column="17" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1483831345271">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1483834235866">
         <mark key="[" line="148" column="20" />
         <mark key="]" line="148" column="20" />
         <mark key="." line="148" column="20" />
@@ -236,25 +236,31 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRPRE8K</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAqCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRPRE8K</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>if (layoutFile == null) {
                         AndroidView androidView = DecompiledXMLParser.v().findViewById(rid)
                         this.layoutFile = layoutFile;
                     }</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>mvFile(DecompiledXMLParser.v().findViewById(id).getOrigin(),
                     Settings.getOutputDirectory() + File.separator + layoutFile.getName());</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRmlsZSBsYXlvdXRGaWxlID0gbmV3IEZpbGUoKTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>@Deprecated
     private static void addIntoSensComponent(SootClass sootClass, SootMethod entry,
                                                            SootMethod target, SensitiveView view) {
@@ -262,20 +268,14 @@
         getSensEntry(sootClass, entry, target).addView(view);
     }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL0RlY29tcGlsZWRYTUxQYXJzZXIudigpLmZpbmRWaWV3QnlJZChpZCkuZ2V0T3JpZ2luKCkpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBhdXRob3IgSGFvIEZ1KGhhb2Z1QHVjZGF2aXMuZWR1KQo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvdwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL0RlY29tcGlsZWRYTUxQYXJzZXIudigpLmZpbmRWaWV3QnlJZChpZCkuZ2V0T3JpZ2luKCkpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAqIEBhdXRob3IgSGFvIEZ1KGhhb2Z1QHVjZGF2aXMuZWR1KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.getAbsolutePath()</text>
+        <text>SensEntryFinder.</text>
       </register>
     </registers>
     <search>
