@@ -122,7 +122,7 @@
         <mark key="]" line="753" column="0" />
         <mark key="." line="753" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484023483511">
+      <file name="/Dummy.txt" timestamp="1484024471829">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968666867">
@@ -191,8 +191,8 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Test.java" timestamp="1483938127732">
-        <mark key="[" line="36" column="36" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Test.java" timestamp="1484024287872">
+        <mark key="[" line="17" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
@@ -231,34 +231,35 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlMS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlMSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvb3AgPSBmYWxzZTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
+      <register name="4" type="4">
+        <text>boolean loop = true;
+        while (loop) {</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNYWluLm1haW4oYXJncyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SWdub3JlIGxpYiBkdXJpbmcgYW5hbHlzaXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlMS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBhdXRob3IgSGFvIEZ1KGhhb2Z1IEFUIHVjZGF2aXMuZWR1KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlMSkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvdwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNYWluLm1haW4oYXJncyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PHNvb3QuU29vdE1ldGhvZCxqYXZhLnV0aWwuU2V0PHNvb3QuU29vdE1ldGhvZD4+</text>
