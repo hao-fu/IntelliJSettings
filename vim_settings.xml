@@ -48,7 +48,7 @@
         <mark key="." line="57" column="18" />
         <mark key="^" line="57" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1483833963284">
+      <file name="/a.dummy" timestamp="1484024503680">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -66,8 +66,8 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1483870627869">
-        <mark key="[" line="183" column="12" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1484026037842">
+        <mark key="[" line="96" column="42" />
         <mark key="]" line="213" column="0" />
         <mark key="." line="213" column="0" />
       </file>
@@ -122,7 +122,7 @@
         <mark key="]" line="753" column="0" />
         <mark key="." line="753" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484024471829">
+      <file name="/Dummy.txt" timestamp="1484027033166">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968666867">
@@ -191,10 +191,10 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Test.java" timestamp="1484024287872">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Test.java" timestamp="1484026347083">
         <mark key="[" line="17" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/MainTestQKSMS.java" timestamp="1483833502643">
         <mark key="'" line="38" column="23" />
@@ -209,7 +209,7 @@
         <mark key="." line="28" column="10" />
         <mark key="^" line="28" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1484022498951">
+      <file name="/fragment.java" timestamp="1484024633758">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/MainTestAd.java" timestamp="1482450039057">
