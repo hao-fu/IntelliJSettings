@@ -66,12 +66,12 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1484096855539">
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
-        <mark key="." line="200" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1484097801984">
+        <mark key="[" line="134" column="39" />
+        <mark key="]" line="134" column="40" />
+        <mark key="." line="134" column="40" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1483832015474">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1484097782570">
         <mark key="[" line="250" column="1" />
         <mark key="]" line="250" column="1" />
         <mark key="." line="250" column="1" />
@@ -122,7 +122,7 @@
         <mark key="]" line="753" column="0" />
         <mark key="." line="753" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484027033166">
+      <file name="/Dummy.txt" timestamp="1484098625405">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968666867">
@@ -233,8 +233,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy53YXJuKFRBRywgImppamdzOiAiICsgIiwgIiArIHRndENsYXNzKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy53YXJuKFRBRywgImppamdzOiAiICsgIiwgIiArIHRndENsYXNzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>output</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -261,7 +261,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHNvb3QuU29vdE1ldGhvZCxqYXZhLnV0aWwuU2V0PHNvb3QuU29vdE1ldGhvZD4+</text>
+        <text>output</text>
       </register>
     </registers>
     <search>
