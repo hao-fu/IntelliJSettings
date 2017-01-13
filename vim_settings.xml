@@ -92,10 +92,10 @@
         <mark key="." line="80" column="15" />
         <mark key="^" line="80" column="15" />
       </file>
-      <file name="D:/workspace/backstage-master/src/test/java/st/cs/uni/saarland/de/saveData/ApiResultsProcessorTest.java" timestamp="1484279539754">
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="D:/workspace/backstage-master/src/test/java/st/cs/uni/saarland/de/saveData/ApiResultsProcessorTest.java" timestamp="1484282123417">
+        <mark key="[" line="17" column="60" />
+        <mark key="]" line="17" column="60" />
+        <mark key="." line="17" column="60" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/MainTestFrame.java" timestamp="1483440547753">
         <mark key="[" line="24" column="8" />
@@ -111,7 +111,7 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1475967170686">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/backstage-master/src/test/java/st/cs/uni/saarland/de/saveData/UIAnalysisTest.java" timestamp="1481214816629">
+      <file name="D:/workspace/backstage-master/src/test/java/st/cs/uni/saarland/de/saveData/UIAnalysisTest.java" timestamp="1484281698808">
         <mark key="[" line="18" column="63" />
         <mark key="]" line="18" column="28" />
         <mark key="^" line="18" column="28" />
@@ -172,6 +172,7 @@
         <mark key="." line="44" column="50" />
         <mark key="^" line="44" column="50" />
       </file>
+      <file name="D:/workspace/backstage-master/src/main/java/st/cs/uni/saarland/de/saveData/ApiResultsProcessor.java" timestamp="1484281980752" />
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/DataForwardTracer.java" timestamp="1483082356877">
         <mark key="[" line="45" column="7" />
         <mark key="]" line="45" column="7" />
@@ -234,7 +235,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy53YXJuKFRBRywgImppamdzOiAiICsgIiwgIiArIHRndENsYXNzKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>output</text>
+        <text>appSerialized.txt</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -261,7 +262,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>output</text>
+        <text>appSerialized.txt</text>
       </register>
     </registers>
     <search>
