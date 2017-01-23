@@ -66,10 +66,10 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1484097801984">
-        <mark key="[" line="134" column="39" />
-        <mark key="]" line="134" column="40" />
-        <mark key="." line="134" column="40" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1485213757628">
+        <mark key="[" line="140" column="20" />
+        <mark key="]" line="140" column="20" />
+        <mark key="." line="140" column="20" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1484097782570">
         <mark key="[" line="250" column="1" />
@@ -199,12 +199,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/MainTestQKSMS.java" timestamp="1483833502643">
-        <mark key="'" line="38" column="23" />
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="44" column="19" />
-        <mark key="." line="44" column="19" />
-        <mark key="^" line="44" column="19" />
+      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/MainTestQKSMS.java" timestamp="1485213884384">
+        <mark key="'" line="39" column="23" />
+        <mark key="[" line="20" column="59" />
+        <mark key="]" line="45" column="19" />
+        <mark key="." line="45" column="19" />
+        <mark key="^" line="45" column="19" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/MainTestDataTracer.java" timestamp="1483513714888">
         <mark key="[" line="28" column="12" />
@@ -233,38 +233,54 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy53YXJuKFRBRywgImppamdzOiAiICsgIiwgIiArIHRndENsYXNzKTsK</text>
+      <register name="1" type="4">
+        <text>File layoutFile = new File(DecompiledXMLParser.v().findViewById(id).getOrigin());
+                    try {
+                        Files.copy(layoutFile.toPath(),
+                                new File(Settings.getOutputDirectory() + File.separator + layoutFile.getName()).toPath());
+                    } catch (IOException e) {
+                        Log.warn(TAG, &quot;Cannot copy &quot; + layoutFile);
+                        Log.warn(TAG, e.getMessage());
+                        e.printStackTrace();
+                    }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>appSerialized.txt</text>
+        <text>File layoutFile = new File(DecompiledXMLParser.v().findViewById(id).getOrigin());
+                    try {
+                        Files.copy(layoutFile.toPath(),
+                                new File(Settings.getOutputDirectory() + File.separator + layoutFile.getName()).toPath());
+                    } catch (IOException e) {
+                        Log.warn(TAG, &quot;Cannot copy &quot; + layoutFile);
+                        Log.warn(TAG, e.getMessage());
+                        e.printStackTrace();
+                    }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlIGxheW91dEZpbGUgPSBuZXcgRmlsZShEZWNvbXBpbGVkWE1MUGFyc2VyLnYoKS5maW5kVmlld0J5SWQoaWQpLmdldE9yaWdpbigpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy53YXJuKFRBRywgImppamdzOiAiICsgIiwgIiArIHRndENsYXNzKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIHN0YXRpYyB7CiAgICAgICAgb21pdEFwa3MuYWRkKCJ3cy5jb3Zlcm1lLmltLmFwayIpOwogICAgICAgIG9taXRBcGtzLmFkZCgiY29tLmJibS5hcGsiKTsKICAgICAgICBvbWl0QXBrcy5hZGQoInNnLmJpZ28uYXBrIik7CiAgICAgICAgb21pdEFwa3MuYWRkKCJjb20udHJ1ZWNhbGxlci5hcGsiKTsKICAgICAgICBvbWl0QXBrcy5hZGQoImNvbS5tb3Rvcm9sYS5wdHQucHJpcHd3LmFwayIpOwogICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIHN0YXRpYyB7CiAgICAgICAgb21pdEFwa3MuYWRkKCJ3cy5jb3Zlcm1lLmltLmFwayIpOwogICAgICAgIG9taXRBcGtzLmFkZCgiY29tLmJibS5hcGsiKTsKICAgICAgICBvbWl0QXBrcy5hZGQoInNnLmJpZ28uYXBrIik7CiAgICAgICAgb21pdEFwa3MuYWRkKCJjb20udHJ1ZWNhbGxlci5hcGsiKTsKICAgICAgICBvbWl0QXBrcy5hZGQoImNvbS5tb3Rvcm9sYS5wdHQucHJpcHd3LmFwayIpOwogICAgfQ==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFNldDxTdHJpbmc+IG9taXRBcGtzID0gbmV3IEhhc2hTZXQ8PigpOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAgICBpZiAoIW5vRHVwQ2hlY2spIHsKICAgICAgICAgICAgY2hlY2tFeGFtaW5lZChhcGtzLCAib3V0cHV0L0Jvb2tzX1JlZmVyZW5jZSIpOwogICAgICAgIH0KCiAgICAgICAgU2V0PFN0cmluZz4gcm1zID0gbmV3IEhhc2hTZXQ8PigpOwogICAgICAgIGZvciAoU3RyaW5nIGFwayA6IGFwa3Mua2V5U2V0KCkpIHsKICAgICAgICAgICAgZm9yIChTdHJpbmcgb21pdHRlZCA6IG9taXRBcGtzKSB7CiAgICAgICAgICAgICAgICBpZiAoYXBrLmNvbnRhaW5zKG9taXR0ZWQpKSB7CiAgICAgICAgICAgICAgICAgICAgcm1zLmFkZChhcGspOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBmb3IgKFN0cmluZyBybSA6IHJtcykgewogICAgICAgICAgICBhcGtzLnJlbW92ZShybSk7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAoIW5vRHVwQ2hlY2spIHsKICAgICAgICAgICAgY2hlY2tFeGFtaW5lZChhcGtzLCAib3V0cHV0L0Jvb2tzX1JlZmVyZW5jZSIpOwogICAgICAgIH0=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="-" type="4">
-        <text>appSerialized.txt</text>
+        <text>layoutFile</text>
       </register>
     </registers>
     <search>
