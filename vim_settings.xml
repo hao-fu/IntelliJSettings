@@ -65,10 +65,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/workspace/TestMallet/src/WekaUtils.java" timestamp="1488424833564">
-        <mark key="[" line="129" column="13" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
+      <file name="D:/workspace/TestMallet/src/WekaUtils.java" timestamp="1488428912073">
+        <mark key="[" line="114" column="79" />
+        <mark key="]" line="114" column="77" />
+        <mark key="." line="114" column="77" />
+        <mark key="^" line="114" column="77" />
       </file>
       <file name="D:/workspace/bag-of-words/BagOfWords/src/main/java/ctrus/pa/bow/core/Vocabulary.java" timestamp="1488331369459" />
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/DataForwardTracer.java" timestamp="1483082356877">
@@ -161,7 +162,7 @@
         <mark key="]" line="753" column="0" />
         <mark key="." line="753" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485216341714">
+      <file name="/Dummy.txt" timestamp="1488427110195">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/backstage-master/runApp.sh" timestamp="1484285395281">
@@ -226,7 +227,7 @@
         <mark key="." line="45" column="19" />
         <mark key="^" line="45" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1488344605838">
+      <file name="/fragment.java" timestamp="1488427080021">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/MainTestAd.java" timestamp="1482450039057">
@@ -248,41 +249,39 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2UuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2Uuc2V0VmFsdWUoKEF0dHJpYnV0ZSlhdHRzLmdldCgwKSwgbGFiZWxsZWREb2MuZ2V0TGFiZWwoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYWxsRmlsZXMpIHsK</text>
+        <text encoding="base64">ICAgICAgICBGaWxlcy53cml0ZSgiZGF0YS5hcmZmIiwgZGF0YS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc1ZhbC5hZGQoIm5lZyIpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>import cc.mallet.classify.Classifier;
-import cc.mallet.types.InstanceList;
-import cc.mallet.util.FileUtils;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>for(File file2 : files){
-            System.out.println(file2.getName());
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF0K</text>
+      </register>
+      <register name="8" type="4">
+        <text>public LabelledDoc newInstance() {
+            return new()
         }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3RJbnB1dFN0cmVhbSBvYmplY3RJbnB1dFN0cmVhbSA9IG5ldyBPYmplY3RJbnB1dFN0cmVhbShmaWxlSW5wdXRTdHJlYW0pOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlSW5wdXRTdHJlYW0gZmlsZUlucHV0U3RyZWFtID0gbmV3IEZpbGVJbnB1dFN0cmVhbSgic2FtcGxlLWRhdGEvd2ViL2VuL2VsaXphYmV0aF9uZWVkaGFtLnR4dCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>File.listFiles(file, null, true)</text>
+        <text />
       </register>
     </registers>
     <search>
