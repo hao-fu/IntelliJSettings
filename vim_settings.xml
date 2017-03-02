@@ -65,11 +65,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/workspace/TestMallet/src/WekaUtils.java" timestamp="1488431370627">
-        <mark key="[" line="114" column="79" />
-        <mark key="]" line="114" column="77" />
-        <mark key="." line="114" column="77" />
-        <mark key="^" line="114" column="77" />
+      <file name="D:/workspace/TestMallet/src/WekaUtils.java" timestamp="1488485215075">
+        <mark key="[" line="95" column="55" />
+        <mark key="]" line="95" column="25" />
+        <mark key="." line="95" column="25" />
+        <mark key="^" line="95" column="25" />
       </file>
       <file name="D:/workspace/bag-of-words/BagOfWords/src/main/java/ctrus/pa/bow/core/Vocabulary.java" timestamp="1488331369459" />
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/DataForwardTracer.java" timestamp="1483082356877">
@@ -145,6 +145,7 @@
         <mark key="]" line="17" column="60" />
         <mark key="." line="17" column="60" />
       </file>
+      <file name="D:/workspace/TestMallet/data.arff" timestamp="1488484922670" />
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/OSUtils.java" timestamp="1479023714481">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="96" column="17" />
@@ -249,36 +250,34 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2UuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9jID0gZG9jLnJlcGxhY2UoIlsiLCAiIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2Uuc2V0VmFsdWUoKEF0dHJpYnV0ZSlhdHRzLmdldCgwKSwgbGFiZWxsZWREb2MuZ2V0TGFiZWwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJkb2M6ICIgKyBkb2MpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlcy53cml0ZSgiZGF0YS5hcmZmIiwgZGF0YS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc1ZhbC5hZGQoIm5lZyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5kb2MgPSBkb2M7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2UuCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>public LabelledDoc newInstance() {
-            return new()
-        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2Uuc2V0VmFsdWUoKEF0dHJpYnV0ZSlhdHRzLmdldCgwKSwgbGFiZWxsZWREb2MuZ2V0TGFiZWwoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBGaWxlcy53cml0ZSgiZGF0YS5hcmZmIiwgZGF0YS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="-" type="4">
         <text />
