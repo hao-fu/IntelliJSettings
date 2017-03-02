@@ -65,11 +65,10 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/workspace/TestMallet/src/WekaUtils.java" timestamp="1488415173658">
-        <mark key="[" line="50" column="60" />
-        <mark key="]" line="50" column="25" />
-        <mark key="." line="50" column="25" />
-        <mark key="^" line="50" column="25" />
+      <file name="D:/workspace/TestMallet/src/WekaUtils.java" timestamp="1488421997802">
+        <mark key="[" line="81" column="10" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="D:/workspace/bag-of-words/BagOfWords/src/main/java/ctrus/pa/bow/core/Vocabulary.java" timestamp="1488331369459" />
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/DataForwardTracer.java" timestamp="1483082356877">
@@ -248,13 +247,19 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBmaWx0ZXIuc2V0TG93ZXJDYXNlVG9rZW5zKHRydWUpOwo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmaWx0ZXIuc2V0TG93ZXJDYXNlVG9rZW5zKHRydWUpOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBmaWx0ZXIuc2V0VXNlU3RvcGxpc3QodHJ1ZSk7Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgICAgICAgSW1wb3J0RXhhbXBsZSBpbXBvcnRlciA9IG5ldyBJbXBvcnRFeGFtcGxlKCk7CiAgICAgICAgSW5zdGFuY2VMaXN0IGluc3RhbmNlcyA9IGltcG9ydGVyLnJlYWREaXJlY3RvcnkobmV3IEZpbGUoYXJnc1swXSkpOwogICAgICAgIGluc3RhbmNlcy5zYXZlKG5ldyBGaWxlKGFyZ3NbMV0pKTsKCiAgICAgICAgaW1wb3J0ZXIuc2F2ZUNsYXNzaWZpZXIoaW1wb3J0ZXIudHJhaW5DbGFzc2lmaWVyKGluc3RhbmNlcyksIG5ldyBGaWxlKCJ0cmFpbmVkLm1vZGVsIikpOwogICAgICAgIENsYXNzaWZpZXIgY2xhc3NpZmllciA9IGltcG9ydGVyLmxvYWRDbGFzc2lmaWVyKG5ldyBGaWxlKCJ0cmFpbmVkLm1vZGVsIikpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihjbGFzc2lmaWVyLmdldExhYmVsQWxwaGFiZXQoKSk7</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>, ClassNotFoundException</text>
-      </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>File layoutFile = new File(DecompiledXMLParser.v().findViewById(id).getOrigin());
                     try {
                         Files.copy(layoutFile.toPath(),
@@ -265,26 +270,20 @@
                         e.printStackTrace();
                     }</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBGaWxlIGxheW91dEZpbGUgPSBuZXcgRmlsZShEZWNvbXBpbGVkWE1MUGFyc2VyLnYoKS5maW5kVmlld0J5SWQoaWQpLmdldE9yaWdpbigpKTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy53YXJuKFRBRywgImppamdzOiAiICsgIiwgIiArIHRndENsYXNzKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIHN0YXRpYyB7CiAgICAgICAgb21pdEFwa3MuYWRkKCJ3cy5jb3Zlcm1lLmltLmFwayIpOwogICAgICAgIG9taXRBcGtzLmFkZCgiY29tLmJibS5hcGsiKTsKICAgICAgICBvbWl0QXBrcy5hZGQoInNnLmJpZ28uYXBrIik7CiAgICAgICAgb21pdEFwa3MuYWRkKCJjb20udHJ1ZWNhbGxlci5hcGsiKTsKICAgICAgICBvbWl0QXBrcy5hZGQoImNvbS5tb3Rvcm9sYS5wdHQucHJpcHd3LmFwayIpOwogICAgfQ==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFNldDxTdHJpbmc+IG9taXRBcGtzID0gbmV3IEhhc2hTZXQ8PigpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIHN0YXRpYyB7CiAgICAgICAgb21pdEFwa3MuYWRkKCJ3cy5jb3Zlcm1lLmltLmFwayIpOwogICAgICAgIG9taXRBcGtzLmFkZCgiY29tLmJibS5hcGsiKTsKICAgICAgICBvbWl0QXBrcy5hZGQoInNnLmJpZ28uYXBrIik7CiAgICAgICAgb21pdEFwa3MuYWRkKCJjb20udHJ1ZWNhbGxlci5hcGsiKTsKICAgICAgICBvbWl0QXBrcy5hZGQoImNvbS5tb3Rvcm9sYS5wdHQucHJpcHd3LmFwayIpOwogICAgfQ==</text>
       </register>
       <register name="-" type="4">
         <text>, ClassNotFoundException</text>
