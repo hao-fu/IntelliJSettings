@@ -26,7 +26,6 @@
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="D:/workspace/TestML/app/libs/weka.jar!/weka/core/DictionaryBuilder.class" timestamp="1488497693216" />
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Test.java" timestamp="1476757822894">
         <mark key="[" line="12" column="69" />
       </file>
@@ -51,7 +50,6 @@
         <mark key="]" line="24" column="8" />
         <mark key="." line="24" column="8" />
       </file>
-      <file name="D:/workspace/TestMallet/src/Main.java" timestamp="1488343419242" />
       <file name="D:/workspace/TestMallet/src/ImportExample.java" timestamp="1488408061777">
         <mark key="[" line="101" column="56" />
         <mark key="]" line="101" column="26" />
@@ -66,12 +64,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/workspace/TestMallet/src/WekaUtils.java" timestamp="1488502680324">
-        <mark key="[" line="75" column="21" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="D:/workspace/TestMallet/src/WekaUtils.java" timestamp="1488596419389">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
-      <file name="D:/workspace/bag-of-words/BagOfWords/src/main/java/ctrus/pa/bow/core/Vocabulary.java" timestamp="1488331369459" />
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/DataForwardTracer.java" timestamp="1483082356877">
         <mark key="[" line="45" column="7" />
         <mark key="]" line="45" column="7" />
@@ -92,14 +89,12 @@
         <mark key="." line="28" column="10" />
         <mark key="^" line="28" column="10" />
       </file>
-      <file name="D:/workspace/bag-of-words/BagOfWords/src/main/java/ctrus/pa/bow/core/BOWOptionsImpl.java" timestamp="1488331096353" />
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/utils/soot/ApkPackerTest.java" timestamp="1478742511536">
         <mark key="[" line="14" column="30" />
         <mark key="]" line="16" column="15" />
         <mark key="^" line="16" column="15" />
         <mark key="." line="16" column="15" />
       </file>
-      <file name="D:/workspace/TestML/app/libs/weka.jar!/weka/core/Instances.class" timestamp="1488497659025" />
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/AndroidView.java" timestamp="1483520105821">
         <mark key="[" line="282" column="83" />
         <mark key="]" line="282" column="27" />
@@ -146,7 +141,6 @@
         <mark key="]" line="17" column="60" />
         <mark key="." line="17" column="60" />
       </file>
-      <file name="D:/workspace/TestMallet/data.arff" timestamp="1488497377812" />
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/OSUtils.java" timestamp="1479023714481">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="96" column="17" />
@@ -251,34 +245,34 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByYW5kb21Gb3Jlc3Qucwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RvcHdvcmRzLmdsb2JhbEluZm8oKSk7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByYW5kb21Gb3Jlc3Qucwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RvcHdvcmRzLmdsb2JhbEluZm8oKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYW5kb21Gb3Jlc3Qucwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9jID0gZG9jLnJlcGxhY2UoIlsiLCAiIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJkb2M6ICIgKyBkb2MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9jID0gZG9jLnJlcGxhY2UoIlsiLCAiIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJkb2M6ICIgKyBkb2MpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5kb2MgPSBkb2M7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5kb2MgPSBkb2M7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2UuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2Uuc2V0VmFsdWUoKEF0dHJpYnV0ZSlhdHRzLmdldCgwKSwgbGFiZWxsZWREb2MuZ2V0TGFiZWwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2UuCg==</text>
       </register>
       <register name="-" type="4">
         <text />
