@@ -64,10 +64,10 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/workspace/TestMallet/src/WekaUtils.java" timestamp="1488672840684">
-        <mark key="[" line="215" column="96" />
-        <mark key="]" line="216" column="0" />
-        <mark key="." line="216" column="0" />
+      <file name="D:/workspace/TestMallet/src/WekaUtils.java" timestamp="1488673021240">
+        <mark key="[" line="321" column="0" />
+        <mark key="]" line="321" column="0" />
+        <mark key="." line="321" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/DataForwardTracer.java" timestamp="1483082356877">
         <mark key="[" line="45" column="7" />
@@ -245,34 +245,34 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2xhc3NpZmllci4pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2xhc3NpZmllci4pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBldmFsLmV2YWx1YXRlTW9kZWwoKTsK</text>
+        <text encoding="base64">ICAgICAgICAvL1N5c3RlbS5vdXQucHJpbnRsbihmaWx0ZXJlZENsYXNzaWZpZXIuZ2V0QmF0Y2hTaXplKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4obGF0aW4xKTsK</text>
+        <text encoding="base64">ICAgICAgICAvL0ZpbHRlcmVkQ2xhc3NpZmllciBmaWx0ZXJlZENsYXNzaWZpZXIgPSBXZWthVXRpbHMuYnVpbGRDbGFzc2lmaWVyKGluc3RhbmNlcywgZmFsc2UpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZmlsdGVyZWRDbGFzc2lmaWVyLmdldEJhdGNoU2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY2xhc3NpZmllci4pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKG5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBldmFsLmV2YWx1YXRlTW9kZWwoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2VzLmF0dHJpYnV0ZShpKS5zOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4obGF0aW4xKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2VzLmF0dHJpYnV0ZShpKS5zZXRTdHJpbmdWYWx1ZShuYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZmlsdGVyZWRDbGFzc2lmaWVyLmdldEJhdGNoU2l6ZSgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGZpeEVuY29kaW5nKHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJuYW1lIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKG5hbWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGZpeEVuY29kaW5nKHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJuYW1lIikpO2luc3RhbmNlcy5hdHRyaWJ1dGUoaSkubmFtZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2VzLmF0dHJpYnV0ZShpKS5zOwo=</text>
       </register>
       <register name="-" type="4">
         <text>randomForest</text>
