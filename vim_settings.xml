@@ -64,11 +64,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/workspace/TestMallet/src/WekaUtils.java" timestamp="1488753889673">
-        <mark key="[" line="387" column="58" />
-        <mark key="]" line="387" column="7" />
-        <mark key="." line="387" column="7" />
-        <mark key="^" line="387" column="7" />
+      <file name="D:/workspace/TestMallet/src/WekaUtils.java" timestamp="1488754669472">
+        <mark key="[" line="388" column="8" />
+        <mark key="]" line="388" column="8" />
+        <mark key="." line="388" column="8" />
+        <mark key="^" line="181" column="47" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/DataForwardTracer.java" timestamp="1483082356877">
         <mark key="[" line="45" column="7" />
@@ -159,7 +159,7 @@
         <mark key="]" line="753" column="0" />
         <mark key="." line="753" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488750743776">
+      <file name="/Dummy.txt" timestamp="1488754012382">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/backstage-master/runApp.sh" timestamp="1484285395281">
@@ -246,40 +246,50 @@
         <text>e</text>
       </register>
       <register name="1" type="4">
+        <text>Instances unlabelled = docs2Instances(unlabelledDocs, labels);
+        testInstances = Filter.useFilter(unlabelled, stringToWordVector);
+        for (Instance instance : testInstances) {
+            Double clsLabel = filteredClassifier.classifyInstance(instance);
+            System.out.println(&quot;Predicted: &quot; + clsLabel);
+        }</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>Instances unlabelled = docs2Instances(unlabelledDocs, labels);
+        testInstances = Filter.useFilter(unlabelled, stringToWordVector);
+        for (Instance instance : testInstances) {
+            Double clsLabel = filteredClassifier.classifyInstance(instance);
+            System.out.println(&quot;Predicted: &quot; + clsLabel);
+        }</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB1bmxhYmVsbGVkLmFkZChkb2MpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gdW5sYWJlbGxlZCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiBjbGFzc1ZhbCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGZvciAoU3RyaW5nIGxhYmVsIDogbGFiZWxzKSB7CiAgICAgICAgICAgIGNsYXNzVmFsLmFkZChsYWJlbCk7CiAgICAgICAgfQ==</text>
+      </register>
+      <register name="5" type="4">
         <text>System.out.println(eval.toSummaryString(&quot;\nResults\n======\n&quot;, false));
         System.out.println(eval.toClassDetailsString());
         System.out.println(eval.toMatrixString());</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>eval = new Evaluation(instances);
         eval.evaluateModel(filteredClassifier, testInstances);</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBhdHRzLmFkZChhdHRyaWJ1dGUyKTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBBdHRyaWJ1dGUgYXR0cmlidXRlMiA9IG5ldyBBdHRyaWJ1dGUoInRleHRfbGFiZWwiLCBjbGFzc1ZhbCk7IC8vIERvIG5vdCB1c2UgY29tbW9uIHdvcmRzIGZvciB0aGlzIGF0dHJpYnV0ZQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2Uuc2V0VmFsdWUoKEF0dHJpYnV0ZSlhdHRzLmdldCgxKSwgbGFiZWxsZWREb2MuZ2V0TGFiZWwoKSk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBGaWx0ZXIudXNlRmlsdGVyKCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvdwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAvKgogICAgICAgIGNsYXNzaWZpZXIuc2V0QmFnU2l6ZVBlcmNlbnQoMTAwKTsKICAgICAgICBjbGFzc2lmaWVyLnNldEJhdGNoU2l6ZSgiMTAwIik7CiAgICAgICAgY2xhc3NpZmllci5zZXROdW1FeGVjdXRpb25TbG90cygxKTsKICAgICAgICBjbGFzc2lmaWVyLnNldE51bURlY2ltYWxQbGFjZXMoMik7CiAgICAgICAgY2xhc3NpZmllci5zZXROdW1JdGVyYXRpb25zKDEwMCk7CiAgICAgICAgY2xhc3NpZmllci5zZXRTZWVkKDEpOwogICAgICAgICov</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.add(doc)</text>
       </register>
     </registers>
     <search>
