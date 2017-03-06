@@ -64,11 +64,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/workspace/TestMallet/src/WekaUtils.java" timestamp="1488754669472">
-        <mark key="[" line="388" column="8" />
-        <mark key="]" line="388" column="8" />
-        <mark key="." line="388" column="8" />
-        <mark key="^" line="181" column="47" />
+      <file name="D:/workspace/TestMallet/src/WekaUtils.java" timestamp="1488761199395">
+        <mark key="[" line="185" column="16" />
+        <mark key="]" line="185" column="16" />
+        <mark key="." line="185" column="16" />
+        <mark key="^" line="186" column="28" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/DataForwardTracer.java" timestamp="1483082356877">
         <mark key="[" line="45" column="7" />
@@ -254,12 +254,7 @@
         }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Instances unlabelled = docs2Instances(unlabelledDocs, labels);
-        testInstances = Filter.useFilter(unlabelled, stringToWordVector);
-        for (Instance instance : testInstances) {
-            Double clsLabel = filteredClassifier.classifyInstance(instance);
-            System.out.println(&quot;Predicted: &quot; + clsLabel);
-        }</text>
+        <text encoding="base64">YyAhPSBudWxsICYmICFsYWJlbHMuaXNFbXB0eSgp</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB1bmxhYmVsbGVkLmFkZChkb2MpOwo=</text>
@@ -289,7 +284,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2Uuc2V0VmFsdWUoKEF0dHJpYnV0ZSlhdHRzLmdldCgxKSwgbGFiZWxsZWREb2MuZ2V0TGFiZWwoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.add(doc)</text>
+        <text encoding="base64">YyAhPSBudWxsICYmICFsYWJlbHMuaXNFbXB0eSgp</text>
       </register>
     </registers>
     <search>
