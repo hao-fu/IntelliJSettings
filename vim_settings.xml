@@ -70,9 +70,6 @@
       </file>
       <file name="D:/Program Files/Weka-3-8/weka-src.jar!/src/main/java/weka/core/stopwords/Rainbow.java" timestamp="1489006433347" />
       <file name="D:/Program Files/Weka-3-8/weka-src.jar!/src/main/java/weka/core/stopwords/AbstractFileBasedStopwords.java" timestamp="1489005830247" />
-      <file name="D:/workspace/android-ml-weka/src/weka/filters/unsupervised/attribute/StringToWordVector.java" timestamp="1489014971828">
-        <mark key="[" line="1273" column="3" />
-      </file>
       <file name="/fragment.java" timestamp="1489005387428">
         <mark key="[" line="0" column="0" />
       </file>
@@ -90,12 +87,40 @@
         <text>e</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBNYWluQXBwbGljYXRpb24uZ2V0RmlsZUV4dGVybmFsbHkoV2VrYVV0aWxzLlNUUklOR19WRUNfRklMVEVSX1BBVEgp</text>
+        <text>/**
+     * Sets the stopwords handler to use.
+     *
+     * @param value the stopwords handler, if null, Null is used
+     */
+    public void setStopwordsHandler(StopwordsHandler value) {
+        if (value != null) {
+            m_dictionaryBuilder.setStopwordsHandler(value);
+        } else {
+            m_dictionaryBuilder.setStopwordsHandler(new Null());
+        }
+    }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>unlabelledInstances</text>
+        <text>/**
+     * Sets the stopwords handler to use.
+     *
+     * @param value the stopwords handler, if null, Null is used
+     */
+    public void setStopwordsHandler(StopwordsHandler value) {
+        if (value != null) {
+            m_dictionaryBuilder.setStopwordsHandler(value);
+        } else {
+            m_dictionaryBuilder.setStopwordsHandler(new Null());
+        }
+    }</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IC8qKiBVc2VkIHRvIGJ1aWxkIGFuZCBtYW5hZ2UgdGhlIGRpY3Rpb25hcnkgKyB2ZWN0b3JpemF0aW9uICovCiAgICBwcm90ZWN0ZWQgRGljdGlvbmFyeUJ1aWxkZXIgbV9kaWN0aW9uYXJ5QnVpbGRlciA9IG5ldyBEaWN0aW9uYXJ5QnVpbGRlcigpOw==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBNYWluQXBwbGljYXRpb24uZ2V0RmlsZUV4dGVybmFsbHkoV2VrYVV0aWxzLlNUUklOR19WRUNfRklMVEVSX1BBVEgp</text>
+      </register>
+      <register name="4" type="4">
         <text>Instances unlabelled = docs2Instances(unlabelledDocs, labels);
         testInstances = Filter.useFilter(unlabelled, stringToWordVector);
         for (Instance instance : testInstances) {
@@ -103,29 +128,23 @@
             System.out.println(&quot;Predicted: &quot; + clsLabel);
         }</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB1bmxhYmVsbGVkLmFkZChkb2MpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gdW5sYWJlbGxlZCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiBjbGFzc1ZhbCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGZvciAoU3RyaW5nIGxhYmVsIDogbGFiZWxzKSB7CiAgICAgICAgICAgIGNsYXNzVmFsLmFkZChsYWJlbCk7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>System.out.println(eval.toSummaryString(&quot;\nResults\n======\n&quot;, false));
         System.out.println(eval.toClassDetailsString());
         System.out.println(eval.toMatrixString());</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>eval = new Evaluation(instances);
         eval.evaluateModel(filteredClassifier, testInstances);</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRzLmFkZChhdHRyaWJ1dGUyKTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBdHRyaWJ1dGUgYXR0cmlidXRlMiA9IG5ldyBBdHRyaWJ1dGUoInRleHRfbGFiZWwiLCBjbGFzc1ZhbCk7IC8vIERvIG5vdCB1c2UgY29tbW9uIHdvcmRzIGZvciB0aGlzIGF0dHJpYnV0ZQo=</text>
       </register>
       <register name="-" type="4">
         <text>unlabelledInstances</text>
