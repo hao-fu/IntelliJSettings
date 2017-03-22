@@ -111,8 +111,10 @@
       <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/Main.java" timestamp="1476156527938">
         <mark key="[" line="405" column="12" />
       </file>
-      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1490046638644">
-        <mark key="[" line="354" column="4" />
+      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1490153447253">
+        <mark key="[" line="114" column="17" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/utils/OSUtilsTest.java" timestamp="1479169358931">
         <mark key="[" line="27" column="8" />
@@ -335,42 +337,35 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVbml0IHVuaXQgPSBvdXQuc3JjVW5pdCgpOwoJCQkJCQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBtZXRhLWNsYXNzaWZpZXIK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVbml0IHVuaXQgPSBvdXQuc3JjVW5pdCgpOwoJCQkJCQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBtZXRhLWNsYXNzaWZpZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQlVbml0IHVuaXQgPSBvdXQuc3JjVW5pdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc2lmaWVyLnNldENsYXNzaWZpZXIoY2xhc3NpZmllcik7IC8vajQ4KTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihhcHAuZ2V0QXBwKCkuZ2V0U291cmNlcygpKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICBGaWx0ZXJlZENsYXNzaWZpZXIgZmMgPSBuZXcgRmlsdGVyZWRDbGFzc2lmaWVyKCk7CiAgICAgICAgaWYgKHJtRmlyc3QpIHsKICAgICAgICAgICAgLy8gZmlsdGVyCiAgICAgICAgICAgIFJlbW92ZSBybSA9IG5ldyBSZW1vdmUoKTsKICAgICAgICAgICAgcm0uc2V0QXR0cmlidXRlSW5kaWNlcygiMSIpOyAgLy8gcmVtb3ZlIDFzdCBhdHRyaWJ1dGUKICAgICAgICAgICAgZmMuc2V0RmlsdGVyKHJtKTsKICAgICAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVbml0IHVuaXQgPSBvdXQuc3JjVW5pdCgpOwoJCQkJCQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LyoKCQlhcHAgPSBuZXcgU2V0dXBBcHBsaWNhdGlvbihTZXR0aW5ncy5wbGF0Zm9ybURpciwgU2V0dGluZ3MuZ2V0QXBrUGF0aCgpKTsKCQl0cnkgewoJCQkvLyBTZXQgY29uZmlndXJhdGlvbiBvYmplY3QKCQkJLy8gU3VwcG9ydCBsYXlvdXQgbW9kZS4gLS1IYW8KCQkJLy8gY29uZmlnLnNldExheW91dE1hdGNoaW5nTW9kZShMYXlvdXRNYXRjaGluZ01vZGUuTWF0Y2hBbGwpOwoJCQljb25maWcuc2V0TGF5b3V0TWF0Y2hpbmdNb2RlKExheW91dE1hdGNoaW5nTW9kZS5NYXRjaEFsbCk7CgkJCS8vIGN0eCBzZW5zaXRpdmUKCQkJLy8gY29uZmlnLnNldFBhdGhCdWlsZGVyKFBhdGhCdWlsZGVyLkNvbnRleHRTZW5zaXRpdmUpOwoJCQkvLyAtLXNhZmVtb2RlCgkJCS8vIEluZm9mbG93QW5kcm9pZENvbmZpZ3VyYXRpb24uc2V0VXNlVGhpc0NoYWluUmVkdWN0aW9uKGZhbHNlKTsKCQkJSW5mb2Zsb3dBbmRyb2lkQ29uZmlndXJhdGlvbgoJCQkJCS5zZXRBY2Nlc3NQYXRoTGVuZ3RoKEludGVnZXIudmFsdWVPZigzKSk7CgkJCWNvbmZpZy5zZXRDYWxsZ3JhcGhBbGdvcml0aG0oQ2FsbGdyYXBoQWxnb3JpdGhtLkNIQSk7CgkJCWFwcC5zZXRDb25maWcoY29uZmlnKTsKCgkJCWZpbmFsIElUYWludFByb3BhZ2F0aW9uV3JhcHBlciB0YWludFdyYXBwZXI7CgkJCWlmIChub1RhaW50V3JhcHBlcikKCQkJCXRhaW50V3JhcHBlciA9IG51bGw7CgkJCWVsc2UgaWYgKHN1bW1hcnlQYXRoICE9IG51bGwgJiYgIXN1bW1hcnlQYXRoLmlzRW1wdHkoKSkgewoJCQkJU3lzdGVtLm91dC5wcmludGxuKCJVc2luZyB0aGUgU3R1YkRyb2lkIHRhaW50IHdyYXBwZXIiKTsKCQkJCXRhaW50V3JhcHBlciA9IGNyZWF0ZUxpYnJhcnlTdW1tYXJ5VFcoKTsKCQkJCWlmICh0YWludFdyYXBwZXIgPT0gbnVsbCkgewoJCQkJCVN5c3RlbS5lcnIucHJpbnRsbigiQ291bGQgbm90IGluaXRpYWxpemUgU3R1YkRyb2lkIik7CgkJCQl9CgkJCX0gZWxzZSB7CgkJCQlmaW5hbCBFYXN5VGFpbnRXcmFwcGVyIGVhc3lUYWludFdyYXBwZXI7CgkJCQlpZiAobmV3IEZpbGUoIi4uL3Nvb3QtaW5mb2Zsb3cvRWFzeVRhaW50V3JhcHBlclNvdXJjZS50eHQiKQoJCQkJCQkuZXhpc3RzKCkpCgkJCQkJZWFzeVRhaW50V3JhcHBlciA9IG5ldyBFYXN5VGFpbnRXcmFwcGVyKAoJCQkJCQkJIi4uL3Nvb3QtaW5mb2Zsb3cvRWFzeVRhaW50V3JhcHBlclNvdXJjZS50eHQiKTsKCQkJCWVsc2UKCQkJCQllYXN5VGFpbnRXcmFwcGVyID0gbmV3IEVhc3lUYWludFdyYXBwZXIoCgkJCQkJCQkiRWFzeVRhaW50V3JhcHBlclNvdXJjZS50eHQiKTsKCQkJCWVhc3lUYWludFdyYXBwZXIuc2V0QWdncmVzc2l2ZU1vZGUoYWdncmVzc2l2ZVRhaW50V3JhcHBlcik7CgkJCQl0YWludFdyYXBwZXIgPSBlYXN5VGFpbnRXcmFwcGVyOwoJCQl9CgkJCWFwcC5zZXRUYWludFdyYXBwZXIodGFpbnRXcmFwcGVyKTsKCQkJYXBwLmNhbGN1bGF0ZVNvdXJjZXNTaW5rc0VudHJ5cG9pbnRzKCJTb3VyY2VzQW5kU2lua3MudHh0Iik7CgoJCQlpZiAoREVCVUcpIHsKCQkJCWFwcC5wcmludEVudHJ5cG9pbnRzKCk7CgkJCQlhcHAucHJpbnRTaW5rcygpOwoJCQkJYXBwLnByaW50U291cmNlcygpOwoJCQl9CgoJCQkvL2FwcC5sb2FkQ2xhc3Nlc0FuZENHKCk7CgkJCS8vIGFwcC5ydW5JbmZvZmxvdygpOwoJCQlzZXRDRyhTY2VuZS52KCkuZ2V0Q2FsbEdyYXBoKCkpOwoJCQlsb2dnZXIuaW5mbygiY2dzOiAiICsgY2cuc2l6ZSgpKTsKCQkJc2V0SUNGRyhuZXcgSmltcGxlQmFzZWRJbnRlcnByb2NlZHVyYWxDRkcoKSk7CgkJfSBjYXRjaCAoSU9FeGNlcHRpb24gZXgpIHsKCQkJbG9nZ2VyLmVycm9yKCJDb3VsZCBub3QgcmVhZCBmaWxlOiAiICsgZXguZ2V0TWVzc2FnZSgpKTsKCQkJZXgucHJpbnRTdGFja1RyYWNlKCk7CgkJCXRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKGV4KTsKCQl9IGNhdGNoIChYbWxQdWxsUGFyc2VyRXhjZXB0aW9uIGV4KSB7CgkJCWxvZ2dlci5lcnJvcigiQ291bGQgbm90IHJlYWQgQW5kcm9pZCBtYW5pZmVzdCBmaWxlOiAiCgkJCQkJKyBleC5nZXRNZXNzYWdlKCkpOwoJCQlleC5wcmludFN0YWNrVHJhY2UoKTsKCQkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oZXgpOwoJCX0qLw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQlVbml0IHVuaXQgPSBvdXQuc3JjVW5pdCgpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>toString()
-							.contains(&quot;android.support.v&quot;)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihhcHAuZ2V0QXBwKCkuZ2V0U291cmNlcygpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXByaXZhdGUgU2V0dXBBcHBsaWNhdGlvbiBhcHA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCQltZXRob2QuZ2V0QWN0aXZlQm9keSgpOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">LyoKCQlhcHAgPSBuZXcgU2V0dXBBcHBsaWNhdGlvbihTZXR0aW5ncy5wbGF0Zm9ybURpciwgU2V0dGluZ3MuZ2V0QXBrUGF0aCgpKTsKCQl0cnkgewoJCQkvLyBTZXQgY29uZmlndXJhdGlvbiBvYmplY3QKCQkJLy8gU3VwcG9ydCBsYXlvdXQgbW9kZS4gLS1IYW8KCQkJLy8gY29uZmlnLnNldExheW91dE1hdGNoaW5nTW9kZShMYXlvdXRNYXRjaGluZ01vZGUuTWF0Y2hBbGwpOwoJCQljb25maWcuc2V0TGF5b3V0TWF0Y2hpbmdNb2RlKExheW91dE1hdGNoaW5nTW9kZS5NYXRjaEFsbCk7CgkJCS8vIGN0eCBzZW5zaXRpdmUKCQkJLy8gY29uZmlnLnNldFBhdGhCdWlsZGVyKFBhdGhCdWlsZGVyLkNvbnRleHRTZW5zaXRpdmUpOwoJCQkvLyAtLXNhZmVtb2RlCgkJCS8vIEluZm9mbG93QW5kcm9pZENvbmZpZ3VyYXRpb24uc2V0VXNlVGhpc0NoYWluUmVkdWN0aW9uKGZhbHNlKTsKCQkJSW5mb2Zsb3dBbmRyb2lkQ29uZmlndXJhdGlvbgoJCQkJCS5zZXRBY2Nlc3NQYXRoTGVuZ3RoKEludGVnZXIudmFsdWVPZigzKSk7CgkJCWNvbmZpZy5zZXRDYWxsZ3JhcGhBbGdvcml0aG0oQ2FsbGdyYXBoQWxnb3JpdGhtLkNIQSk7CgkJCWFwcC5zZXRDb25maWcoY29uZmlnKTsKCgkJCWZpbmFsIElUYWludFByb3BhZ2F0aW9uV3JhcHBlciB0YWludFdyYXBwZXI7CgkJCWlmIChub1RhaW50V3JhcHBlcikKCQkJCXRhaW50V3JhcHBlciA9IG51bGw7CgkJCWVsc2UgaWYgKHN1bW1hcnlQYXRoICE9IG51bGwgJiYgIXN1bW1hcnlQYXRoLmlzRW1wdHkoKSkgewoJCQkJU3lzdGVtLm91dC5wcmludGxuKCJVc2luZyB0aGUgU3R1YkRyb2lkIHRhaW50IHdyYXBwZXIiKTsKCQkJCXRhaW50V3JhcHBlciA9IGNyZWF0ZUxpYnJhcnlTdW1tYXJ5VFcoKTsKCQkJCWlmICh0YWludFdyYXBwZXIgPT0gbnVsbCkgewoJCQkJCVN5c3RlbS5lcnIucHJpbnRsbigiQ291bGQgbm90IGluaXRpYWxpemUgU3R1YkRyb2lkIik7CgkJCQl9CgkJCX0gZWxzZSB7CgkJCQlmaW5hbCBFYXN5VGFpbnRXcmFwcGVyIGVhc3lUYWludFdyYXBwZXI7CgkJCQlpZiAobmV3IEZpbGUoIi4uL3Nvb3QtaW5mb2Zsb3cvRWFzeVRhaW50V3JhcHBlclNvdXJjZS50eHQiKQoJCQkJCQkuZXhpc3RzKCkpCgkJCQkJZWFzeVRhaW50V3JhcHBlciA9IG5ldyBFYXN5VGFpbnRXcmFwcGVyKAoJCQkJCQkJIi4uL3Nvb3QtaW5mb2Zsb3cvRWFzeVRhaW50V3JhcHBlclNvdXJjZS50eHQiKTsKCQkJCWVsc2UKCQkJCQllYXN5VGFpbnRXcmFwcGVyID0gbmV3IEVhc3lUYWludFdyYXBwZXIoCgkJCQkJCQkiRWFzeVRhaW50V3JhcHBlclNvdXJjZS50eHQiKTsKCQkJCWVhc3lUYWludFdyYXBwZXIuc2V0QWdncmVzc2l2ZU1vZGUoYWdncmVzc2l2ZVRhaW50V3JhcHBlcik7CgkJCQl0YWludFdyYXBwZXIgPSBlYXN5VGFpbnRXcmFwcGVyOwoJCQl9CgkJCWFwcC5zZXRUYWludFdyYXBwZXIodGFpbnRXcmFwcGVyKTsKCQkJYXBwLmNhbGN1bGF0ZVNvdXJjZXNTaW5rc0VudHJ5cG9pbnRzKCJTb3VyY2VzQW5kU2lua3MudHh0Iik7CgoJCQlpZiAoREVCVUcpIHsKCQkJCWFwcC5wcmludEVudHJ5cG9pbnRzKCk7CgkJCQlhcHAucHJpbnRTaW5rcygpOwoJCQkJYXBwLnByaW50U291cmNlcygpOwoJCQl9CgoJCQkvL2FwcC5sb2FkQ2xhc3Nlc0FuZENHKCk7CgkJCS8vIGFwcC5ydW5JbmZvZmxvdygpOwoJCQlzZXRDRyhTY2VuZS52KCkuZ2V0Q2FsbEdyYXBoKCkpOwoJCQlsb2dnZXIuaW5mbygiY2dzOiAiICsgY2cuc2l6ZSgpKTsKCQkJc2V0SUNGRyhuZXcgSmltcGxlQmFzZWRJbnRlcnByb2NlZHVyYWxDRkcoKSk7CgkJfSBjYXRjaCAoSU9FeGNlcHRpb24gZXgpIHsKCQkJbG9nZ2VyLmVycm9yKCJDb3VsZCBub3QgcmVhZCBmaWxlOiAiICsgZXguZ2V0TWVzc2FnZSgpKTsKCQkJZXgucHJpbnRTdGFja1RyYWNlKCk7CgkJCXRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKGV4KTsKCQl9IGNhdGNoIChYbWxQdWxsUGFyc2VyRXhjZXB0aW9uIGV4KSB7CgkJCWxvZ2dlci5lcnJvcigiQ291bGQgbm90IHJlYWQgQW5kcm9pZCBtYW5pZmVzdCBmaWxlOiAiCgkJCQkJKyBleC5nZXRNZXNzYWdlKCkpOwoJCQlleC5wcmludFN0YWNrVHJhY2UoKTsKCQkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oZXgpOwoJCX0qLw==</text>
       </register>
       <register name="9" type="4">
-        <text>//restore the class path because of soot.G.reset() in calculateSourcesSinksEntrypoints:
-		if (OSUtils.isWindows()) {
-			Options.v().set_soot_classpath(sdkJar + &quot;;&quot; + apk);
-			Scene.v().setSootClassPath(sdkJar + &quot;;&quot; + apk);
-		} else {
-			Options.v().set_soot_classpath(sdkJar + &quot;:&quot; + apk);
-			Scene.v().setSootClassPath(sdkJar + &quot;:&quot; + apk);
-		}</text>
+        <text>toString()
+							.contains(&quot;android.support.v&quot;)</text>
       </register>
       <register name="-" type="4">
         <text />
