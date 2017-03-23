@@ -9,6 +9,9 @@
         <mark key="." line="80" column="28" />
         <mark key="^" line="80" column="28" />
       </file>
+      <file name="D:/workspace/PlayWalaSlicer/wala.examples.properties" timestamp="1490308986363">
+        <mark key="[" line="20" column="20" />
+      </file>
       <file name="D:/workspace/NetSemantic-Static/src/fu/hao/trust/staticAnalysis/EntryFinderTest.java" timestamp="1489175025307">
         <mark key="[" line="68" column="28" />
       </file>
@@ -84,6 +87,11 @@
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1475967170686">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/workspace/PlayWalaSlicer/src/slicing/PDFTypeHierarchy.java" timestamp="1490307939782">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="D:/workspace/NetSemantic-Static/src/fu/hao/trust/Main.java" timestamp="1489176058285">
         <mark key="[" line="79" column="48" />
@@ -233,11 +241,10 @@
         <mark key="^" line="96" column="17" />
         <mark key="." line="96" column="17" />
       </file>
-      <file name="D:/workspace/PlayWalaSlicer/src/slicing/SimpleSlicer.java" timestamp="1490296352515">
-        <mark key="[" line="264" column="59" />
-        <mark key="]" line="264" column="41" />
-        <mark key="." line="264" column="41" />
-        <mark key="^" line="264" column="41" />
+      <file name="D:/workspace/PlayWalaSlicer/src/slicing/SimpleSlicer.java" timestamp="1490309751072">
+        <mark key="[" line="168" column="96" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
       </file>
       <file name="D:/workspace/backstage-master/src/test/java/st/cs/uni/saarland/de/saveData/UIAnalysisTest.java" timestamp="1484281698808">
         <mark key="[" line="18" column="63" />
@@ -254,7 +261,7 @@
         <mark key="." line="12" column="32" />
         <mark key="^" line="12" column="32" />
       </file>
-      <file name="D:/workspace/PlayWalaSlicer/src/slicing/UIActivityMapping.java" timestamp="1490288417151">
+      <file name="D:/workspace/PlayWalaSlicer/src/slicing/UIActivityMapping.java" timestamp="1490307801992">
         <mark key="[" line="57" column="13" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -279,6 +286,9 @@
         <mark key="^" line="48" column="47" />
         <mark key="." line="48" column="47" />
       </file>
+      <file name="D:/workspace/PlayWalaSlicer/src/slicing/WalaExamplesProperties.java" timestamp="1490309107370">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/FindViewTracerTest.java" timestamp="1482971716540">
         <mark key="[" line="31" column="28" />
         <mark key="]" line="65" column="11" />
@@ -298,6 +308,7 @@
         <mark key="]" line="57" column="47" />
         <mark key="." line="57" column="47" />
       </file>
+      <file name="D:/workspace/PlayWalaSlicer/src/wala.examples.properties" timestamp="1490309198028" />
       <file name="D:/workspace/PlayWalaSlicer/src/slicing/Output.java" timestamp="1490288562891">
         <mark key="[" line="18" column="53" />
       </file>
@@ -366,37 +377,38 @@
         <text>e</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgc3JjQ2FsbGVyUmVmID0gU3RyaW5nU3R1ZmYubWFrZU1ldGhvZFJlZmVyZW5jZShzcmNDYWxsZXIpOwogICAgICAgICAgICBzcmNDYWxsZWVSZWYgPSBTdHJpbmdTdHVmZi5tYWtlTWV0aG9kUmVmZXJlbmNlKHNyY0NhbGxlZSk7</text>
+        <text>import com.ibm.wala.core.tests.callGraph.CallGraphTestUtil;
+import com.ibm.wala.examples.properties.WalaExamplesProperties;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>$USER_HOME$/Downloads/android-sdk-windows/platforms/android-24/android.jar!/</text>
+        <text encoding="base64">IEFkb2JlXEFjcm9iYXQgMTAuMFxBY3JvYmF0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFja2FnZSBpbnRlbGxpZHJvaWQuYXBwYW5hbHlzaXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29udHJvbERlcGVuZGVuY2VPcHRpb25zIGNvbnRyb2xPcHRpb25zID0gY29udHJvbERlcGVuZGVuY2VPcHRpb25zOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5pby5GaWxlbmFtZVV0aWxzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGF0YURlcGVuZGVuY2VPcHRpb25zIGRhdGFPcHRpb25zID0gZGF0YURlcGVuZGVuY2VPcHRpb25zOy8vRGF0YURlcGVuZGVuY2VPcHRpb25zLkZVTEw7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgc3JjQ2FsbGVyUmVmID0gU3RyaW5nU3R1ZmYubWFrZU1ldGhvZFJlZmVyZW5jZShzcmNDYWxsZXIpOwogICAgICAgICAgICBzcmNDYWxsZWVSZWYgPSBTdHJpbmdTdHVmZi5tYWtlTWV0aG9kUmVmZXJlbmNlKHNyY0NhbGxlZSk7</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">cGFja2FnZSBpbnRlbGxpZHJvaWQuYXBwYW5hbHlzaXM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBtZXRhLWNsYXNzaWZpZXIK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5pby5GaWxlbmFtZVV0aWxzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc2lmaWVyLnNldENsYXNzaWZpZXIoY2xhc3NpZmllcik7IC8vajQ4KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICBGaWx0ZXJlZENsYXNzaWZpZXIgZmMgPSBuZXcgRmlsdGVyZWRDbGFzc2lmaWVyKCk7CiAgICAgICAgaWYgKHJtRmlyc3QpIHsKICAgICAgICAgICAgLy8gZmlsdGVyCiAgICAgICAgICAgIFJlbW92ZSBybSA9IG5ldyBSZW1vdmUoKTsKICAgICAgICAgICAgcm0uc2V0QXR0cmlidXRlSW5kaWNlcygiMSIpOyAgLy8gcmVtb3ZlIDFzdCBhdHRyaWJ1dGUKICAgICAgICAgICAgZmMuc2V0RmlsdGVyKHJtKTsKICAgICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">cGFja2FnZSBpbnRlbGxpZHJvaWQuYXBwYW5hbHlzaXM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVbml0IHVuaXQgPSBvdXQuc3JjVW5pdCgpOwoJCQkJCQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBtZXRhLWNsYXNzaWZpZXIK</text>
       </register>
       <register name="-" type="4">
-        <text>$USER_HOME$/Downloads/android-sdk-windows/platforms/android-24/android.jar!/</text>
+        <text encoding="base64">IEFkb2JlXEFjcm9iYXQgMTAuMFxBY3JvYmF0</text>
       </register>
     </registers>
     <search>
