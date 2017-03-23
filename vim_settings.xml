@@ -3,29 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/ListenerTracer.java" timestamp="1483082417962">
-        <mark key="[" line="75" column="42" />
-        <mark key="]" line="80" column="28" />
-        <mark key="." line="80" column="28" />
-        <mark key="^" line="80" column="28" />
-      </file>
       <file name="D:/workspace/PlayWalaSlicer/wala.examples.properties" timestamp="1490308986363">
         <mark key="[" line="20" column="20" />
       </file>
       <file name="D:/workspace/NetSemantic-Static/src/fu/hao/trust/staticAnalysis/EntryFinderTest.java" timestamp="1489175025307">
         <mark key="[" line="68" column="28" />
-      </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/ListenerTrackerTest.java" timestamp="1478742270522">
-        <mark key="[" line="32" column="37" />
-        <mark key="]" line="27" column="37" />
-        <mark key="^" line="27" column="37" />
-        <mark key="." line="27" column="37" />
-      </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/ListenerTracker.java" timestamp="1478741725384">
-        <mark key="[" line="23" column="43" />
-        <mark key="]" line="22" column="53" />
-        <mark key="^" line="22" column="53" />
-        <mark key="." line="22" column="53" />
       </file>
       <file name="D:/workspace/NetSemantic-Static/src/fu/hao/trust/data/SetupApplication.java" timestamp="1489175335178">
         <mark key="[" line="12" column="0" />
@@ -79,12 +61,6 @@
         <mark key="]" line="24" column="8" />
         <mark key="." line="24" column="8" />
       </file>
-      <file name="D:/workspace/TestMallet/src/ImportExample.java" timestamp="1488408061777">
-        <mark key="[" line="101" column="56" />
-        <mark key="]" line="101" column="26" />
-        <mark key="^" line="101" column="26" />
-        <mark key="." line="101" column="26" />
-      </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1475967170686">
         <mark key="[" line="0" column="0" />
       </file>
@@ -109,20 +85,8 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="D:/workspace/IntelliDroidOri/src/intellidroid/appanalysis/IntelliDroidAppAnalysis.java" timestamp="1490288983804" />
-      <file name="D:/workspace/TestMallet/src/WekaUtils.java" timestamp="1490046072425">
-        <mark key="[" line="80" column="53" />
-        <mark key="]" line="187" column="16" />
-        <mark key="." line="187" column="16" />
-        <mark key="^" line="188" column="28" />
-      </file>
       <file name="D:/workspace/android-ml-weka/src/weka/classifiers/trees/ht/NominalConditionalSufficientStats.java" timestamp="1490047037410">
         <mark key="[" line="53" column="35" />
-      </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/DataForwardTracer.java" timestamp="1483082356877">
-        <mark key="[" line="45" column="7" />
-        <mark key="]" line="45" column="7" />
-        <mark key="^" line="54" column="17" />
-        <mark key="." line="45" column="7" />
       </file>
       <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/Main.java" timestamp="1476156527938">
         <mark key="[" line="405" column="12" />
@@ -145,44 +109,14 @@
       <file name="D:/workspace/android-ml-weka/src/weka/core/stopwords/RegExpFromFile.java" timestamp="1489006464660">
         <mark key="[" line="0" column="28" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/MainTestDataTracer.java" timestamp="1483513714888">
-        <mark key="[" line="28" column="12" />
-        <mark key="]" line="28" column="10" />
-        <mark key="." line="28" column="10" />
-        <mark key="^" line="28" column="10" />
-      </file>
       <file name="D:/workspace/android-ml-weka/src/weka/core/stopwords/AbstractStopwords.java" timestamp="1489005875522">
         <mark key="[" line="196" column="0" />
-      </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/utils/soot/ApkPackerTest.java" timestamp="1478742511536">
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="16" column="15" />
-        <mark key="^" line="16" column="15" />
-        <mark key="." line="16" column="15" />
-      </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/AndroidView.java" timestamp="1483520105821">
-        <mark key="[" line="282" column="83" />
-        <mark key="]" line="282" column="27" />
-        <mark key="." line="282" column="27" />
-        <mark key="^" line="282" column="27" />
       </file>
       <file name="D:/workspace/NetSemantic-Static/src/fu/hao/trust/data/SensSrc.java" timestamp="1489174794516">
         <mark key="[" line="34" column="3" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/utils/soot/tt.java" timestamp="1478574544358">
-        <mark key="[" line="47" column="16" />
-        <mark key="]" line="26" column="28" />
-        <mark key="^" line="26" column="28" />
-        <mark key="." line="26" column="28" />
-      </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/xml/NameValueFunction.java" timestamp="1476082017149">
         <mark key="[" line="3" column="0" />
-      </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/DataBackwardTracer.java" timestamp="1483132770843">
-        <mark key="[" line="117" column="5" />
-        <mark key="]" line="57" column="18" />
-        <mark key="." line="57" column="18" />
-        <mark key="^" line="57" column="18" />
       </file>
       <file name="D:/workspace/android-ml-weka/src/weka/core/stopwords/AbstractFileBasedStopwords.java" timestamp="1489005838017">
         <mark key="[" line="176" column="0" />
@@ -208,26 +142,15 @@
       <file name="D:/workspace/NetSemantic-Static/src/fu/hao/trust/staticAnalysis/SensAnalysisTest.java" timestamp="1489175052373">
         <mark key="[" line="68" column="30" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.7.0_75/src.zip!/java/lang/Enum.java" timestamp="1490310518226" />
       <file name="D:/workspace/android-ml-weka/src/weka/core/stopwords/WordsFromFile.java" timestamp="1489006485289">
         <mark key="[" line="109" column="0" />
       </file>
       <file name="D:/workspace/NetSemantic-DVM/src/fu/hao/trust/test/Test.java" timestamp="1489790770751">
         <mark key="[" line="30" column="5" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/App.java" timestamp="1489177788491">
-        <mark key="[" line="250" column="1" />
-        <mark key="]" line="250" column="1" />
-        <mark key="." line="250" column="1" />
-        <mark key="^" line="32" column="10" />
-      </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/OsUtils.java" timestamp="1477294858441">
         <mark key="[" line="27" column="5" />
-      </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Settings.java" timestamp="1479196768942">
-        <mark key="[" line="80" column="28" />
-        <mark key="]" line="80" column="15" />
-        <mark key="." line="80" column="15" />
-        <mark key="^" line="80" column="15" />
       </file>
       <file name="D:/workspace/PlayWalaSlicer/src/slicing/ManifestAnalysis.java" timestamp="1490288687454" />
       <file name="D:/workspace/backstage-master/src/test/java/st/cs/uni/saarland/de/saveData/ApiResultsProcessorTest.java" timestamp="1484282123417">
@@ -235,31 +158,14 @@
         <mark key="]" line="17" column="60" />
         <mark key="." line="17" column="60" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/OSUtils.java" timestamp="1479023714481">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="96" column="17" />
-        <mark key="^" line="96" column="17" />
-        <mark key="." line="96" column="17" />
-      </file>
+      <file name="D:/workspace/MyIntelliDroid/libs/com.ibm.wala.core-1.3.7-sources.jar!/com/ibm/wala/ipa/slicer/Statement.java" timestamp="1490310667664" />
       <file name="D:/workspace/PlayWalaSlicer/src/slicing/SimpleSlicer.java" timestamp="1490309751072">
         <mark key="[" line="168" column="96" />
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
       </file>
-      <file name="D:/workspace/backstage-master/src/test/java/st/cs/uni/saarland/de/saveData/UIAnalysisTest.java" timestamp="1484281698808">
-        <mark key="[" line="18" column="63" />
-        <mark key="]" line="18" column="28" />
-        <mark key="^" line="18" column="28" />
-        <mark key="." line="18" column="28" />
-      </file>
       <file name="D:/workspace/NetSemantic-Static/src/fu/hao/trust/MainTest.java" timestamp="1489179792852">
         <mark key="[" line="15" column="5" />
-      </file>
-      <file name="D:/workspace/NetSemantic-Static/src/fu/hao/trust/data/Results.java" timestamp="1489175823369">
-        <mark key="[" line="12" column="48" />
-        <mark key="]" line="12" column="32" />
-        <mark key="." line="12" column="32" />
-        <mark key="^" line="12" column="32" />
       </file>
       <file name="D:/workspace/PlayWalaSlicer/src/slicing/UIActivityMapping.java" timestamp="1490307801992">
         <mark key="[" line="57" column="13" />
@@ -280,20 +186,8 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968666867">
         <mark key="[" line="33" column="32" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/FindViewTracer.java" timestamp="1483571323369">
-        <mark key="[" line="48" column="49" />
-        <mark key="]" line="48" column="47" />
-        <mark key="^" line="48" column="47" />
-        <mark key="." line="48" column="47" />
-      </file>
       <file name="D:/workspace/PlayWalaSlicer/src/slicing/WalaExamplesProperties.java" timestamp="1490309107370">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/analysis/FindViewTracerTest.java" timestamp="1482971716540">
-        <mark key="[" line="31" column="28" />
-        <mark key="]" line="65" column="11" />
-        <mark key="." line="65" column="11" />
-        <mark key="^" line="65" column="11" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/MainTest.java" timestamp="1479005143098">
         <mark key="[" line="13" column="0" />
@@ -312,12 +206,6 @@
       <file name="D:/workspace/PlayWalaSlicer/src/slicing/Output.java" timestamp="1490288562891">
         <mark key="[" line="18" column="53" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/MethodUtils.java" timestamp="1483329648091">
-        <mark key="[" line="325" column="49" />
-        <mark key="]" line="325" column="17" />
-        <mark key="." line="325" column="17" />
-        <mark key="^" line="325" column="17" />
-      </file>
       <file name="D:/workspace/TestMallet/src/tmp.java" timestamp="1488928734315">
         <mark key="[" line="20" column="8" />
         <mark key="]" line="20" column="8" />
@@ -333,18 +221,6 @@
         <mark key="]" line="383" column="0" />
         <mark key="." line="383" column="0" />
       </file>
-      <file name="D:/workspace/backstage-master/src/test/java/st/cs/uni/saarland/de/testApps/TestAppTest.java" timestamp="1484279999457">
-        <mark key="[" line="72" column="28" />
-        <mark key="]" line="44" column="50" />
-        <mark key="." line="44" column="50" />
-        <mark key="^" line="44" column="50" />
-      </file>
-      <file name="D:/workspace/NetSemantic-Static/src/fu/hao/trust/data/App.java" timestamp="1489180129033">
-        <mark key="[" line="92" column="12" />
-        <mark key="]" line="93" column="14" />
-        <mark key="^" line="93" column="14" />
-        <mark key="." line="93" column="14" />
-      </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Log.java" timestamp="1479197568777">
         <mark key="[" line="60" column="44" />
         <mark key="]" line="59" column="0" />
@@ -357,12 +233,6 @@
       </file>
       <file name="/fragment.java" timestamp="1490285694113">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/MainTestAd.java" timestamp="1482450039057">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="31" column="40" />
       </file>
     </filemarks>
     <jumps>
