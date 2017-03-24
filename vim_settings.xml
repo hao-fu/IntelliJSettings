@@ -113,6 +113,7 @@
       <file name="D:/workspace/android-ml-weka/src/weka/core/stopwords/AbstractStopwords.java" timestamp="1489005875522">
         <mark key="[" line="196" column="0" />
       </file>
+      <file name="D:/workspace/MyIntelliDroid/libs/com.ibm.wala.shrike-1.3.7-sources.jar!/com/ibm/wala/shrikeBT/MethodData.java" timestamp="1490331445470" />
       <file name="D:/workspace/NetSemantic-Static/src/fu/hao/trust/data/SensSrc.java" timestamp="1489174794516">
         <mark key="[" line="34" column="3" />
       </file>
@@ -165,11 +166,10 @@
         <mark key="." line="17" column="60" />
       </file>
       <file name="D:/workspace/MyIntelliDroid/libs/com.ibm.wala.core-1.3.7-sources.jar!/com/ibm/wala/ipa/slicer/Statement.java" timestamp="1490310667664" />
-      <file name="D:/workspace/PlayWalaSlicer/src/slicing/SimpleSlicer.java" timestamp="1490329843023">
-        <mark key="[" line="305" column="72" />
-        <mark key="]" line="305" column="24" />
-        <mark key="." line="305" column="24" />
-        <mark key="^" line="305" column="24" />
+      <file name="D:/workspace/PlayWalaSlicer/src/slicing/SimpleSlicer.java" timestamp="1490332708048">
+        <mark key="[" line="334" column="0" />
+        <mark key="]" line="303" column="0" />
+        <mark key="." line="303" column="0" />
       </file>
       <file name="D:/workspace/NetSemantic-Static/src/fu/hao/trust/MainTest.java" timestamp="1489179792852">
         <mark key="[" line="15" column="5" />
@@ -253,39 +253,39 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICBJUiBpciA9IHN0YXRlbWVudC5nZXROb2RlKCkuZ2V0SVIoKTsKICAgICAgICAgICAgSUJ5dGVjb2RlTWV0aG9kIG1ldGhvZCA9IChJQnl0ZWNvZGVNZXRob2QpIGlyLmdldE1ldGhvZCgpOwogICAgICAgICAgICBpbnQgYnl0ZWNvZGVJbmRleCA9IG1ldGhvZC5nZXRCeXRlY29kZUluZGV4KGkpOwogICAgICAgICAgICBpbnQgc291cmNlTGluZU51bSA9IG1ldGhvZC5nZXRMaW5lTnVtYmVyKGJ5dGVjb2RlSW5kZXgpOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlJbnN0cnVjdGlvbnMuYWRkKChJSW5zdHJ1Y3Rpb24pIHN0YXRlbWVudCk7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>shrikeCTMethod.getInstructions().length</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlJbnN0cnVjdGlvbnMuYWRkKChJSW5zdHJ1Y3Rpb24pIHN0YXRlbWVudCk7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">LyoqCiAgICAgKiBQcmludCBvdXQgc3RhdGVtZW50cyB0byBzdGRvdXQgKHVwIHRvIGxpbWl0ICMgb2Ygc3RhdGVtZW50cykKICAgICAqIEBwYXJhbSBzbGljZQogICAgICogQHBhcmFtIGxpbWl0CiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBkdW1wU2xpY2UoQ29sbGVjdGlvbjxTdGF0ZW1lbnQ+IHNsaWNlLCBpbnQgbGltaXQpIHsKICAgICAgICBJdGVyYXRvcjxTdGF0ZW1lbnQ+IHMgPSBzbGljZS5pdGVyYXRvcigpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbGltaXQgJiYgcy5oYXNOZXh0KCk7IGkrKykgewogICAgICAgICAgICBmb3IgKFNTQUluc3RydWN0aW9uIGluc3RydWN0aW9uIDogcy5uZXh0KCkuZ2V0Tm9kZSgpLmdldElSKCkuZ2V0SW5zdHJ1Y3Rpb25zKCkpIHsKICAgICAgICAgICAgICAgIGlmIChpbnN0cnVjdGlvbiAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGkgKyAiOiAiICsgaW5zdHJ1Y3Rpb24pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQ==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIElJbnN0cnVjdGlvbltdIGlJbnN0cnVjdGlvbnMgPSBuZXcgSUluc3RydWN0aW9uWzVdOwogICAgICAgICAgICAgICAgaUluc3RydWN0aW9uc1swXSA9IChJSW5zdHJ1Y3Rpb24pIHN0YXRlbWVudDs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG4uZ2V0TWV0aG9kKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWV0aG9kRGF0YS5tYWtlV2l0aERlZmF1bHRIYW5kbGVyc0FuZEluc3RUb0J5dGVjb2RlcyhDb25zdGFudHMuQUNDX1BVQkxJQ3xDb25zdGFudHMuQUNDX1NUQVRJQywgY3IuZ2V0TmFtZSgpLCAiYnMiICsgKGlkeCsrKSwgIigpTGphdmEvbGFuZy9pbnZva2UvQ2FsbFNpdGU7IiwgaW5zdHMpKQo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgZm9yIChTdGF0ZW1lbnQgc3RhdGVtZW50IDogZ3JhcGgpIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdGF0ZW1lbnQpOwogICAgICAgICAgICB9</text>
+        <text encoding="base64">ICAgICBJUiBpciA9IHN0YXRlbWVudC5nZXROb2RlKCkuZ2V0SVIoKTsKICAgICAgICAgICAgSUJ5dGVjb2RlTWV0aG9kIG1ldGhvZCA9IChJQnl0ZWNvZGVNZXRob2QpIGlyLmdldE1ldGhvZCgpOwogICAgICAgICAgICBpbnQgYnl0ZWNvZGVJbmRleCA9IG1ldGhvZC5nZXRCeXRlY29kZUluZGV4KGkpOwogICAgICAgICAgICBpbnQgc291cmNlTGluZU51bSA9IG1ldGhvZC5nZXRMaW5lTnVtYmVyKGJ5dGVjb2RlSW5kZXgpOw==</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">LyoqCiAgICAgKiBQcmludCBvdXQgc3RhdGVtZW50cyB0byBzdGRvdXQgKHVwIHRvIGxpbWl0ICMgb2Ygc3RhdGVtZW50cykKICAgICAqIEBwYXJhbSBzbGljZQogICAgICogQHBhcmFtIGxpbWl0CiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBkdW1wU2xpY2UoQ29sbGVjdGlvbjxTdGF0ZW1lbnQ+IHNsaWNlLCBpbnQgbGltaXQpIHsKICAgICAgICBJdGVyYXRvcjxTdGF0ZW1lbnQ+IHMgPSBzbGljZS5pdGVyYXRvcigpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbGltaXQgJiYgcy5oYXNOZXh0KCk7IGkrKykgewogICAgICAgICAgICBmb3IgKFNTQUluc3RydWN0aW9uIGluc3RydWN0aW9uIDogcy5uZXh0KCkuZ2V0Tm9kZSgpLmdldElSKCkuZ2V0SW5zdHJ1Y3Rpb25zKCkpIHsKICAgICAgICAgICAgICAgIGlmIChpbnN0cnVjdGlvbiAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGkgKyAiOiAiICsgaW5zdHJ1Y3Rpb24pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQ==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG4uZ2V0TWV0aG9kKCkpOwo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgZm9yIChTdGF0ZW1lbnQgc3RhdGVtZW50IDogZ3JhcGgpIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdGF0ZW1lbnQpOwogICAgICAgICAgICB9</text>
+      </register>
+      <register name="8" type="4">
         <text>import com.ibm.wala.core.tests.callGraph.CallGraphTestUtil;
 import com.ibm.wala.examples.properties.WalaExamplesProperties;</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ29udHJvbERlcGVuZGVuY2VPcHRpb25zIGNvbnRyb2xPcHRpb25zID0gY29udHJvbERlcGVuZGVuY2VPcHRpb25zOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGF0YURlcGVuZGVuY2VPcHRpb25zIGRhdGFPcHRpb25zID0gZGF0YURlcGVuZGVuY2VPcHRpb25zOy8vRGF0YURlcGVuZGVuY2VPcHRpb25zLkZVTEw7Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgc3JjQ2FsbGVyUmVmID0gU3RyaW5nU3R1ZmYubWFrZU1ldGhvZFJlZmVyZW5jZShzcmNDYWxsZXIpOwogICAgICAgICAgICBzcmNDYWxsZWVSZWYgPSBTdHJpbmdTdHVmZi5tYWtlTWV0aG9kUmVmZXJlbmNlKHNyY0NhbGxlZSk7</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">cGFja2FnZSBpbnRlbGxpZHJvaWQuYXBwYW5hbHlzaXM7Cg==</text>
-      </register>
       <register name="-" type="4">
-        <text>shrikeCTMethod.getInstructions().length</text>
+        <text>System.err.println(</text>
       </register>
     </registers>
     <search>
