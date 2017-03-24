@@ -159,10 +159,10 @@
         <mark key="." line="17" column="60" />
       </file>
       <file name="D:/workspace/MyIntelliDroid/libs/com.ibm.wala.core-1.3.7-sources.jar!/com/ibm/wala/ipa/slicer/Statement.java" timestamp="1490310667664" />
-      <file name="D:/workspace/PlayWalaSlicer/src/slicing/SimpleSlicer.java" timestamp="1490312113121">
-        <mark key="[" line="239" column="67" />
-        <mark key="]" line="239" column="28" />
-        <mark key="." line="239" column="28" />
+      <file name="D:/workspace/PlayWalaSlicer/src/slicing/SimpleSlicer.java" timestamp="1490313950046">
+        <mark key="[" line="291" column="4" />
+        <mark key="]" line="291" column="4" />
+        <mark key="." line="291" column="4" />
         <mark key="^" line="239" column="28" />
       </file>
       <file name="D:/workspace/NetSemantic-Static/src/fu/hao/trust/MainTest.java" timestamp="1489179792852">
@@ -247,36 +247,36 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG4uZ2V0TWV0aG9kKCkpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">LyoqCiAgICAgKiBQcmludCBvdXQgc3RhdGVtZW50cyB0byBzdGRvdXQgKHVwIHRvIGxpbWl0ICMgb2Ygc3RhdGVtZW50cykKICAgICAqIEBwYXJhbSBzbGljZQogICAgICogQHBhcmFtIGxpbWl0CiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBkdW1wU2xpY2UoQ29sbGVjdGlvbjxTdGF0ZW1lbnQ+IHNsaWNlLCBpbnQgbGltaXQpIHsKICAgICAgICBJdGVyYXRvcjxTdGF0ZW1lbnQ+IHMgPSBzbGljZS5pdGVyYXRvcigpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbGltaXQgJiYgcy5oYXNOZXh0KCk7IGkrKykgewogICAgICAgICAgICBmb3IgKFNTQUluc3RydWN0aW9uIGluc3RydWN0aW9uIDogcy5uZXh0KCkuZ2V0Tm9kZSgpLmdldElSKCkuZ2V0SW5zdHJ1Y3Rpb25zKCkpIHsKICAgICAgICAgICAgICAgIGlmIChpbnN0cnVjdGlvbiAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGkgKyAiOiAiICsgaW5zdHJ1Y3Rpb24pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQ==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG4uZ2V0TWV0aG9kKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LyoqCiAgICAgKiBQcmludCBvdXQgc3RhdGVtZW50cyB0byBzdGRvdXQgKHVwIHRvIGxpbWl0ICMgb2Ygc3RhdGVtZW50cykKICAgICAqIEBwYXJhbSBzbGljZQogICAgICogQHBhcmFtIGxpbWl0CiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBkdW1wU2xpY2UoQ29sbGVjdGlvbjxTdGF0ZW1lbnQ+IHNsaWNlLCBpbnQgbGltaXQpIHsKICAgICAgICBJdGVyYXRvcjxTdGF0ZW1lbnQ+IHMgPSBzbGljZS5pdGVyYXRvcigpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbGltaXQgJiYgcy5oYXNOZXh0KCk7IGkrKykgewogICAgICAgICAgICBmb3IgKFNTQUluc3RydWN0aW9uIGluc3RydWN0aW9uIDogcy5uZXh0KCkuZ2V0Tm9kZSgpLmdldElSKCkuZ2V0SW5zdHJ1Y3Rpb25zKCkpIHsKICAgICAgICAgICAgICAgIGlmIChpbnN0cnVjdGlvbiAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGkgKyAiOiAiICsgaW5zdHJ1Y3Rpb24pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQ==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgZm9yIChTdGF0ZW1lbnQgc3RhdGVtZW50IDogZ3JhcGgpIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdGF0ZW1lbnQpOwogICAgICAgICAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG4uZ2V0TWV0aG9kKCkpOwo=</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICAgZm9yIChTdGF0ZW1lbnQgc3RhdGVtZW50IDogZ3JhcGgpIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdGF0ZW1lbnQpOwogICAgICAgICAgICB9</text>
+      </register>
+      <register name="4" type="4">
         <text>import com.ibm.wala.core.tests.callGraph.CallGraphTestUtil;
 import com.ibm.wala.examples.properties.WalaExamplesProperties;</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ29udHJvbERlcGVuZGVuY2VPcHRpb25zIGNvbnRyb2xPcHRpb25zID0gY29udHJvbERlcGVuZGVuY2VPcHRpb25zOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRGF0YURlcGVuZGVuY2VPcHRpb25zIGRhdGFPcHRpb25zID0gZGF0YURlcGVuZGVuY2VPcHRpb25zOy8vRGF0YURlcGVuZGVuY2VPcHRpb25zLkZVTEw7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICAgc3JjQ2FsbGVyUmVmID0gU3RyaW5nU3R1ZmYubWFrZU1ldGhvZFJlZmVyZW5jZShzcmNDYWxsZXIpOwogICAgICAgICAgICBzcmNDYWxsZWVSZWYgPSBTdHJpbmdTdHVmZi5tYWtlTWV0aG9kUmVmZXJlbmNlKHNyY0NhbGxlZSk7</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">cGFja2FnZSBpbnRlbGxpZHJvaWQuYXBwYW5hbHlzaXM7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5pby5GaWxlbmFtZVV0aWxzOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5pby5GaWxlbmFtZVV0aWxzOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IEFkb2JlXEFjcm9iYXQgMTAuMFxBY3JvYmF0</text>
