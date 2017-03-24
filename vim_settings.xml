@@ -84,7 +84,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/workspace/IntelliDroidOri/src/intellidroid/appanalysis/IntelliDroidAppAnalysis.java" timestamp="1490311977205" />
+      <file name="D:/workspace/IntelliDroidOri/src/intellidroid/appanalysis/IntelliDroidAppAnalysis.java" timestamp="1490326887644" />
       <file name="D:/workspace/android-ml-weka/src/weka/classifiers/trees/ht/NominalConditionalSufficientStats.java" timestamp="1490047037410">
         <mark key="[" line="53" column="35" />
       </file>
@@ -101,6 +101,7 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
+      <file name="D:/workspace/MyIntelliDroid/libs/com.ibm.wala.core-1.3.7-sources.jar!/com/ibm/wala/util/bytecode/BytecodeStream.java" timestamp="1490325996603" />
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/utils/OSUtilsTest.java" timestamp="1479169358931">
         <mark key="[" line="27" column="8" />
         <mark key="]" line="27" column="8" />
@@ -142,6 +143,11 @@
       <file name="D:/workspace/NetSemantic-Static/src/fu/hao/trust/staticAnalysis/SensAnalysisTest.java" timestamp="1489175052373">
         <mark key="[" line="68" column="30" />
       </file>
+      <file name="D:/workspace/PlayWalaSlicer/src/Main.java" timestamp="1490329859691">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="12" column="46" />
+        <mark key="." line="12" column="46" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.7.0_75/src.zip!/java/lang/Enum.java" timestamp="1490310518226" />
       <file name="D:/workspace/android-ml-weka/src/weka/core/stopwords/WordsFromFile.java" timestamp="1489006485289">
         <mark key="[" line="109" column="0" />
@@ -159,11 +165,11 @@
         <mark key="." line="17" column="60" />
       </file>
       <file name="D:/workspace/MyIntelliDroid/libs/com.ibm.wala.core-1.3.7-sources.jar!/com/ibm/wala/ipa/slicer/Statement.java" timestamp="1490310667664" />
-      <file name="D:/workspace/PlayWalaSlicer/src/slicing/SimpleSlicer.java" timestamp="1490324496614">
-        <mark key="[" line="301" column="73" />
-        <mark key="]" line="301" column="73" />
-        <mark key="." line="301" column="73" />
-        <mark key="^" line="297" column="25" />
+      <file name="D:/workspace/PlayWalaSlicer/src/slicing/SimpleSlicer.java" timestamp="1490329843023">
+        <mark key="[" line="305" column="72" />
+        <mark key="]" line="305" column="24" />
+        <mark key="." line="305" column="24" />
+        <mark key="^" line="305" column="24" />
       </file>
       <file name="D:/workspace/NetSemantic-Static/src/fu/hao/trust/MainTest.java" timestamp="1489179792852">
         <mark key="[" line="15" column="5" />
@@ -251,7 +257,7 @@
         <text encoding="base64">ICAgICBJUiBpciA9IHN0YXRlbWVudC5nZXROb2RlKCkuZ2V0SVIoKTsKICAgICAgICAgICAgSUJ5dGVjb2RlTWV0aG9kIG1ldGhvZCA9IChJQnl0ZWNvZGVNZXRob2QpIGlyLmdldE1ldGhvZCgpOwogICAgICAgICAgICBpbnQgYnl0ZWNvZGVJbmRleCA9IG1ldGhvZC5nZXRCeXRlY29kZUluZGV4KGkpOwogICAgICAgICAgICBpbnQgc291cmNlTGluZU51bSA9IG1ldGhvZC5nZXRMaW5lTnVtYmVyKGJ5dGVjb2RlSW5kZXgpOw==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>((ShrikeBTMethod) statement.getNode().getMethod())</text>
+        <text>shrikeCTMethod.getInstructions().length</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">LyoqCiAgICAgKiBQcmludCBvdXQgc3RhdGVtZW50cyB0byBzdGRvdXQgKHVwIHRvIGxpbWl0ICMgb2Ygc3RhdGVtZW50cykKICAgICAqIEBwYXJhbSBzbGljZQogICAgICogQHBhcmFtIGxpbWl0CiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBkdW1wU2xpY2UoQ29sbGVjdGlvbjxTdGF0ZW1lbnQ+IHNsaWNlLCBpbnQgbGltaXQpIHsKICAgICAgICBJdGVyYXRvcjxTdGF0ZW1lbnQ+IHMgPSBzbGljZS5pdGVyYXRvcigpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbGltaXQgJiYgcy5oYXNOZXh0KCk7IGkrKykgewogICAgICAgICAgICBmb3IgKFNTQUluc3RydWN0aW9uIGluc3RydWN0aW9uIDogcy5uZXh0KCkuZ2V0Tm9kZSgpLmdldElSKCkuZ2V0SW5zdHJ1Y3Rpb25zKCkpIHsKICAgICAgICAgICAgICAgIGlmIChpbnN0cnVjdGlvbiAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGkgKyAiOiAiICsgaW5zdHJ1Y3Rpb24pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQ==</text>
@@ -279,7 +285,7 @@ import com.ibm.wala.examples.properties.WalaExamplesProperties;</text>
         <text encoding="base64">cGFja2FnZSBpbnRlbGxpZHJvaWQuYXBwYW5hbHlzaXM7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>((ShrikeBTMethod) statement.getNode().getMethod())</text>
+        <text>shrikeCTMethod.getInstructions().length</text>
       </register>
     </registers>
     <search>
