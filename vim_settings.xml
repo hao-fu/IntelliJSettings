@@ -37,10 +37,10 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1485213757628">
-        <mark key="[" line="140" column="20" />
-        <mark key="]" line="140" column="20" />
-        <mark key="." line="140" column="20" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1490811524740">
+        <mark key="[" line="129" column="30" />
+        <mark key="]" line="141" column="20" />
+        <mark key="." line="141" column="20" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Statistics.java" timestamp="1476745896308">
         <mark key="[" line="17" column="41" />
@@ -207,10 +207,11 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1490810738917">
-        <mark key="[" line="233" column="53" />
-        <mark key="]" line="224" column="0" />
-        <mark key="." line="224" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1490811419869">
+        <mark key="[" line="94" column="13" />
+        <mark key="]" line="88" column="40" />
+        <mark key="." line="88" column="40" />
+        <mark key="^" line="88" column="40" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Log.java" timestamp="1479197568777">
         <mark key="[" line="60" column="44" />
@@ -238,41 +239,41 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG91dC5nZXRTcmMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSAK</text>
       </register>
       <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSAK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG91dC5nZXRTcmMoKTsK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>sootClass.getName().startsWith(&quot;android&quot;)
                     || sootClass.getName().startsWith(&quot;java&quot;)</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>//                    ClassReader reader = new ClassReader(shrikeCTMethod.getBytecodes());
                   //  ClassNode classNode = new ClassNode();
                   //  reader.accept(classNode,0);</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>MethodData methodData = MethodData.makeWithDefaultHandlersAndInstToBytecodes(Constants.ACC_PUBLIC|Constants.ACC_PRIVATE,
                            &quot;Ljava/lang/Object&quot;, &quot;xx&quot;, shrikeCTMethod.getSignature(), shrikeCTMethod.getInstructions());
                     for (IInstruction in: methodData.getInstructions()) {
                         System.err.println(in);
                     }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlJbnN0cnVjdGlvbnMuYWRkKChJSW5zdHJ1Y3Rpb24pIHN0YXRlbWVudCk7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIElJbnN0cnVjdGlvbltdIGlJbnN0cnVjdGlvbnMgPSBuZXcgSUluc3RydWN0aW9uWzVdOwogICAgICAgICAgICAgICAgaUluc3RydWN0aW9uc1swXSA9IChJSW5zdHJ1Y3Rpb24pIHN0YXRlbWVudDs=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTWV0aG9kRGF0YS5tYWtlV2l0aERlZmF1bHRIYW5kbGVyc0FuZEluc3RUb0J5dGVjb2RlcyhDb25zdGFudHMuQUNDX1BVQkxJQ3xDb25zdGFudHMuQUNDX1NUQVRJQywgY3IuZ2V0TmFtZSgpLCAiYnMiICsgKGlkeCsrKSwgIigpTGphdmEvbGFuZy9pbnZva2UvQ2FsbFNpdGU7IiwgaW5zdHMpKQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICBJUiBpciA9IHN0YXRlbWVudC5nZXROb2RlKCkuZ2V0SVIoKTsKICAgICAgICAgICAgSUJ5dGVjb2RlTWV0aG9kIG1ldGhvZCA9IChJQnl0ZWNvZGVNZXRob2QpIGlyLmdldE1ldGhvZCgpOwogICAgICAgICAgICBpbnQgYnl0ZWNvZGVJbmRleCA9IG1ldGhvZC5nZXRCeXRlY29kZUluZGV4KGkpOwogICAgICAgICAgICBpbnQgc291cmNlTGluZU51bSA9IG1ldGhvZC5nZXRMaW5lTnVtYmVyKGJ5dGVjb2RlSW5kZXgpOw==</text>
       </register>
       <register name="-" type="4">
         <text>System.err.println(</text>
