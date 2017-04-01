@@ -94,10 +94,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1491081913810">
-        <mark key="[" line="407" column="107" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
+      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1491084108285">
+        <mark key="[" line="82" column="7" />
+        <mark key="]" line="444" column="0" />
+        <mark key="." line="444" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/utils/OSUtilsTest.java" timestamp="1479169358931">
         <mark key="[" line="27" column="8" />
@@ -264,41 +264,41 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2xhc3NpZmllciBjbGFzc2lmaWVyID0gYnVpbGRDbGFzc2lmaWVyKGluc3RhbmNlcyk7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2xhc3NpZmllciBjbGFzc2lmaWVyID0gYnVpbGRDbGFzc2lmaWVyKGluc3RhbmNlcyk7Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSAK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG91dC5nZXRTcmMoKTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>sootClass.getName().startsWith(&quot;android&quot;)
                     || sootClass.getName().startsWith(&quot;java&quot;)</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>//                    ClassReader reader = new ClassReader(shrikeCTMethod.getBytecodes());
                   //  ClassNode classNode = new ClassNode();
                   //  reader.accept(classNode,0);</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>MethodData methodData = MethodData.makeWithDefaultHandlersAndInstToBytecodes(Constants.ACC_PUBLIC|Constants.ACC_PRIVATE,
                            &quot;Ljava/lang/Object&quot;, &quot;xx&quot;, shrikeCTMethod.getSignature(), shrikeCTMethod.getInstructions());
                     for (IInstruction in: methodData.getInstructions()) {
                         System.err.println(in);
                     }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlJbnN0cnVjdGlvbnMuYWRkKChJSW5zdHJ1Y3Rpb24pIHN0YXRlbWVudCk7Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIElJbnN0cnVjdGlvbltdIGlJbnN0cnVjdGlvbnMgPSBuZXcgSUluc3RydWN0aW9uWzVdOwogICAgICAgICAgICAgICAgaUluc3RydWN0aW9uc1swXSA9IChJSW5zdHJ1Y3Rpb24pIHN0YXRlbWVudDs=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWV0aG9kRGF0YS5tYWtlV2l0aERlZmF1bHRIYW5kbGVyc0FuZEluc3RUb0J5dGVjb2RlcyhDb25zdGFudHMuQUNDX1BVQkxJQ3xDb25zdGFudHMuQUNDX1NUQVRJQywgY3IuZ2V0TmFtZSgpLCAiYnMiICsgKGlkeCsrKSwgIigpTGphdmEvbGFuZy9pbnZva2UvQ2FsbFNpdGU7IiwgaW5zdHMpKQo=</text>
       </register>
       <register name="-" type="4">
         <text>System.err.println(</text>
