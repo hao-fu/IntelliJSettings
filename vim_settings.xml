@@ -94,10 +94,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1491362542200">
-        <mark key="[" line="402" column="62" />
-        <mark key="]" line="445" column="0" />
-        <mark key="." line="445" column="0" />
+      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1491364648771">
+        <mark key="[" line="403" column="29" />
+        <mark key="]" line="403" column="29" />
+        <mark key="." line="403" column="29" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/utils/OSUtilsTest.java" timestamp="1479169358931">
         <mark key="[" line="27" column="8" />
@@ -266,8 +266,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ2xhc3NpZmllciBjbGFzc2lmaWVyID0gYnVpbGRDbGFzc2lmaWVyKGluc3RhbmNlcyk7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2xhc3NpZmllciBjbGFzc2lmaWVyID0gYnVpbGRDbGFzc2lmaWVyKGluc3RhbmNlcyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>NFC</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSAK</text>
@@ -301,7 +301,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIElJbnN0cnVjdGlvbltdIGlJbnN0cnVjdGlvbnMgPSBuZXcgSUluc3RydWN0aW9uWzVdOwogICAgICAgICAgICAgICAgaUluc3RydWN0aW9uc1swXSA9IChJSW5zdHJ1Y3Rpb24pIHN0YXRlbWVudDs=</text>
       </register>
       <register name="-" type="4">
-        <text>System.err.println(</text>
+        <text>NFC</text>
       </register>
     </registers>
     <search>
