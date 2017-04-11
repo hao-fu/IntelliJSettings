@@ -37,11 +37,11 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1491877891305">
-        <mark key="[" line="99" column="35" />
-        <mark key="]" line="317" column="58" />
-        <mark key="." line="317" column="58" />
-        <mark key="^" line="317" column="58" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1491884926716">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="289" column="53" />
+        <mark key="." line="289" column="53" />
+        <mark key="^" line="289" column="53" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Statistics.java" timestamp="1476745896308">
         <mark key="[" line="17" column="41" />
@@ -220,10 +220,11 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1491880531795">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1491883384109">
+        <mark key="[" line="222" column="39" />
+        <mark key="]" line="208" column="29" />
+        <mark key="." line="208" column="29" />
+        <mark key="^" line="208" column="29" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Log.java" timestamp="1479197568777">
         <mark key="[" line="60" column="44" />
@@ -262,36 +263,44 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNvb3QuamltcGxlLkludm9rZVN0bXQ7Cg==</text>
+      <register name="1" type="4">
+        <text>System.out
+                                .println</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNvb3QuamltcGxlLkludm9rZVN0bXQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>System.out
+                                .println</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBJdGVyYXRvcjxFZGdlPiBpdGVyYXRvciA9IGNnLmVkZ2VzT3V0T2YoZW50cnkpOwogICAgICAgICAgICAgICAgd2hpbGUgKGl0ZXJhdG9yLmhhc05leHQoKSkgewogICAgICAgICAgICAgICAgICAgIEVkZ2Ugb3V0ID0gaXRlcmF0b3IubmV4dCgpOwogICAgICAgICAgICAgICAgICAgIFVuaXQgdW5pdCA9IAogICAgICAgICAgICAgICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdC5kcmF3RWRnZShzcmMudG9TdHJpbmcoKSwgdGFyZ2V0LnRvU3RyaW5nKCkpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAKICAgICAgICAgICAgICAgICAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dC5wcmludGxuKHNyYyArICIgIC0tPiAgICIgKyB0YXJnZXQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLm1zZyhUQWcsICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb3QuZHJhd05vZGUodGFyZ2V0LnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2xhc3NpZmllciBjbGFzc2lmaWVyID0gYnVpbGRDbGFzc2lmaWVyKGluc3RhbmNlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb3QuZHJhd05vZGUoc3JjLnRvU3RyaW5nKCkpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSAK</text>
+      <register name="6" type="4">
+        <text>out.println(&quot;CG ends==================&quot;);
+            out.close();
+            System.out.println(cg.size());
+            String fileNameWithOutExt = FilenameUtils.getName(apkPath);
+            fileNameWithOutExt = FilenameUtils.removeExtension(fileNameWithOutExt);
+            String destination = &quot;./sootOutput/&quot; + fileNameWithOutExt;
+            String dotPath = destination + dot.DOT_EXTENSION;
+            dot.plot(dotPath);</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG91dC5nZXRTcmMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>sootClass.getName().startsWith(&quot;android&quot;)
-                    || sootClass.getName().startsWith(&quot;java&quot;)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZSByZXN1bHRGaWxlID0gbmV3IEZpbGUoIi4vc29vdE91dHB1dC9DR1Rlc3QubG9nIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0LnByaW50bG4oIkNHIGJlZ2lucz09PT09PT09PT09PT09PT09PSIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>NFC</text>
