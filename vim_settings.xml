@@ -37,11 +37,11 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1490812807884">
-        <mark key="[" line="356" column="58" />
-        <mark key="]" line="313" column="58" />
-        <mark key="." line="313" column="58" />
-        <mark key="^" line="313" column="58" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1491877891305">
+        <mark key="[" line="99" column="35" />
+        <mark key="]" line="317" column="58" />
+        <mark key="." line="317" column="58" />
+        <mark key="^" line="317" column="58" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Statistics.java" timestamp="1476745896308">
         <mark key="[" line="17" column="41" />
@@ -182,14 +182,14 @@
         <mark key="]" line="753" column="0" />
         <mark key="." line="753" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490814562316">
+      <file name="/Dummy.txt" timestamp="1491877967547">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/backstage-master/runApp.sh" timestamp="1484285395281">
         <mark key="[" line="9" column="14" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475968666867">
-        <mark key="[" line="33" column="32" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1491878217141">
+        <mark key="[" line="47" column="63" />
       </file>
       <file name="D:/workspace/PlayWalaSlicer/src/slicing/WalaExamplesProperties.java" timestamp="1490309107370">
         <mark key="[" line="0" column="0" />
@@ -220,11 +220,11 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1490812670994">
-        <mark key="[" line="125" column="63" />
-        <mark key="]" line="129" column="54" />
-        <mark key="." line="129" column="54" />
-        <mark key="^" line="129" column="54" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1491879620973">
+        <mark key="[" line="213" column="38" />
+        <mark key="]" line="213" column="37" />
+        <mark key="." line="213" column="37" />
+        <mark key="^" line="213" column="37" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Log.java" timestamp="1479197568777">
         <mark key="[" line="60" column="44" />
@@ -242,7 +242,7 @@
         <mark key="^" line="37" column="59" />
         <mark key="." line="37" column="59" />
       </file>
-      <file name="/fragment.java" timestamp="1490740688281">
+      <file name="/fragment.java" timestamp="1491878480553">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/cosmos/MainTestAd.java" timestamp="1490812904426">
@@ -263,42 +263,42 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2xhc3NpZmllciBjbGFzc2lmaWVyID0gYnVpbGRDbGFzc2lmaWVyKGluc3RhbmNlcyk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAKICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>NFC</text>
+        <text encoding="base64">ICAKICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLm1zZyhUQWcsICk7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ2xhc3NpZmllciBjbGFzc2lmaWVyID0gYnVpbGRDbGFzc2lmaWVyKGluc3RhbmNlcyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG91dC5nZXRTcmMoKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>sootClass.getName().startsWith(&quot;android&quot;)
                     || sootClass.getName().startsWith(&quot;java&quot;)</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>//                    ClassReader reader = new ClassReader(shrikeCTMethod.getBytecodes());
                   //  ClassNode classNode = new ClassNode();
                   //  reader.accept(classNode,0);</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>MethodData methodData = MethodData.makeWithDefaultHandlersAndInstToBytecodes(Constants.ACC_PUBLIC|Constants.ACC_PRIVATE,
                            &quot;Ljava/lang/Object&quot;, &quot;xx&quot;, shrikeCTMethod.getSignature(), shrikeCTMethod.getInstructions());
                     for (IInstruction in: methodData.getInstructions()) {
                         System.err.println(in);
                     }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlJbnN0cnVjdGlvbnMuYWRkKChJSW5zdHJ1Y3Rpb24pIHN0YXRlbWVudCk7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIElJbnN0cnVjdGlvbltdIGlJbnN0cnVjdGlvbnMgPSBuZXcgSUluc3RydWN0aW9uWzVdOwogICAgICAgICAgICAgICAgaUluc3RydWN0aW9uc1swXSA9IChJSW5zdHJ1Y3Rpb24pIHN0YXRlbWVudDs=</text>
       </register>
       <register name="-" type="4">
         <text>NFC</text>
