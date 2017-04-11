@@ -37,11 +37,11 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1491885439264">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="289" column="53" />
-        <mark key="." line="289" column="53" />
-        <mark key="^" line="289" column="53" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Main.java" timestamp="1491891029363">
+        <mark key="[" line="318" column="28" />
+        <mark key="]" line="318" column="28" />
+        <mark key="." line="318" column="28" />
+        <mark key="^" line="317" column="66" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Statistics.java" timestamp="1476745896308">
         <mark key="[" line="17" column="41" />
@@ -183,7 +183,7 @@
         <mark key="]" line="753" column="0" />
         <mark key="." line="753" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491877967547">
+      <file name="/Dummy.txt" timestamp="1491891457730">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/backstage-master/runApp.sh" timestamp="1484285395281">
@@ -265,26 +265,32 @@
         <text>e</text>
       </register>
       <register name="1" type="4">
-        <text>System.out
-                                .println</text>
+        <text>if () {
+
+                            }</text>
       </register>
       <register name="&quot;" type="4">
+        <text>if () {
+
+                            }</text>
+      </register>
+      <register name="2" type="4">
         <text>System.out
                                 .println</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdC5kcmF3RWRnZShzcmMudG9TdHJpbmcoKSwgdGFyZ2V0LnRvU3RyaW5nKCkpOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG91dC5wcmludGxuKHNyYyArICIgIC0tPiAgICIgKyB0YXJnZXQpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb3QuZHJhd05vZGUodGFyZ2V0LnRvU3RyaW5nKCkpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb3QuZHJhd05vZGUoc3JjLnRvU3RyaW5nKCkpOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>out.println(&quot;CG ends==================&quot;);
             out.close();
             System.out.println(cg.size());
@@ -294,17 +300,14 @@
             String dotPath = destination + dot.DOT_EXTENSION;
             dot.plot(dotPath);</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRmlsZSByZXN1bHRGaWxlID0gbmV3IEZpbGUoIi4vc29vdE91dHB1dC9DR1Rlc3QubG9nIik7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0LnByaW50bG4oIkNHIGJlZ2lucz09PT09PT09PT09PT09PT09PSIpOwo=</text>
-      </register>
       <register name="-" type="4">
-        <text>NFC</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
