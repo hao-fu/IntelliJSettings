@@ -137,10 +137,11 @@
       <file name="D:/workspace/android-ml-weka/src/weka/core/stopwords/Rainbow.java" timestamp="1489006435955">
         <mark key="[" line="612" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/ClassUtils.java" timestamp="1489177941417">
-        <mark key="[" line="148" column="71" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/soot/ClassUtils.java" timestamp="1491887212056">
+        <mark key="[" line="98" column="51" />
+        <mark key="]" line="91" column="63" />
+        <mark key="." line="91" column="63" />
+        <mark key="^" line="91" column="63" />
       </file>
       <file name="D:/workspace/NetSemantic-Static/src/fu/hao/trust/staticAnalysis/SensAnalysisTest.java" timestamp="1489175052373">
         <mark key="[" line="68" column="30" />
