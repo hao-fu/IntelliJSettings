@@ -220,11 +220,10 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1491879620973">
-        <mark key="[" line="213" column="38" />
-        <mark key="]" line="213" column="37" />
-        <mark key="." line="213" column="37" />
-        <mark key="^" line="213" column="37" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1491880531795">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Log.java" timestamp="1479197568777">
         <mark key="[" line="60" column="44" />
@@ -263,42 +262,36 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHNvb3QuamltcGxlLkludm9rZVN0bXQ7Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHNvb3QuamltcGxlLkludm9rZVN0bXQ7Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICBJdGVyYXRvcjxFZGdlPiBpdGVyYXRvciA9IGNnLmVkZ2VzT3V0T2YoZW50cnkpOwogICAgICAgICAgICAgICAgd2hpbGUgKGl0ZXJhdG9yLmhhc05leHQoKSkgewogICAgICAgICAgICAgICAgICAgIEVkZ2Ugb3V0ID0gaXRlcmF0b3IubmV4dCgpOwogICAgICAgICAgICAgICAgICAgIFVuaXQgdW5pdCA9IAogICAgICAgICAgICAgICAgfQ==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAKICAgICAgICAgICAgICAgICAg</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAKICAgICAgICAgICAgICAgICAg</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLm1zZyhUQWcsICk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2xhc3NpZmllciBjbGFzc2lmaWVyID0gYnVpbGRDbGFzc2lmaWVyKGluc3RhbmNlcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLm1zZyhUQWcsICk7Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ2xhc3NpZmllciBjbGFzc2lmaWVyID0gYnVpbGRDbGFzc2lmaWVyKGluc3RhbmNlcyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSAK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG91dC5nZXRTcmMoKTsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>sootClass.getName().startsWith(&quot;android&quot;)
                     || sootClass.getName().startsWith(&quot;java&quot;)</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>//                    ClassReader reader = new ClassReader(shrikeCTMethod.getBytecodes());
-                  //  ClassNode classNode = new ClassNode();
-                  //  reader.accept(classNode,0);</text>
-      </register>
-      <register name="9" type="4">
-        <text>MethodData methodData = MethodData.makeWithDefaultHandlersAndInstToBytecodes(Constants.ACC_PUBLIC|Constants.ACC_PRIVATE,
-                           &quot;Ljava/lang/Object&quot;, &quot;xx&quot;, shrikeCTMethod.getSignature(), shrikeCTMethod.getInstructions());
-                    for (IInstruction in: methodData.getInstructions()) {
-                        System.err.println(in);
-                    }</text>
       </register>
       <register name="-" type="4">
         <text>NFC</text>
