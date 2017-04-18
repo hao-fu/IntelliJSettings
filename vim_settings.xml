@@ -94,11 +94,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1492145910787">
-        <mark key="[" line="211" column="59" />
-        <mark key="]" line="211" column="59" />
-        <mark key="." line="211" column="59" />
-        <mark key="^" line="211" column="59" />
+      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1492475920955">
+        <mark key="[" line="481" column="33" />
+        <mark key="]" line="453" column="43" />
+        <mark key="." line="453" column="43" />
+        <mark key="^" line="453" column="43" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/utils/OSUtilsTest.java" timestamp="1479169358931">
         <mark key="[" line="27" column="8" />
@@ -265,47 +265,38 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgV2VrYVV0aWxzIHdla2FVdGlscyA9IG5ldyBXZWthVXRpbHMoKTsK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgV2VrYVV0aWxzIHdla2FVdGlscyA9IG5ldyBXZWthVXRpbHMoKTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxzLmFkZCgiRCIpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXMuYWRkKG5ldyBMYWJlbGxlZERvYygiRCIsIHJlYWRGaWxlKGZpbGUuZ2V0UGF0aCgpLCBTdGFuZGFyZENoYXJzZXRzLlVURl84KSkpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoKGZpbGUuZ2V0UGF0aCgpLmNvbnRhaW5zKCJsYWJlbGxlZF9EIikpKSB7Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>if () {
 
                             }</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>if () {
-
-                            }</text>
-      </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>System.out
                                 .println</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdC5kcmF3RWRnZShzcmMudG9TdHJpbmcoKSwgdGFyZ2V0LnRvU3RyaW5nKCkpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG91dC5wcmludGxuKHNyYyArICIgIC0tPiAgICIgKyB0YXJnZXQpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb3QuZHJhd05vZGUodGFyZ2V0LnRvU3RyaW5nKCkpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb3QuZHJhd05vZGUoc3JjLnRvU3RyaW5nKCkpOwo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>out.println(&quot;CG ends==================&quot;);
-            out.close();
-            System.out.println(cg.size());
-            String fileNameWithOutExt = FilenameUtils.getName(apkPath);
-            fileNameWithOutExt = FilenameUtils.removeExtension(fileNameWithOutExt);
-            String destination = &quot;./sootOutput/&quot; + fileNameWithOutExt;
-            String dotPath = destination + dot.DOT_EXTENSION;
-            dot.plot(dotPath);</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlsZSByZXN1bHRGaWxlID0gbmV3IEZpbGUoIi4vc29vdE91dHB1dC9DR1Rlc3QubG9nIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb3QuZHJhd05vZGUodGFyZ2V0LnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
