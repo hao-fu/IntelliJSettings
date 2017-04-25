@@ -97,11 +97,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1493089082061">
-        <mark key="[" line="321" column="61" />
-        <mark key="]" line="321" column="61" />
-        <mark key="." line="321" column="61" />
-        <mark key="^" line="456" column="43" />
+      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1493158603060">
+        <mark key="[" line="446" column="23" />
+        <mark key="]" line="450" column="0" />
+        <mark key="." line="450" column="0" />
+        <mark key="^" line="450" column="14" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/utils/OSUtilsTest.java" timestamp="1479169358931">
         <mark key="[" line="27" column="8" />
@@ -215,6 +215,9 @@
       <file name="D:/workspace/PlayWalaSlicer/src/slicing/Output.java" timestamp="1490288562891">
         <mark key="[" line="18" column="53" />
       </file>
+      <file name="D:/workspace/android-ml-weka/src/HandleInstances.java" timestamp="1493157970036">
+        <mark key="[" line="6" column="30" />
+      </file>
       <file name="D:/workspace/TestMallet/src/tmp.java" timestamp="1488928734315">
         <mark key="[" line="20" column="8" />
         <mark key="]" line="20" column="8" />
@@ -269,41 +272,40 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3ViU2FtcGxpbmdJbnN0YW5jZXM7Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3ViU2FtcGxpbmdJbnN0YW5jZXM7Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgLy8gUGVyY2VudCBzcGxpdA==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICBpbnQgdHJhaW5TaXplID0gKGludCkgTWF0aC5yb3VuZCh0cmFpbmluZ1NldC5udW1JbnN0YW5jZXMoKSAqIDAuOCk7CiAgICAgICAgaW50IHRlc3RTaXplID0gdHJhaW5pbmdTZXQubnVtSW5zdGFuY2VzKCkgLSB0cmFpblNpemU7CiAgICAgICAgSW5zdGFuY2VzIHRyYWluID0gbmV3IEluc3RhbmNlcyh0cmFpbmluZ1NldCwgMCwgdHJhaW5TaXplKTsKICAgICAgICBJbnN0YW5jZXMgdGVzdCA9IG5ldyBJbnN0YW5jZXModHJhaW5pbmdTZXQsIHRyYWluU2l6ZSwgdGVzdFNpemUpOw==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGV2YWwubnVtSW5zdGFuY2VzKCkpOw==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGV2YWwubnVtSW5zdGFuY2VzKCkpOw==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV2VrYVV0aWxzIHdla2FVdGlscyA9IG5ldyBXZWthVXRpbHMoKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxzLmFkZCgiRCIpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXMuYWRkKG5ldyBMYWJlbGxlZERvYygiRCIsIHJlYWRGaWxlKGZpbGUuZ2V0UGF0aCgpLCBTdGFuZGFyZENoYXJzZXRzLlVURl84KSkpOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgV2VrYVV0aWxzIHdla2FVdGlscyA9IG5ldyBXZWthVXRpbHMoKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxzLmFkZCgiRCIpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXMuYWRkKG5ldyBMYWJlbGxlZERvYygiRCIsIHJlYWRGaWxlKGZpbGUuZ2V0UGF0aCgpLCBTdGFuZGFyZENoYXJzZXRzLlVURl84KSkpOwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoKGZpbGUuZ2V0UGF0aCgpLmNvbnRhaW5zKCJsYWJlbGxlZF9EIikpKSB7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>if () {
 
                             }</text>
       </register>
-      <register name="7" type="4">
-        <text>System.out
-                                .println</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdC5kcmF3RWRnZShzcmMudG9TdHJpbmcoKSwgdGFyZ2V0LnRvU3RyaW5nKCkpOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dC5wcmludGxuKHNyYyArICIgIC0tPiAgICIgKyB0YXJnZXQpOwo=</text>
-      </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Instances subSamplingInstances =</text>
       </register>
     </registers>
     <search>
