@@ -97,11 +97,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1493158956544">
-        <mark key="[" line="446" column="34" />
-        <mark key="]" line="446" column="19" />
-        <mark key="." line="446" column="19" />
-        <mark key="^" line="446" column="19" />
+      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1493162648338">
+        <mark key="[" line="506" column="101" />
+        <mark key="]" line="506" column="99" />
+        <mark key="." line="506" column="99" />
+        <mark key="^" line="506" column="99" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/utils/OSUtilsTest.java" timestamp="1479169358931">
         <mark key="[" line="27" column="8" />
@@ -215,8 +215,11 @@
       <file name="D:/workspace/PlayWalaSlicer/src/slicing/Output.java" timestamp="1490288562891">
         <mark key="[" line="18" column="53" />
       </file>
-      <file name="D:/workspace/android-ml-weka/src/HandleInstances.java" timestamp="1493157970036">
-        <mark key="[" line="6" column="30" />
+      <file name="D:/workspace/android-ml-weka/src/HandleInstances.java" timestamp="1493162659214">
+        <mark key="[" line="9" column="61" />
+        <mark key="]" line="19" column="17" />
+        <mark key="^" line="19" column="17" />
+        <mark key="." line="19" column="17" />
       </file>
       <file name="D:/workspace/TestMallet/src/tmp.java" timestamp="1488928734315">
         <mark key="[" line="20" column="8" />
@@ -272,40 +275,38 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3ViU2FtcGxpbmdJbnN0YW5jZXM7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IC8qKgogICAgICogQ3JlYXRlcyBhbiBBUkZGIGZpbGUgcmVwcmVzZW50ZWQgYnkgSW5zdGFuY2VzCiAgICAgKgogICAgICogQHBhcmFtIGRvY3MgbGlzdCBvZiBkb2NzIHJldHVybiBJbnN0YW5jZXMgd2hpY2ggaW5jbHVkZXMgdGhlIGxpc3Qgb2YKICAgICAqIGRvY3MKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBJbnN0YW5jZXMgY3JlYXRlQXJmZihMaXN0PExhYmVsbGVkRG9jPiBkb2NzLCBMaXN0PFN0cmluZz4gbGFiZWxzLCBTdHJpbmcgZmlsZVBhdGgpICB7CiAgICAgICAgSW5zdGFuY2VzIGRhdGEgPSBkb2NzMkluc3RhbmNlKGRvY3MsIGxhYmVscyk7CgogICAgICAgIAoKICAgICAgICAKICAgIH0=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3ViU2FtcGxpbmdJbnN0YW5jZXM7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>data.numAttributes() -</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgLy8gUGVyY2VudCBzcGxpdA==</text>
+        <text encoding="base64">LyoqCiAgICAgKiBDcmVhdGVzIGFuIEFSRkYgZmlsZSByZXByZXNlbnRlZCBieSBJbnN0YW5jZXMKICAgICAqCiAgICAgKiBAcGFyYW0gZG9jcyBsaXN0IG9mIGRvY3MgcmV0dXJuIEluc3RhbmNlcyB3aGljaCBpbmNsdWRlcyB0aGUgbGlzdCBvZgogICAgICogZG9jcwogICAgICovCiAgICBwdWJsaWMgc3RhdGljIEluc3RhbmNlcyBjcmVhdGVBcmZmKExpc3Q8TGFiZWxsZWREb2M+IGRvY3MsIExpc3Q8U3RyaW5nPiBsYWJlbHMsIFN0cmluZyBmaWxlUGF0aCkgIHsKICAgICAgICBJbnN0YW5jZXMgZGF0YSA9IGRvY3MySW5zdGFuY2UoZG9jcywgbGFiZWxzKTsKCiAgICAgICAgCgogICAgICAgIAogICAgfQ==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBpbnQgdHJhaW5TaXplID0gKGludCkgTWF0aC5yb3VuZCh0cmFpbmluZ1NldC5udW1JbnN0YW5jZXMoKSAqIDAuOCk7CiAgICAgICAgaW50IHRlc3RTaXplID0gdHJhaW5pbmdTZXQubnVtSW5zdGFuY2VzKCkgLSB0cmFpblNpemU7CiAgICAgICAgSW5zdGFuY2VzIHRyYWluID0gbmV3IEluc3RhbmNlcyh0cmFpbmluZ1NldCwgMCwgdHJhaW5TaXplKTsKICAgICAgICBJbnN0YW5jZXMgdGVzdCA9IG5ldyBJbnN0YW5jZXModHJhaW5pbmdTZXQsIHRyYWluU2l6ZSwgdGVzdFNpemUpOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3ViU2FtcGxpbmdJbnN0YW5jZXM7Cg==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgLy8gUGVyY2VudCBzcGxpdA==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBpbnQgdHJhaW5TaXplID0gKGludCkgTWF0aC5yb3VuZCh0cmFpbmluZ1NldC5udW1JbnN0YW5jZXMoKSAqIDAuOCk7CiAgICAgICAgaW50IHRlc3RTaXplID0gdHJhaW5pbmdTZXQubnVtSW5zdGFuY2VzKCkgLSB0cmFpblNpemU7CiAgICAgICAgSW5zdGFuY2VzIHRyYWluID0gbmV3IEluc3RhbmNlcyh0cmFpbmluZ1NldCwgMCwgdHJhaW5TaXplKTsKICAgICAgICBJbnN0YW5jZXMgdGVzdCA9IG5ldyBJbnN0YW5jZXModHJhaW5pbmdTZXQsIHRyYWluU2l6ZSwgdGVzdFNpemUpOw==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGV2YWwubnVtSW5zdGFuY2VzKCkpOw==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgV2VrYVV0aWxzIHdla2FVdGlscyA9IG5ldyBXZWthVXRpbHMoKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGFiZWxzLmFkZCgiRCIpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXMuYWRkKG5ldyBMYWJlbGxlZERvYygiRCIsIHJlYWRGaWxlKGZpbGUuZ2V0UGF0aCgpLCBTdGFuZGFyZENoYXJzZXRzLlVURl84KSkpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoKGZpbGUuZ2V0UGF0aCgpLmNvbnRhaW5zKCJsYWJlbGxlZF9EIikpKSB7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>if () {
-
-                            }</text>
-      </register>
       <register name="-" type="4">
-        <text>Instances subSamplingInstances =</text>
+        <text>data.numAttributes() -</text>
       </register>
     </registers>
     <search>
