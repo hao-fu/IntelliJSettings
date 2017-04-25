@@ -97,10 +97,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1493087616106">
-        <mark key="[" line="440" column="30" />
-        <mark key="]" line="456" column="43" />
-        <mark key="." line="456" column="43" />
+      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1493089082061">
+        <mark key="[" line="321" column="61" />
+        <mark key="]" line="321" column="61" />
+        <mark key="." line="321" column="61" />
         <mark key="^" line="456" column="43" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/utils/OSUtilsTest.java" timestamp="1479169358931">
@@ -269,38 +269,38 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV2VrYVV0aWxzIHdla2FVdGlscyA9IG5ldyBXZWthVXRpbHMoKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGV2YWwubnVtSW5zdGFuY2VzKCkpOw==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV2VrYVV0aWxzIHdla2FVdGlscyA9IG5ldyBXZWthVXRpbHMoKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGV2YWwubnVtSW5zdGFuY2VzKCkpOw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxzLmFkZCgiRCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgV2VrYVV0aWxzIHdla2FVdGlscyA9IG5ldyBXZWthVXRpbHMoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXMuYWRkKG5ldyBMYWJlbGxlZERvYygiRCIsIHJlYWRGaWxlKGZpbGUuZ2V0UGF0aCgpLCBTdGFuZGFyZENoYXJzZXRzLlVURl84KSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxzLmFkZCgiRCIpOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXMuYWRkKG5ldyBMYWJlbGxlZERvYygiRCIsIHJlYWRGaWxlKGZpbGUuZ2V0UGF0aCgpLCBTdGFuZGFyZENoYXJzZXRzLlVURl84KSkpOwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoKGZpbGUuZ2V0UGF0aCgpLmNvbnRhaW5zKCJsYWJlbGxlZF9EIikpKSB7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>if () {
 
                             }</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>System.out
                                 .println</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdC5kcmF3RWRnZShzcmMudG9TdHJpbmcoKSwgdGFyZ2V0LnRvU3RyaW5nKCkpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dC5wcmludGxuKHNyYyArICIgIC0tPiAgICIgKyB0YXJnZXQpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb3QuZHJhd05vZGUodGFyZ2V0LnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dC5wcmludGxuKHNyYyArICIgIC0tPiAgICIgKyB0YXJnZXQpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
