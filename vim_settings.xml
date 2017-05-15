@@ -98,11 +98,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1494889206912">
-        <mark key="[" line="541" column="10" />
-        <mark key="]" line="541" column="10" />
-        <mark key="." line="541" column="10" />
-        <mark key="^" line="672" column="15" />
+      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1494892014520">
+        <mark key="[" line="716" column="33" />
+        <mark key="]" line="711" column="26" />
+        <mark key="." line="711" column="26" />
+        <mark key="^" line="711" column="26" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/utils/OSUtilsTest.java" timestamp="1479169358931">
         <mark key="[" line="27" column="8" />
@@ -278,7 +278,25 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZWRpY3QoZG9jLCkK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZWRpY3QoZG9jLCkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YS5hZGQoaW5zdGFuY2UpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBkb2MgOiBkb2NzKSB7Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">SW5zdGFuY2VzIGluc3RhbmNlcyA9IGRvY3MySW5zdGFuY2VzKGxhYmVsbGVkRG9jcywgbGFiZWxzKTsKICAgICAgICAgICAgaWYgKGluc3RhbmNlcy5udW1JbnN0YW5jZXMoKSA8IDEwKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQ==</text>
+      </register>
+      <register name="6" type="4">
         <text>PrintWriter pw = new PrintWriter(new File(&quot;results.csv&quot;));
         StringBuilder sb = new StringBuilder();
         sb.append(&quot;id&quot;);
@@ -296,37 +314,17 @@
         pw.close();
         System.out.println(&quot;done!&quot;);</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>else if (mark.startsWith(&quot;Lo&quot;))</text>
-      </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBEYXRhU291cmNlIHNvdXJjZSA9IG5ldyBEYXRhU291cmNlKCJEOlxcd29ya3NwYWNlXFxDT1NQT1NfTUlOSU5HXFxvdXRwdXRcXGduZFxcVGVzdFxcdHJhaW5fZGF0YS5hcmZmIik7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXN0SW5zdGFuY2VzID0gYXR0cmlidXRlU2VsZWN0aW9uLnJlZHVjZURpbWVuc2lvbmFsaXR5KHRlc3RJbnN0YW5jZXMpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChhdHRyaVNlbCkgewo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">Ym9vbGVhbiB1c2VyID0gZmFsc2U7CiAgICAgICAgTGlzdDxTdHJpbmc+IGxhYmVscyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIFN0cmluZyB0eXBlOwogICAgICAgIFdla2FVdGlscyB3ZWthVXRpbHMgPSBuZXcgV2VrYVV0aWxzKCk7CiAgICAgICAgU3RyaW5nIG1hcmsgPSAiTG9jYXRpb24iOy8vQ2FtZXJhIjsgLy9SRUFEX1BIT05FX1NUQVRFIjsvL1NFTkRfU01TIjsvL0JMVUVUT09USCI7Ly9Mb2NhdGlvbiI7Ly8iOy8vTkZDIjsgLy8iOy8vIjsgQ2FtZXJhIjsgLy8iOyAvLyI7IC8vTG9jYXRpb24iOyAvLzsgIjsvL0xvY2F0aW9uIjsgLy8iOyAvLyI7IC8vU0VORF9TTVMiOwogICAgICAgIFN0cmluZyBweVdvcmtMb2MgPSAiRDpcXHdvcmtzcGFjZVxcQ09TUE9TX01JTklORyI7CiAgICAgICAgYm9vbGVhbiBzbW90ZSA9IGZhbHNlOwogICAgICAgIGJvb2xlYW4gYXR0cmlTZWwgPSB0cnVlOwogICAgICAgIGludCBhdHROdW0gPSA1MDA7CiAgICAgICAgU3RyaW5nIHNtb3RlQ2xhc3MgPSAiMSI7CiAgICAgICAgaW50IHNtb3RlUGVyY2VudCA9IDIzMDsKICAgICAgICBpZiAobWFyay5zdGFydHNXaXRoKCJDYW1lcmEiKSkgewogICAgICAgICAgICBzbW90ZSA9IHRydWU7CiAgICAgICAgICAgIHNtb3RlQ2xhc3MgPSAiMiI7CiAgICAgICAgICAgIHNtb3RlUGVyY2VudCA9IDEzMDsKICAgICAgICB9IGVsc2UgaWYgKG1hcmsuc3RhcnRzV2l0aCgiUkVBIikpIHsKICAgICAgICAgICAgc21vdGUgPSB0cnVlOwogICAgICAgICAgICBzbW90ZUNsYXNzID0gIjEiOwogICAgICAgICAgICBzbW90ZVBlcmNlbnQgPSAyMzA7CiAgICAgICAgICAgIGF0dHJpU2VsID0gdHJ1ZTsKICAgICAgICAgICAgYXR0TnVtID0gMTAwOwogICAgICAgIH0gZWxzZSBpZiAobWFyay5zdGFydHNXaXRoKCJTRU4iKSkgewogICAgICAgICAgICBzbW90ZSA9IHRydWU7CiAgICAgICAgICAgIHNtb3RlQ2xhc3MgPSAiMSI7CiAgICAgICAgICAgIHNtb3RlUGVyY2VudCA9IDgzMDsKICAgICAgICAgICAgYXR0cmlTZWwgPSB0cnVlOwogICAgICAgIH0gZWxzZSBpZiAobWFyay5zdGFydHNXaXRoKCJMb2NhdGlvbiIpKSB7CiAgICAgICAgICAgIC8vc21vdGUgPSB0cnVlOwogICAgICAgICAgICAvL3Ntb3RlQ2xhc3MgPSAiMSI7CiAgICAgICAgICAgIC8vc21vdGVQZXJjZW50ID0gMTMwOwogICAgICAgIH0gZWxzZSBpZiAobWFyay5zdGFydHNXaXRoKCJSRUMiKSkgewogICAgICAgICAgICAvL3Ntb3RlID0gdHJ1ZTsKICAgICAgICAgICAgLy9zbW90ZUNsYXNzID0gIjEiOwogICAgICAgICAgICAvL3Ntb3RlUGVyY2VudCA9IDgwOwogICAgICAgICAgICAvL2F0dHJpU2VsID0gZmFsc2U7CiAgICAgICAgICAgIGF0dE51bSA9IDUwMDsKICAgICAgICB9CgoKICAgICAgICBMaXN0PExpc3Q8TGFiZWxsZWREb2M+PiBkb2NzUmVzdXRscyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGlmICghdXNlcikgewogICAgICAgICAgICB0eXBlID0gImZ1bGwiOyAvL0xvY2F0aW9uIjsgLy9SRUFEX1BIT05FX1NUQVRFIjsKICAgICAgICAgICAgLy9JbnN0YW5jZXMgYXRhID0gV2VrYVV0aWxzLmxvYWRBcmZmKCk7CiAgICAgICAgICAgIC8vRmlsdGVyZWRDbGFzc2lmaWVyIGZpbHRlcmVkQ2xhc3NpZmllciA9IFdla2FVdGlscy5idWlsZENsYXNzaWZpZXIoZGF0YSk7CiAgICAgICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKGZpbHRlcmVkQ2xhc3NpZmllci5nZXRCYXRjaFNpemUoKSk7CgogICAgICAgICAgICBkb2NzUmVzdXRscy5hZGQod2VrYVV0aWxzLmdldERvY3MocHlXb3JrTG9jICsgIlxcb3V0cHV0XFxnbmRcXGNvbXBcXCIgKyBtYXJrICsgIlxcIgogICAgICAgICAgICAgICAgICAgICsgdHlwZSkpOy8vIEQ6XFx3b3Jrc3BhY2VcXENPU1BPU19NSU5JTkdcXG91dHB1dFxcZ25kXFwiICsgUEVSTUlTU0lPTik7IC8vTG9jYXRpb24iKTsKICAgICAgICAgICAgbGFiZWxzLmFkZCgiVCIpOwogICAgICAgICAgICAvL2xhYmVscy5hZGQoIkQiKTsKICAgICAgICAgICAgbGFiZWxzLmFkZCgiRiIpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHR5cGUgPSAidXNlcnMiOyAvL1JFQURfUEhPTkVfU1RBVEUiOwogICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwOyBpKyspIHsKICAgICAgICAgICAgICAgIGludCB1c2VyX251bSA9IGk7CiAgICAgICAgICAgICAgICBtYXJrID0gSW50ZWdlci50b1N0cmluZyh1c2VyX251bSk7CiAgICAgICAgICAgICAgICBkb2NzUmVzdXRscy5hZGQod2VrYVV0aWxzLmdldFVzZXJEb2NzKHB5V29ya0xvYyArICJcXG91dHB1dFxcZ25kXFwiICsgdHlwZSArICJcXCIgKyB1c2VyX251bSkpOyAvL0xvY2F0aW9uIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgbGFiZWxzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgIGxhYmVscy5hZGQoIlQiKTsKICAgICAgICAgICAgbGFiZWxzLmFkZCgiRiIpOwogICAgICAgIH0KCiAgICAgICAgTWFwPEludGVnZXIsIERvdWJsZT4gZm1lYXN1cmVzID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgZG9jc1Jlc3V0bHMuc2l6ZSgpOyBpKyspIHsKICAgICAgICAgICAgTGlzdDxMYWJlbGxlZERvYz4gbGFiZWxsZWREb2NzID0gZG9jc1Jlc3V0bHMuZ2V0KGkpOwogICAgICAgICAgICBJbnN0YW5jZXMgaW5zdGFuY2VzID0gZG9jczJJbnN0YW5jZXMobGFiZWxsZWREb2NzLCBsYWJlbHMpOwogICAgICAgICAgICBpZiAoaW5zdGFuY2VzLm51bUluc3RhbmNlcygpIDwgMTApIHsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIC8vZm9yIChJbnN0YW5jZSBpbnN0YW5jZSA6IGluc3RhbmNlcykgewogICAgICAgICAgICAvLyBTeXN0ZW0ub3V0LnByaW50bG4oaW5zdGFuY2UuY2xhc3NBdHRyaWJ1dGUoKSk7CiAgICAgICAgICAgIC8vIFN5c3RlbS5vdXQucHJpbnRsbihpbnN0YW5jZSk7CiAgICAgICAgICAgIC8vIH0KCiAgICAgICAgICAgIFN0cmluZ1RvV29yZFZlY3RvciBzdHJpbmdUb1dvcmRWZWN0b3IgPSBnZXRXb3JkRmlsdGVyKGluc3RhbmNlcywgZmFsc2UpOwoKICAgICAgICAgICAgaW5zdGFuY2VzID0gRmlsdGVyLnVzZUZpbHRlcihpbnN0YW5jZXMsIHN0cmluZ1RvV29yZFZlY3Rvcik7CiAgICAgICAgICAgIEF0dHJpYnV0ZVNlbGVjdGlvbiBhdHRyaWJ1dGVTZWxlY3Rpb24gPSBudWxsOwoKICAgICAgICAgICAgaWYgKGF0dHJpU2VsKSB7CiAgICAgICAgICAgICAgICBhdHRyaWJ1dGVTZWxlY3Rpb24gPSBnZXRBdHRyaWJ1dGVTZWxlY3RvcihpbnN0YW5jZXMsIGF0dE51bSk7CiAgICAgICAgICAgICAgICBpbnN0YW5jZXMgPSBhdHRyaWJ1dGVTZWxlY3Rpb24ucmVkdWNlRGltZW5zaW9uYWxpdHkoaW5zdGFuY2VzKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgY3JlYXRlQXJmZihpbnN0YW5jZXMsIHR5cGUgKyAiXyIgKyBtYXJrICsgIi5hcmZmIik7CiAgICAgICAgLypQcmludFdyaXRlciBvdXQgPSBuZXcgUHJpbnRXcml0ZXIoUEVSTUlTU0lPTiArICJfIiArIG1hcmsgKyAiLmFyZmYiKTsKICAgICAgICBvdXQucHJpbnQoaW5zdGFuY2VzLnRvU3RyaW5nKCkpOwogICAgICAgIG91dC5jbG9zZSgpOyovCiAgICAgICAgICAgIHdla2EuY29yZS5TZXJpYWxpemF0aW9uSGVscGVyLndyaXRlKHR5cGUgKyAiXyIgKyBtYXJrICsgIi5maWx0ZXIiLCBzdHJpbmdUb1dvcmRWZWN0b3IpOwogICAgICAgICAgICBpZiAoIXVzZXIgJiYgc21vdGUpIHsKICAgICAgICAgICAgICAgIGluc3RhbmNlcyA9IFdla2FVdGlscy5vdmVyU2FtcGxpbmcoaW5zdGFuY2VzLCBzbW90ZUNsYXNzLCBzbW90ZVBlcmNlbnQpOyAvLzI1MCk7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaW5zdGFuY2VzLm51bUluc3RhbmNlcygpKTsKICAgICAgICAgICAgICAgIC8vaW5zdGFuY2VzID0gV2VrYVV0aWxzLm92ZXJTYW1wbGluZyhpbnN0YW5jZXMsICIyIiwgMTUwKTsKICAgICAgICAgICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKGluc3RhbmNlcy5udW1JbnN0YW5jZXMoKSk7CgogICAgICAgICAgICAgICAgV2VrYVV0aWxzLmNyZWF0ZUFyZmYoaW5zdGFuY2VzLCB0eXBlICsgIl8iICsgbWFyayArICJfc21vdGUuYXJmZiIpOwogICAgICAgICAgICB9CgoKICAgICAgICAgICAgLy8gRXZhbHVhdGUgY2xhc3NpZmllciBhbmQgcHJpbnQgc29tZSBzdGF0aXN0aWNzCiAgICAgICAgICAgIENsYXNzaWZpZXIgY2xhc3NpZmllciA9IGJ1aWxkQ2xhc3NpZmllcihpbnN0YW5jZXMsIHR5cGUsIHRydWUpOwoKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGZtZWFzdXJlcy5wdXQoaSwgY3Jvc3NWYWxpZGF0aW9uKGluc3RhbmNlcywgY2xhc3NpZmllciwgNSkpOwogICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgYm9vbGVhbiBwcmVkaWN0aW9uID0gdHJ1ZTs=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBVcGRhdGVhYmxlQ2xhc3NpZmllciB1cGRhdGVhYmxlQ2xhc3NpZmllciA9IChVcGRhdGVhYmxlQ2xhc3NpZmllcikgbG9hZENsYXNzaWZpZXIobmV3IEZpbGUoImZ1bGxfTG9jYXRpb24ubW9kZWwiKSk7Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>public static void evalClassifiers(Instances instances) {
-
-    }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBhdHRyaVNlbCA9IHRydWU7Ly90cnVlOwo=</text>
-      </register>
       <register name="-" type="4">
-        <text>else if (mark.startsWith(&quot;Lo&quot;))</text>
+        <text encoding="base64">cHVibGljIHN0YXRpYyA=</text>
       </register>
     </registers>
     <search>
