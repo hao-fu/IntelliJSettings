@@ -98,10 +98,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1494767762940">
-        <mark key="[" line="545" column="0" />
-        <mark key="]" line="583" column="0" />
-        <mark key="." line="583" column="0" />
+      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1494806736472">
+        <mark key="[" line="511" column="20" />
+        <mark key="]" line="511" column="20" />
+        <mark key="." line="511" column="20" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/utils/OSUtilsTest.java" timestamp="1479169358931">
         <mark key="[" line="27" column="8" />
@@ -277,8 +277,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBdHRyaWJ1dGVTZWxlY3Rpb24gYXR0cmlidXRlU2VsZWN0aW9uID0gZ2V0QXR0cmlidXRlU2VsZWN0b3IoaW5zdGFuY2VzKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBdHRyaWJ1dGVTZWxlY3Rpb24gYXR0cmlidXRlU2VsZWN0aW9uID0gZ2V0QXR0cmlidXRlU2VsZWN0b3IoaW5zdGFuY2VzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>when_what</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">IGlmIChhdHRyaVNlbCkgewogICAgICAgICAgICBBdHRyaWJ1dGVTZWxlY3Rpb24gYXR0cmlidXRlU2VsZWN0aW9uID0gbmV3IEF0dHJpYnV0ZVNlbGVjdGlvbigpOwogICAgICAgICAgICAvLy9BdHRyaWJ1dGVTZWxlY3RlZENsYXNzaWZpZXIgYXR0cmlidXRlU2VsZWN0ZWRDbGFzc2lmaWVyID0gbmV3IEF0dHJpYnV0ZVNlbGVjdGVkQ2xhc3NpZmllcigpOwogICAgICAgICAgICBDZnNTdWJzZXRFdmFsIGV2YWwgPSBuZXcgQ2ZzU3Vic2V0RXZhbCgpOwogICAgICAgICAgICBhdHRyaWJ1dGVTZWxlY3Rpb24uc2V0RXZhbHVhdG9yKGV2YWwpOwogICAgICAgICAgICBCZXN0Rmlyc3Qgc2VhcmNoID0gbmV3IEJlc3RGaXJzdCgpOwogICAgICAgICAgICBhdHRyaWJ1dGVTZWxlY3Rpb24uc2V0U2VhcmNoKHNlYXJjaCk7CiAgICAgICAgICAgIGF0dHJpYnV0ZVNlbGVjdGlvbi5TZWxlY3RBdHRyaWJ1dGVzKGRhdGEpOwogICAgICAgICAgICAvL0dyZWVkeVN0ZXB3aXNlIGdyZWVkeVN0ZXB3aXNlID0gbmV3IEdyZWVkeVN0ZXB3aXNlKCk7CiAgICAgICAgICAgIC8vZ3JlZWR5U3RlcHdpc2Uuc2V0U2VhcmNoQmFja3dhcmRzKHRydWUpOwogICAgICAgICAgICAvL2F0dHJpYnV0ZVNlbGVjdGVkQ2xhc3NpZmllci5zZXRDbGFzc2lmaWVyKGNsYXNzaWZpZXIpOwogICAgICAgICAgICAvL2F0dHJpYnV0ZVNlbGVjdGVkQ2xhc3NpZmllci5zZXRFdmFsdWF0b3IoZXZhbCk7CiAgICAgICAgICAgIC8vYXR0cmlidXRlU2VsZWN0ZWRDbGFzc2lmaWVyLnNldFNlYXJjaChzZWFyY2gpOwogICAgICAgICAgICAvL2NsYXNzaWZpZXIgPSBhdHRyaWJ1dGVTZWxlY3RlZENsYXNzaWZpZXI7CiAgICAgICAgICAgIC8vRXZhbHVhdGlvbiBldmFsdWF0aW9uID0gbmV3IEV2YWx1YXRpb24oZGF0YSk7CiAgICAgICAgICAgIC8vZXZhbHVhdGlvbi5jcm9zc1ZhbGlkYXRlTW9kZWwoY2xhc3NpZmllciwgZGF0YSwgMTAsIG5ldyBSYW5kb20oMSkpOwogICAgICAgICAgICAvL1N5c3RlbS5vdXQucHJpbnRsbihldmFsdWF0aW9uLnRvU3VtbWFyeVN0cmluZygpKTsKICAgICAgICB9</text>
@@ -305,7 +305,7 @@
         <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGV2YWwubnVtSW5zdGFuY2VzKCkpOw==</text>
       </register>
       <register name="-" type="4">
-        <text>e, boolean attriSel</text>
+        <text>when_what</text>
       </register>
     </registers>
     <search>
