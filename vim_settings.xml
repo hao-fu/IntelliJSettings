@@ -98,7 +98,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1494828841336" />
+      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1494832170139">
+        <mark key="[" line="509" column="74" />
+        <mark key="]" line="509" column="74" />
+        <mark key="." line="509" column="74" />
+      </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/utils/OSUtilsTest.java" timestamp="1479169358931">
         <mark key="[" line="27" column="8" />
         <mark key="]" line="27" column="8" />
@@ -183,8 +187,11 @@
         <mark key="]" line="753" column="0" />
         <mark key="." line="753" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494540830229">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1494829082225">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="D:/workspace/backstage-master/runApp.sh" timestamp="1484285395281">
         <mark key="[" line="9" column="14" />
@@ -273,8 +280,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBhdHRyaVNlbCA9IHRydWU7Ly90cnVlOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBhdHRyaVNlbCA9IHRydWU7Ly90cnVlOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC8vQ2FtZXJhIg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBib29sZWFuIHNtb3RlID0gdHJ1ZTsK</text>
@@ -301,7 +308,7 @@
         <text encoding="base64">CiAgICAgICAgLy8gUGVyY2VudCBzcGxpdA==</text>
       </register>
       <register name="-" type="4">
-        <text>when_what</text>
+        <text encoding="base64">IC8vQ2FtZXJhIg==</text>
       </register>
     </registers>
     <search>
