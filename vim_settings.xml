@@ -98,11 +98,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1494903980371">
-        <mark key="[" line="734" column="23" />
-        <mark key="]" line="723" column="0" />
-        <mark key="." line="723" column="0" />
-        <mark key="^" line="729" column="28" />
+      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1494905255236">
+        <mark key="[" line="796" column="116" />
+        <mark key="]" line="796" column="17" />
+        <mark key="." line="796" column="17" />
+        <mark key="^" line="796" column="17" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/utils/OSUtilsTest.java" timestamp="1479169358931">
         <mark key="[" line="27" column="8" />
@@ -279,34 +279,34 @@
         <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IEZjb3VudCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBzaXplID0gbGFiZWxsZWREb2NzLnNpemUoKSAtIHNwbGl0Owo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IEZjb3VudCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBzaXplID0gbGFiZWxsZWREb2NzLnNpemUoKSAtIHNwbGl0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IFRjb3VudCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IEZjb3VudCA9IDA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IFRjb3VudCA9IDA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJhaW5TZXQuYWRkKGxhYmVsbGVkRG9jKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoRmNvdW50IDwgc3BsaXQgLyA0KSB7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGY291bnQrKzsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJhaW5TZXQuYWRkKGxhYmVsbGVkRG9jKTsK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoRmNvdW50IDwgc3BsaXQgLyA0KSB7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGY291bnQrKzsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoVGNvdW50IDwgc3BsaXQgLyA0KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJhaW5TZXQuYWRkKGxhYmVsbGVkRG9jKTsK</text>
       </register>
       <register name="-" type="4">
         <text>LabelledDoc labelledDoc : labelledDocs</text>
