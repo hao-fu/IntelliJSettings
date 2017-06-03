@@ -99,10 +99,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1496304736843">
-        <mark key="[" line="764" column="57" />
-        <mark key="]" line="669" column="0" />
-        <mark key="." line="669" column="0" />
+      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1496484763935">
+        <mark key="[" line="752" column="27" />
+        <mark key="]" line="752" column="27" />
+        <mark key="." line="752" column="27" />
         <mark key="^" line="794" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/utils/OSUtilsTest.java" timestamp="1479169358931">
@@ -282,8 +282,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>//Location&quot;; //READ_PHONE_STATE&quot;;</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgbWFyayA9IG51bGw7Cg==</text>
@@ -312,7 +312,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBzaXplID0gbGFiZWxsZWREb2NzLnNpemUoKSAtIHNwbGl0Owo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IiwgIiArIFRzaXplICsgIiwiICsgRnNpemUgKyAiLCIg</text>
+        <text>//Location&quot;; //READ_PHONE_STATE&quot;;</text>
       </register>
     </registers>
     <search>
