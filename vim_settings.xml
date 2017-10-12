@@ -207,10 +207,10 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1491878217141">
         <mark key="[" line="47" column="63" />
       </file>
-      <file name="D:/workspace/SmartAppAnalyzer/src/fu/hao/analysis/simple-auto-lock-door.groovy" timestamp="1507828665693">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="D:/workspace/SmartAppAnalyzer/src/fu/hao/analysis/simple-auto-lock-door.groovy" timestamp="1507829553859">
+        <mark key="[" line="60" column="34" />
+        <mark key="]" line="60" column="34" />
+        <mark key="." line="60" column="34" />
       </file>
       <file name="D:/workspace/PlayWalaSlicer/src/slicing/WalaExamplesProperties.java" timestamp="1490309107370">
         <mark key="[" line="0" column="0" />
@@ -303,15 +303,7 @@
                 }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>for (ValueBox defBox : stmt.getDefBoxes()) {
-                    System.out.println(defBox.getValue());
-                }
-
-                for (ValueBox useBox : stmt.getUseBoxes()) {
-                    if (useBox.getValue().getType().toString().equals(&quot;java.lang.String&quot;)) {
-                        System.out.println(useBox.getValue());
-                    }
-                }</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
         <text>for (ValueBox useBox : stmt.getUseBoxes()) {
@@ -368,7 +360,7 @@ def doorHandler(evt)
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>$createCallSiteArray_1</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
