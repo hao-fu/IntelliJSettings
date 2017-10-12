@@ -155,6 +155,11 @@
         <mark key="]" line="12" column="46" />
         <mark key="." line="12" column="46" />
       </file>
+      <file name="D:/workspace/SmartAppAnalyzer/src/fu/hao/analysis/Main.java" timestamp="1507787006780">
+        <mark key="[" line="42" column="27" />
+        <mark key="]" line="42" column="27" />
+        <mark key="." line="42" column="27" />
+      </file>
       <file name="D:/workspace/android-ml-weka/src/weka/core/stopwords/WordsFromFile.java" timestamp="1489006485289">
         <mark key="[" line="109" column="0" />
       </file>
@@ -281,7 +286,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Open;Free;Tools;Settings;;Open;Free;;;Open;Free;;Open;Free;</text>
+        <text>C:\\Users\\hfu\\IdeaProjects\\SmartAppAnalyzer\\</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgbWFyayA9IG51bGw7Cg==</text>
@@ -310,7 +315,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBzaXplID0gbGFiZWxsZWREb2NzLnNpemUoKSAtIHNwbGl0Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>Open;Free;Tools;Settings;;Open;Free;;;Open;Free;;Open;Free;</text>
+        <text>C:\\Users\\hfu\\IdeaProjects\\SmartAppAnalyzer\\</text>
       </register>
     </registers>
     <search>
