@@ -157,10 +157,11 @@
         <mark key="]" line="12" column="46" />
         <mark key="." line="12" column="46" />
       </file>
-      <file name="D:/workspace/SmartAppAnalyzer/src/fu/hao/analysis/Main.java" timestamp="1507787006780">
-        <mark key="[" line="42" column="27" />
-        <mark key="]" line="42" column="27" />
-        <mark key="." line="42" column="27" />
+      <file name="D:/workspace/SmartAppAnalyzer/src/fu/hao/analysis/Main.java" timestamp="1507796428328">
+        <mark key="[" line="116" column="16" />
+        <mark key="]" line="116" column="16" />
+        <mark key="." line="116" column="16" />
+        <mark key="^" line="83" column="40" />
       </file>
       <file name="D:/workspace/android-ml-weka/src/weka/core/stopwords/WordsFromFile.java" timestamp="1489006485289">
         <mark key="[" line="109" column="0" />
@@ -290,23 +291,53 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>for (ValueBox defBox : stmt.getDefBoxes()) {
+                    System.out.println(defBox.getValue());
+                }
+
+                for (ValueBox useBox : stmt.getUseBoxes()) {
+                    if (useBox.getValue().getType().toString().equals(&quot;java.lang.String&quot;)) {
+                        System.out.println(useBox.getValue());
+                    }
+                }</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>for (ValueBox defBox : stmt.getDefBoxes()) {
+                    System.out.println(defBox.getValue());
+                }
+
+                for (ValueBox useBox : stmt.getUseBoxes()) {
+                    if (useBox.getValue().getType().toString().equals(&quot;java.lang.String&quot;)) {
+                        System.out.println(useBox.getValue());
+                    }
+                }</text>
       </register>
       <register name="2" type="4">
+        <text>for (ValueBox useBox : stmt.getUseBoxes()) {
+                    if (useBox.getValue().getType().toString().equals(&quot;java.lang.String&quot;)) {
+                        System.out.println(useBox.getValue());
+                        for (ValueBox defBox : stmt.getDefBoxes()) {
+                            System.out.println(defBox.getValue());
+                            callSites.put(defBox.getValue(), useBox.getValue());
+                        }
+                    }
+                }</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>def updated()
 {
 
     initialize()
 }</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIHVuc3Vic2NyaWJlKCkKICAgIHVuc2NoZWR1bGUoKQogICAgbG9nLmRlYnVnICJBdXRvIExvY2sgRG9vciB1cGRhdGVkLiI=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>def doorClosed(evt) {
     log.debug &quot;Door Closed&quot;
 }
@@ -327,23 +358,17 @@ def doorHandler(evt)
     }
 }</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICBsb2cuZGVidWcgIlNldHRpbmdzOiAke3NldHRpbmdzfSIKICAgIHN1YnNjcmliZShsb2NrMSwgImxvY2siLCBkb29ySGFuZGxlcikKICAgIHN1YnNjcmliZShvcGVuU2Vuc29yLCAiY29udGFjdC5jbG9zZWQiLCBkb29yQ2xvc2VkKQ==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICBzZWN0aW9uKCJMb2NrIGl0IG9ubHkgd2hlbiB0aGlzIGRvb3IgaXMgY2xvc2VkIikgewogICAgICAgICAgICAgICAgaW5wdXQgIm9wZW5TZW5zb3IiLCAiY2FwYWJpbGl0eS5jb250YWN0U2Vuc29yIiwgdGl0bGU6ICJXaGVyZT8iCiAgICAgICAgICAgIH0=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbWFyayA9IG51bGw7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>C:\\Users\\hfu\\IdeaProjects\\SmartAppAnalyzer\\</text>
+        <text>$createCallSiteArray_1</text>
       </register>
     </registers>
     <search>
