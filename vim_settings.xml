@@ -205,10 +205,10 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1491878217141">
         <mark key="[" line="47" column="63" />
       </file>
-      <file name="D:/workspace/SmartAppAnalyzer/src/fu/hao/analysis/simple-auto-lock-door.groovy" timestamp="1507789713229">
-        <mark key="[" line="32" column="10" />
-        <mark key="]" line="32" column="10" />
-        <mark key="." line="32" column="10" />
+      <file name="D:/workspace/SmartAppAnalyzer/src/fu/hao/analysis/simple-auto-lock-door.groovy" timestamp="1507791558919">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="D:/workspace/PlayWalaSlicer/src/slicing/WalaExamplesProperties.java" timestamp="1490309107370">
         <mark key="[" line="0" column="0" />
@@ -289,37 +289,57 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>def updated()
+{
+
+    initialize()
+}</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHVuc3Vic2NyaWJlKCkKICAgIHVuc2NoZWR1bGUoKQogICAgbG9nLmRlYnVnICJBdXRvIExvY2sgRG9vciB1cGRhdGVkLiI=</text>
+      </register>
+      <register name="4" type="4">
+        <text>def doorClosed(evt) {
+    log.debug &quot;Door Closed&quot;
+}
+
+def doorHandler(evt)
+{
+    log.debug &quot;Door ${openSensor.latestValue}&quot;
+    log.debug &quot;Lock ${evt.name} is ${evt.value}.&quot;
+
+    if (evt.value == &quot;locked&quot;) {                  // If the human locks the door then...
+        log.debug &quot;Cancelling previous lock task...&quot;
+        unschedule( lockDoor )                  // ...we don't need to lock it later.
+    }
+    else {                                      // If the door is unlocked then...
+        def delay = minutesLater * 60          // runIn uses seconds
+        log.debug &quot;Re-arming lock in ${minutesLater} minutes (${delay}s).&quot;
+        runIn( delay, lockDoor )                // ...schedule to lock in x minutes.
+    }
+}</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICBsb2cuZGVidWcgIlNldHRpbmdzOiAke3NldHRpbmdzfSIKICAgIHN1YnNjcmliZShsb2NrMSwgImxvY2siLCBkb29ySGFuZGxlcikKICAgIHN1YnNjcmliZShvcGVuU2Vuc29yLCAiY29udGFjdC5jbG9zZWQiLCBkb29yQ2xvc2VkKQ==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">ICBzZWN0aW9uKCJMb2NrIGl0IG9ubHkgd2hlbiB0aGlzIGRvb3IgaXMgY2xvc2VkIikgewogICAgICAgICAgICAgICAgaW5wdXQgIm9wZW5TZW5zb3IiLCAiY2FwYWJpbGl0eS5jb250YWN0U2Vuc29yIiwgdGl0bGU6ICJXaGVyZT8iCiAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICBzZWN0aW9uKCJMb2NrIGl0IG9ubHkgd2hlbiB0aGlzIGRvb3IgaXMgY2xvc2VkIikgewogICAgICAgICAgICAgICAgaW5wdXQgIm9wZW5TZW5zb3IiLCAiY2FwYWJpbGl0eS5jb250YWN0U2Vuc29yIiwgdGl0bGU6ICJXaGVyZT8iCiAgICAgICAgICAgIH0=</text>
-      </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbWFyayA9IG51bGw7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>if (split == labelledDocs.size()) {
-                split = -1;
-            }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRG91YmxlIHNwbGl0RCA9ICAgbGFiZWxsZWREb2NzLnNpemUoKSAqIDIvMzsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbWFyayA9IG51bGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>C:\\Users\\hfu\\IdeaProjects\\SmartAppAnalyzer\\</text>
