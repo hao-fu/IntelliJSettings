@@ -94,6 +94,11 @@
       <file name="D:/workspace/android-ml-weka/src/weka/classifiers/trees/ht/NominalConditionalSufficientStats.java" timestamp="1490047037410">
         <mark key="[" line="53" column="35" />
       </file>
+      <file name="D:/workspace/SmartAppAnalyzer/src/fu/hao/utils/Log.java" timestamp="1509002030293">
+        <mark key="[" line="87" column="7" />
+        <mark key="]" line="87" column="7" />
+        <mark key="." line="87" column="7" />
+      </file>
       <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/Main.java" timestamp="1476156527938">
         <mark key="[" line="405" column="12" />
       </file>
@@ -108,10 +113,10 @@
         <mark key="." line="996" column="257" />
         <mark key="^" line="989" column="0" />
       </file>
-      <file name="D:/workspace/SmartAppAnalyzer/src/fu/hao/analysis/MethodSummary.java" timestamp="1509000504193">
-        <mark key="[" line="67" column="9" />
-        <mark key="]" line="67" column="9" />
-        <mark key="." line="67" column="9" />
+      <file name="D:/workspace/SmartAppAnalyzer/src/fu/hao/analysis/MethodSummary.java" timestamp="1509002892419">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/utils/OSUtilsTest.java" timestamp="1479169358931">
         <mark key="[" line="27" column="8" />
@@ -166,10 +171,10 @@
         <mark key="." line="12" column="46" />
       </file>
       <file name="D:/workspace/SmartAppAnalyzer/src/fu/hao/analysis/Main.java" timestamp="1508985104924">
-        <mark key="[" line="107" column="13" />
-        <mark key="]" line="107" column="13" />
-        <mark key="^" line="69" column="50" />
-        <mark key="." line="107" column="13" />
+        <mark key="[" line="112" column="13" />
+        <mark key="]" line="112" column="13" />
+        <mark key="^" line="71" column="50" />
+        <mark key="." line="112" column="13" />
       </file>
       <file name="D:/workspace/android-ml-weka/src/weka/core/stopwords/WordsFromFile.java" timestamp="1489006485289">
         <mark key="[" line="109" column="0" />
@@ -203,7 +208,7 @@
         <mark key="]" line="753" column="0" />
         <mark key="." line="753" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508999165847">
+      <file name="/Dummy.txt" timestamp="1509003012565">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
@@ -298,49 +303,41 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1ldGhvZC5nZXREZWNsYXJpbmdDbGFzcygpLmdldE1ldGhvZCgpCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1ldGhvZC5nZXREZWNsYXJpbmdDbGFzcygpLmdldE1ldGhvZCgpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKFZhbHVlQm94IHZhbHVlQm94IDogaW52b2tlRXhwclZhbHVlLmdldFVzZUJveGVzKCkpIHtkZAo=</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzdG10OiAiKTs=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgU3lzdGVtLm91dC5wcmludGxuKCJuYW1lOiAiICsgbmFtZSk7</text>
-      </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>getNameReg(method);
             interpretation(tgtClass, method, callSites);</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">cHVibGljIHN0YXRpYyBNYXA8U3RyaW5nLCBTdG10PiBnZXRTdG10c1VzZUdsb2JhbE5hbWUoU29vdE1ldGhvZCBtZXRob2QsICkgewoKICAgIH0=</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgcmV0dXJuIG5hbWUyc3RtdHM7</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgIHByb3RlY3RlZCBhYnN0cmFjdCB2b2lkIGNoZWNrQmVmb3JlKFVuaXQgdW5pdCwgRmxvd1NldCBpblNldCwgRmxvd1NldCBvdXRTZXQpOwogICAgcHJvdGVjdGVkIGFic3RyYWN0IHZvaWQgY2hlY2tBZnRlcihVbml0IHVuaXQsIEZsb3dTZXQgb3V0U2V0KTs=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>;
 
     protected void basicKill(Unit unit, FlowSet outSet) {</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGlmIChzdG10LmNvbnRhaW5zSW52b2tlRXhwcigpKSB7CiAgICAgICAgICAgIEludm9rZUV4cHIgaW52b2tlRXhwciA9IHN0bXQuZ2V0SW52b2tlRXhwcigpOwogICAgICAgICAgICBmb3IgKFZhbHVlIHZhbHVlIDogaW52b2tlRXhwci5nZXRBcmdzKCkpIHsKICAgICAgICAgICAgICAgIGlmIChpblNldC5jb250YWlucyh2YWx1ZSkpIHsKCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
-      </register>
-      <register name="8" type="4">
-        <text>// if x := y, where y is tainted
-            for (ValueBox useBox : assignStmt.getRightOp().getUseBoxes()) {
-                Value useVal = useBox.getValue();
-                if (inSet.contains(useVal)) {
-                    addDefBox(unit, outSet);
-                    hasTainted = true;
-                    break;
-                }
-            }</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">KChBc3NpZ25TdG10KSB1bml0KS5jb250YWluc0ludm9rZUV4cHIoKQogICAgICAgICAgICAgICAgICAgICYmIHVuaXQudG9TdHJpbmcoKS5jb250YWlucygic291cmNlKCkiKQ==</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgU3lzdGVtLm91dC5wcmludGxuKCJuYW1lOiAiICsgbmFtZSk7</text>
+        <text encoding="base64">IHJldHVybiBmYWxzZTs=</text>
       </register>
     </registers>
     <search>
