@@ -165,11 +165,11 @@
         <mark key="]" line="12" column="46" />
         <mark key="." line="12" column="46" />
       </file>
-      <file name="D:/workspace/SmartAppAnalyzer/src/fu/hao/analysis/Main.java" timestamp="1508980209563">
-        <mark key="[" line="112" column="52" />
-        <mark key="]" line="112" column="52" />
+      <file name="D:/workspace/SmartAppAnalyzer/src/fu/hao/analysis/Main.java" timestamp="1508985104924">
+        <mark key="[" line="107" column="13" />
+        <mark key="]" line="107" column="13" />
         <mark key="^" line="69" column="50" />
-        <mark key="." line="112" column="52" />
+        <mark key="." line="107" column="13" />
       </file>
       <file name="D:/workspace/android-ml-weka/src/weka/core/stopwords/WordsFromFile.java" timestamp="1489006485289">
         <mark key="[" line="109" column="0" />
@@ -302,7 +302,7 @@
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzdG10OiAiKTs=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzdG10OiAiKTs=</text>
+        <text encoding="base64">ICAgU3lzdGVtLm91dC5wcmludGxuKCJuYW1lOiAiICsgbmFtZSk7</text>
       </register>
       <register name="2" type="4">
         <text>getNameReg(method);
@@ -340,7 +340,7 @@
         <text encoding="base64">KChBc3NpZ25TdG10KSB1bml0KS5jb250YWluc0ludm9rZUV4cHIoKQogICAgICAgICAgICAgICAgICAgICYmIHVuaXQudG9TdHJpbmcoKS5jb250YWlucygic291cmNlKCkiKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>+ methodSummary.getName2stmts().get(name)</text>
+        <text encoding="base64">ICAgU3lzdGVtLm91dC5wcmludGxuKCJuYW1lOiAiICsgbmFtZSk7</text>
       </register>
     </registers>
     <search>
