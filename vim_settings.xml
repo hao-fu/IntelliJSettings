@@ -83,6 +83,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="D:/workspace/SmartAppAnalyzer/src/fu/hao/analysis/DataForwardTracer.java" timestamp="1508979000575">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+      </file>
       <file name="D:/workspace/TestMallet/src/WekaUtils.java" timestamp="1493088367985">
         <mark key="[" line="440" column="30" />
       </file>
@@ -102,6 +107,11 @@
         <mark key="]" line="996" column="257" />
         <mark key="." line="996" column="257" />
         <mark key="^" line="989" column="0" />
+      </file>
+      <file name="D:/workspace/SmartAppAnalyzer/src/fu/hao/analysis/MethodSummary.java" timestamp="1508980142243">
+        <mark key="[" line="67" column="9" />
+        <mark key="]" line="67" column="9" />
+        <mark key="." line="67" column="9" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/test/fu/hao/utils/OSUtilsTest.java" timestamp="1479169358931">
         <mark key="[" line="27" column="8" />
@@ -155,11 +165,11 @@
         <mark key="]" line="12" column="46" />
         <mark key="." line="12" column="46" />
       </file>
-      <file name="D:/workspace/SmartAppAnalyzer/src/fu/hao/analysis/Main.java" timestamp="1508972616637">
-        <mark key="[" line="69" column="12" />
-        <mark key="]" line="69" column="12" />
-        <mark key="." line="69" column="12" />
-        <mark key="^" line="108" column="40" />
+      <file name="D:/workspace/SmartAppAnalyzer/src/fu/hao/analysis/Main.java" timestamp="1508980209563">
+        <mark key="[" line="112" column="52" />
+        <mark key="]" line="112" column="52" />
+        <mark key="^" line="69" column="50" />
+        <mark key="." line="112" column="52" />
       </file>
       <file name="D:/workspace/android-ml-weka/src/weka/core/stopwords/WordsFromFile.java" timestamp="1489006485289">
         <mark key="[" line="109" column="0" />
@@ -205,10 +215,10 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1491878217141">
         <mark key="[" line="47" column="63" />
       </file>
-      <file name="D:/workspace/SmartAppAnalyzer/src/fu/hao/analysis/simple-auto-lock-door.groovy" timestamp="1507832909113">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="60" column="34" />
-        <mark key="." line="60" column="34" />
+      <file name="D:/workspace/SmartAppAnalyzer/src/fu/hao/analysis/simple-auto-lock-door.groovy" timestamp="1508977006245">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="D:/workspace/PlayWalaSlicer/src/slicing/WalaExamplesProperties.java" timestamp="1490309107370">
         <mark key="[" line="0" column="0" />
@@ -289,75 +299,48 @@
         <text>e</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">VmFsdWUgbGFzdFZhbCA9IG51bGw7CiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgc3RtdC5nZXRVc2VCb3hlcygpLnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgICAgICBWYWx1ZSB2YWx1ZSA9IHN0bXQuZ2V0VXNlQm94ZXMoKS5nZXQoaSkuZ2V0VmFsdWUoKTsKICAgICAgICAgICAgICAgIGlmICh2YWx1ZS5nZXRUeXBlKCkudG9TdHJpbmcoKS5lcXVhbHMoImphdmEubGFuZy5TdHJpbmciKQogICAgICAgICAgICAgICAgICAgICAgICAmJiBsYXN0VmFsICE9IG51bGwgJiYgbGFzdFZhbC5nZXRUeXBlKCkudG9TdHJpbmcoKS5jb250YWlucygibnQiKSkgewogICAgICAgICAgICAgICAgICAgIGNhbGxTaXRlcy5wdXQoSW50ZWdlci5wYXJzZUludChsYXN0VmFsLnRvU3RyaW5nKCkpLCB2YWx1ZS50b1N0cmluZygpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGxhc3RWYWwgPSB2YWx1ZTsKICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzdG10OiAiKTs=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">VmFsdWUgbGFzdFZhbCA9IG51bGw7CiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgc3RtdC5nZXRVc2VCb3hlcygpLnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgICAgICBWYWx1ZSB2YWx1ZSA9IHN0bXQuZ2V0VXNlQm94ZXMoKS5nZXQoaSkuZ2V0VmFsdWUoKTsKICAgICAgICAgICAgICAgIGlmICh2YWx1ZS5nZXRUeXBlKCkudG9TdHJpbmcoKS5lcXVhbHMoImphdmEubGFuZy5TdHJpbmciKQogICAgICAgICAgICAgICAgICAgICAgICAmJiBsYXN0VmFsICE9IG51bGwgJiYgbGFzdFZhbC5nZXRUeXBlKCkudG9TdHJpbmcoKS5jb250YWlucygibnQiKSkgewogICAgICAgICAgICAgICAgICAgIGNhbGxTaXRlcy5wdXQoSW50ZWdlci5wYXJzZUludChsYXN0VmFsLnRvU3RyaW5nKCkpLCB2YWx1ZS50b1N0cmluZygpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGxhc3RWYWwgPSB2YWx1ZTsKICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzdG10OiAiKTs=</text>
       </register>
       <register name="2" type="4">
-        <text>for (ValueBox defBox : stmt.getDefBoxes()) {
-                    System.out.println(defBox.getValue());
-                }
-
-                for (ValueBox useBox : stmt.getUseBoxes()) {
-                    if (useBox.getValue().getType().toString().equals(&quot;java.lang.String&quot;)) {
-                        System.out.println(useBox.getValue());
-                    }
-                }</text>
+        <text>getNameReg(method);
+            interpretation(tgtClass, method, callSites);</text>
       </register>
       <register name="3" type="4">
-        <text>for (ValueBox useBox : stmt.getUseBoxes()) {
-                    if (useBox.getValue().getType().toString().equals(&quot;java.lang.String&quot;)) {
-                        System.out.println(useBox.getValue());
-                        for (ValueBox defBox : stmt.getDefBoxes()) {
-                            System.out.println(defBox.getValue());
-                            callSites.put(defBox.getValue(), useBox.getValue());
-                        }
-                    }
-                }</text>
+        <text encoding="base64">cHVibGljIHN0YXRpYyBNYXA8U3RyaW5nLCBTdG10PiBnZXRTdG10c1VzZUdsb2JhbE5hbWUoU29vdE1ldGhvZCBtZXRob2QsICkgewoKICAgIH0=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIG5hbWUyc3RtdHM7</text>
       </register>
       <register name="5" type="4">
-        <text>def updated()
-{
-
-    initialize()
-}</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBhYnN0cmFjdCB2b2lkIGNoZWNrQmVmb3JlKFVuaXQgdW5pdCwgRmxvd1NldCBpblNldCwgRmxvd1NldCBvdXRTZXQpOwogICAgcHJvdGVjdGVkIGFic3RyYWN0IHZvaWQgY2hlY2tBZnRlcihVbml0IHVuaXQsIEZsb3dTZXQgb3V0U2V0KTs=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgIHVuc3Vic2NyaWJlKCkKICAgIHVuc2NoZWR1bGUoKQogICAgbG9nLmRlYnVnICJBdXRvIExvY2sgRG9vciB1cGRhdGVkLiI=</text>
+        <text>;
+
+    protected void basicKill(Unit unit, FlowSet outSet) {</text>
       </register>
       <register name="7" type="4">
-        <text>def doorClosed(evt) {
-    log.debug &quot;Door Closed&quot;
-}
-
-def doorHandler(evt)
-{
-    log.debug &quot;Door ${openSensor.latestValue}&quot;
-    log.debug &quot;Lock ${evt.name} is ${evt.value}.&quot;
-
-    if (evt.value == &quot;locked&quot;) {                  // If the human locks the door then...
-        log.debug &quot;Cancelling previous lock task...&quot;
-        unschedule( lockDoor )                  // ...we don't need to lock it later.
-    }
-    else {                                      // If the door is unlocked then...
-        def delay = minutesLater * 60          // runIn uses seconds
-        log.debug &quot;Re-arming lock in ${minutesLater} minutes (${delay}s).&quot;
-        runIn( delay, lockDoor )                // ...schedule to lock in x minutes.
-    }
-}</text>
+        <text encoding="base64">IGlmIChzdG10LmNvbnRhaW5zSW52b2tlRXhwcigpKSB7CiAgICAgICAgICAgIEludm9rZUV4cHIgaW52b2tlRXhwciA9IHN0bXQuZ2V0SW52b2tlRXhwcigpOwogICAgICAgICAgICBmb3IgKFZhbHVlIHZhbHVlIDogaW52b2tlRXhwci5nZXRBcmdzKCkpIHsKICAgICAgICAgICAgICAgIGlmIChpblNldC5jb250YWlucyh2YWx1ZSkpIHsKCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICBsb2cuZGVidWcgIlNldHRpbmdzOiAke3NldHRpbmdzfSIKICAgIHN1YnNjcmliZShsb2NrMSwgImxvY2siLCBkb29ySGFuZGxlcikKICAgIHN1YnNjcmliZShvcGVuU2Vuc29yLCAiY29udGFjdC5jbG9zZWQiLCBkb29yQ2xvc2VkKQ==</text>
+        <text>// if x := y, where y is tainted
+            for (ValueBox useBox : assignStmt.getRightOp().getUseBoxes()) {
+                Value useVal = useBox.getValue();
+                if (inSet.contains(useVal)) {
+                    addDefBox(unit, outSet);
+                    hasTainted = true;
+                    break;
+                }
+            }</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICBzZWN0aW9uKCJMb2NrIGl0IG9ubHkgd2hlbiB0aGlzIGRvb3IgaXMgY2xvc2VkIikgewogICAgICAgICAgICAgICAgaW5wdXQgIm9wZW5TZW5zb3IiLCAiY2FwYWJpbGl0eS5jb250YWN0U2Vuc29yIiwgdGl0bGU6ICJXaGVyZT8iCiAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">KChBc3NpZ25TdG10KSB1bml0KS5jb250YWluc0ludm9rZUV4cHIoKQogICAgICAgICAgICAgICAgICAgICYmIHVuaXQudG9TdHJpbmcoKS5jb250YWlucygic291cmNlKCkiKQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>+ methodSummary.getName2stmts().get(name)</text>
       </register>
     </registers>
     <search>
