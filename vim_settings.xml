@@ -107,11 +107,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1547009614566">
-        <mark key="[" line="996" column="257" />
-        <mark key="]" line="996" column="257" />
-        <mark key="." line="996" column="257" />
-        <mark key="^" line="989" column="0" />
+      <file name="D:/workspace/android-ml-weka/src/WekaUtils.java" timestamp="1547057771808">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="989" column="70" />
+        <mark key="." line="989" column="70" />
+        <mark key="^" line="989" column="70" />
       </file>
       <file name="D:/workspace/SmartAppAnalyzer/src/fu/hao/analysis/MethodSummary.java" timestamp="1509002892419">
         <mark key="[" line="67" column="0" />
@@ -303,38 +303,36 @@
       <register name="0" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1ldGhvZC5nZXREZWNsYXJpbmdDbGFzcygpLmdldE1ldGhvZCgpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgQ2xhc3NpZmllciBnZXRQdXJlQ2xhc3NpZmllcigpIHsKICAgICAgICByZXR1cm4gbmV3IFJhbmRvbUZvcmVzdCgpOwogICAgfQ==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1ldGhvZC5nZXREZWNsYXJpbmdDbGFzcygpLmdldE1ldGhvZCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgQ2xhc3NpZmllciBnZXRQdXJlQ2xhc3NpZmllcigpIHsKICAgICAgICByZXR1cm4gbmV3IFJhbmRvbUZvcmVzdCgpOwogICAgfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1ldGhvZC5nZXREZWNsYXJpbmdDbGFzcygpLmdldE1ldGhvZCgpCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKFZhbHVlQm94IHZhbHVlQm94IDogaW52b2tlRXhwclZhbHVlLmdldFVzZUJveGVzKCkpIHtkZAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzdG10OiAiKTs=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>getNameReg(method);
             interpretation(tgtClass, method, callSites);</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">cHVibGljIHN0YXRpYyBNYXA8U3RyaW5nLCBTdG10PiBnZXRTdG10c1VzZUdsb2JhbE5hbWUoU29vdE1ldGhvZCBtZXRob2QsICkgewoKICAgIH0=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgcmV0dXJuIG5hbWUyc3RtdHM7</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBhYnN0cmFjdCB2b2lkIGNoZWNrQmVmb3JlKFVuaXQgdW5pdCwgRmxvd1NldCBpblNldCwgRmxvd1NldCBvdXRTZXQpOwogICAgcHJvdGVjdGVkIGFic3RyYWN0IHZvaWQgY2hlY2tBZnRlcihVbml0IHVuaXQsIEZsb3dTZXQgb3V0U2V0KTs=</text>
-      </register>
       <register name="9" type="4">
-        <text>;
-
-    protected void basicKill(Unit unit, FlowSet outSet) {</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBhYnN0cmFjdCB2b2lkIGNoZWNrQmVmb3JlKFVuaXQgdW5pdCwgRmxvd1NldCBpblNldCwgRmxvd1NldCBvdXRTZXQpOwogICAgcHJvdGVjdGVkIGFic3RyYWN0IHZvaWQgY2hlY2tBZnRlcihVbml0IHVuaXQsIEZsb3dTZXQgb3V0U2V0KTs=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHJldHVybiBmYWxzZTs=</text>
