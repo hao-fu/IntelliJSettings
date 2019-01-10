@@ -228,11 +228,10 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="D:/workspace/android-ml-weka/src/test/RealData.java" timestamp="1547100334089">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="90" column="10" />
-        <mark key="." line="90" column="10" />
-        <mark key="^" line="54" column="86" />
+      <file name="D:/workspace/android-ml-weka/src/test/RealData.java" timestamp="1547153156735">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="D:/workspace/PlayWalaSlicer/src/slicing/WalaExamplesProperties.java" timestamp="1490309107370">
         <mark key="[" line="0" column="0" />
@@ -319,15 +318,21 @@
         <text>e</text>
       </register>
       <register name="1" type="4">
-        <text>else if (mark.startsWith(&quot;REC&quot;)) {
-            //smote = true;
-            //smoteClass = &quot;1&quot;;
-            //smotePercent = 80;
-            //attriSel = false;
-            attNum = 500;
-        }</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiAobWFyay5zdGFydHNXaXRoKCJMb2NhdGlvbiIpKSB7CiAgICAgICAgICAgIC8vc21vdGUgPSB0cnVlOwogICAgICAgICAgICAvL3Ntb3RlQ2xhc3MgPSAiMSI7CiAgICAgICAgICAgIC8vc21vdGVQZXJjZW50ID0gMTMwOwogICAgICAgIH0=</text>
       </register>
       <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiAobWFyay5zdGFydHNXaXRoKCJMb2NhdGlvbiIpKSB7CiAgICAgICAgICAgIC8vc21vdGUgPSB0cnVlOwogICAgICAgICAgICAvL3Ntb3RlQ2xhc3MgPSAiMSI7CiAgICAgICAgICAgIC8vc21vdGVQZXJjZW50ID0gMTMwOwogICAgICAgIH0=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgIGlmIChtYXJrLnN0YXJ0c1dpdGgoIlNFTiIpKSB7CiAgICAgICAgICAgIHNtb3RlID0gdHJ1ZTsKICAgICAgICAgICAgc21vdGVDbGFzcyA9ICIxIjsKICAgICAgICAgICAgc21vdGVQZXJjZW50ID0gODMwOwogICAgICAgICAgICAvL2F0dHJpU2VsID0gdHJ1ZTsKICAgICAgICB9IGVsc2UgaWYgKG1hcmsuc3RhcnRzV2l0aCgiTG9jYXRpb24iKSkgewo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobWFyay5zdGFydHNXaXRoKCJTRU4iKSkgewogICAgICAgICAgICBzbW90ZSA9IHRydWU7CiAgICAgICAgICAgIHNtb3RlQ2xhc3MgPSAiMSI7CiAgICAgICAgICAgIHNtb3RlUGVyY2VudCA9IDgzMDsKICAgICAgICAgICAgLy9hdHRyaVNlbCA9IHRydWU7CiAgICAgICAgfSBlbHNlIGlmIChtYXJrLnN0YXJ0c1dpdGgoIkxvY2F0aW9uIikpIHsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobWFyay5zdGFydHNXaXRoKCJTRU4iKSkgewogICAgICAgICAgICBzbW90ZSA9IHRydWU7CiAgICAgICAgICAgIHNtb3RlQ2xhc3MgPSAiMSI7CiAgICAgICAgICAgIHNtb3RlUGVyY2VudCA9IDgzMDsKICAgICAgICAgICAgLy9hdHRyaVNlbCA9IHRydWU7CiAgICAgICAgfSBlbHNlIGlmIChtYXJrLnN0YXJ0c1dpdGgoIkxvY2F0aW9uIikpIHsK</text>
+      </register>
+      <register name="5" type="4">
         <text>else if (mark.startsWith(&quot;REC&quot;)) {
             //smote = true;
             //smoteClass = &quot;1&quot;;
@@ -336,7 +341,7 @@
             attNum = 500;
         }</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>if (mark.startsWith(&quot;REA&quot;)) {
             smote = true;
             smoteClass = &quot;1&quot;;
@@ -345,44 +350,25 @@
             attNum = 100;
         }</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>if (mark.startsWith(&quot;Camera&quot;)) {
             smote = true;
             smoteClass = &quot;2&quot;;
             smotePercent = 130;
         } else</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvLyBTdHJpbmcgcHlXb3JrTG9jID0gIkQ6XFx3b3Jrc3BhY2VcXENPU1BPU19NSU5JTkciOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>if (mark.startsWith(&quot;Camera&quot;)) {
             smote = true;
             smoteClass = &quot;2&quot;;
             smotePercent = 130;
         } else</text>
       </register>
-      <register name="6" type="4">
-        <text>int attNum = 500;
-        String smoteClass = &quot;1&quot;;
-        int smotePercent = 230;
-        if (mark.startsWith(&quot;Camera&quot;)) {
-            smote = true;
-            smoteClass = &quot;2&quot;;
-            smotePercent = 130;
-        }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0cmlTZWwgPSBmYWxzZTsK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgQ2xhc3NpZmllciBnZXRQdXJlQ2xhc3NpZmllcigpIHsKICAgICAgICByZXR1cm4gbmV3IFJhbmRvbUZvcmVzdCgpOwogICAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1ldGhvZC5nZXREZWNsYXJpbmdDbGFzcygpLmdldE1ldGhvZCgpCg==</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJldHVybiBmYWxzZTs=</text>
+        <text />
       </register>
     </registers>
     <search>
