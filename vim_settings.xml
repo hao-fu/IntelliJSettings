@@ -166,6 +166,7 @@
         <mark key="." line="91" column="63" />
         <mark key="^" line="91" column="63" />
       </file>
+      <file name="D:/workspace/NetSemantic-DVM/src/fu/hao/trust/dvm/Executor.java" timestamp="1547177094679" />
       <file name="D:/workspace/NetSemantic-Static/src/fu/hao/trust/staticAnalysis/SensAnalysisTest.java" timestamp="1489175052373">
         <mark key="[" line="68" column="30" />
       </file>
@@ -193,6 +194,11 @@
         <mark key="[" line="17" column="60" />
         <mark key="]" line="17" column="60" />
         <mark key="." line="17" column="60" />
+      </file>
+      <file name="D:/workspace/android-ml-weka/src/utils/Log.java" timestamp="1547178199104">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="D:/workspace/PlayWalaSlicer/src/slicing/SimpleSlicer.java" timestamp="1490336423224">
         <mark key="[" line="316" column="21" />
@@ -229,7 +235,7 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="D:/workspace/android-ml-weka/src/test/RealData.java" timestamp="1547176589083">
+      <file name="D:/workspace/android-ml-weka/src/test/RealData.java" timestamp="1547177146771">
         <mark key="[" line="33" column="78" />
         <mark key="]" line="33" column="69" />
         <mark key="." line="33" column="69" />
@@ -287,6 +293,7 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12-sources.jar!/org/slf4j/LoggerFactory.java" timestamp="1547176983861" />
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/Test.java" timestamp="1484026347083">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="39" column="0" />
@@ -320,54 +327,36 @@
         <text>e</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiAobWFyay5zdGFydHNXaXRoKCJMb2NhdGlvbiIpKSB7CiAgICAgICAgICAgIC8vc21vdGUgPSB0cnVlOwogICAgICAgICAgICAvL3Ntb3RlQ2xhc3MgPSAiMSI7CiAgICAgICAgICAgIC8vc21vdGVQZXJjZW50ID0gMTMwOwogICAgICAgIH0=</text>
+        <text>import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiAobWFyay5zdGFydHNXaXRoKCJMb2NhdGlvbiIpKSB7CiAgICAgICAgICAgIC8vc21vdGUgPSB0cnVlOwogICAgICAgICAgICAvL3Ntb3RlQ2xhc3MgPSAiMSI7CiAgICAgICAgICAgIC8vc21vdGVQZXJjZW50ID0gMTMwOwogICAgICAgIH0=</text>
+        <text>import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIGlmIChtYXJrLnN0YXJ0c1dpdGgoIlNFTiIpKSB7CiAgICAgICAgICAgIHNtb3RlID0gdHJ1ZTsKICAgICAgICAgICAgc21vdGVDbGFzcyA9ICIxIjsKICAgICAgICAgICAgc21vdGVQZXJjZW50ID0gODMwOwogICAgICAgICAgICAvL2F0dHJpU2VsID0gdHJ1ZTsKICAgICAgICB9IGVsc2UgaWYgKG1hcmsuc3RhcnRzV2l0aCgiTG9jYXRpb24iKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobWFyay5zdGFydHNXaXRoKCJTRU4iKSkgewogICAgICAgICAgICBzbW90ZSA9IHRydWU7CiAgICAgICAgICAgIHNtb3RlQ2xhc3MgPSAiMSI7CiAgICAgICAgICAgIHNtb3RlUGVyY2VudCA9IDgzMDsKICAgICAgICAgICAgLy9hdHRyaVNlbCA9IHRydWU7CiAgICAgICAgfSBlbHNlIGlmIChtYXJrLnN0YXJ0c1dpdGgoIkxvY2F0aW9uIikpIHsK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuc2V0VEFHKFRBRyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobWFyay5zdGFydHNXaXRoKCJTRU4iKSkgewogICAgICAgICAgICBzbW90ZSA9IHRydWU7CiAgICAgICAgICAgIHNtb3RlQ2xhc3MgPSAiMSI7CiAgICAgICAgICAgIHNtb3RlUGVyY2VudCA9IDgzMDsKICAgICAgICAgICAgLy9hdHRyaVNlbCA9IHRydWU7CiAgICAgICAgfSBlbHNlIGlmIChtYXJrLnN0YXJ0c1dpdGgoIkxvY2F0aW9uIikpIHsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxvZ2dlciA9IAo=</text>
       </register>
       <register name="5" type="4">
-        <text>else if (mark.startsWith(&quot;REC&quot;)) {
-            //smote = true;
-            //smoteClass = &quot;1&quot;;
-            //smotePercent = 80;
-            //attriSel = false;
-            attNum = 500;
-        }</text>
+        <text encoding="base64">ICAgcHJpdmF0ZSBTdHJpbmcgVEFHOwogICAgcHJpdmF0ZSBpbnQgbGV2ZWw7CiAgICAKICAgIHB1YmxpYyBMb2coU3RyaW5nIFRBRywgaW50IGxldmVsKSB7CiAgICAgICAgdGhpcy5UQUcgPSBUQUc7CiAgICAgICAgdGhpcy5sZXZlbCA9IGxldmVsOwogICAgfQ==</text>
       </register>
       <register name="6" type="4">
-        <text>if (mark.startsWith(&quot;REA&quot;)) {
-            smote = true;
-            smoteClass = &quot;1&quot;;
-            smotePercent = 230;
-            attriSel = true;
-            attNum = 100;
-        }</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiAobWFyay5zdGFydHNXaXRoKCJMb2NhdGlvbiIpKSB7CiAgICAgICAgICAgIC8vc21vdGUgPSB0cnVlOwogICAgICAgICAgICAvL3Ntb3RlQ2xhc3MgPSAiMSI7CiAgICAgICAgICAgIC8vc21vdGVQZXJjZW50ID0gMTMwOwogICAgICAgIH0=</text>
       </register>
-      <register name="7" type="4">
-        <text>if (mark.startsWith(&quot;Camera&quot;)) {
-            smote = true;
-            smoteClass = &quot;2&quot;;
-            smotePercent = 130;
-        } else</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgIGlmIChtYXJrLnN0YXJ0c1dpdGgoIlNFTiIpKSB7CiAgICAgICAgICAgIHNtb3RlID0gdHJ1ZTsKICAgICAgICAgICAgc21vdGVDbGFzcyA9ICIxIjsKICAgICAgICAgICAgc21vdGVQZXJjZW50ID0gODMwOwogICAgICAgICAgICAvL2F0dHJpU2VsID0gdHJ1ZTsKICAgICAgICB9IGVsc2UgaWYgKG1hcmsuc3RhcnRzV2l0aCgiTG9jYXRpb24iKSkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTdHJpbmcgcHlXb3JrTG9jID0gIkQ6XFx3b3Jrc3BhY2VcXENPU1BPU19NSU5JTkciOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobWFyay5zdGFydHNXaXRoKCJTRU4iKSkgewogICAgICAgICAgICBzbW90ZSA9IHRydWU7CiAgICAgICAgICAgIHNtb3RlQ2xhc3MgPSAiMSI7CiAgICAgICAgICAgIHNtb3RlUGVyY2VudCA9IDgzMDsKICAgICAgICAgICAgLy9hdHRyaVNlbCA9IHRydWU7CiAgICAgICAgfSBlbHNlIGlmIChtYXJrLnN0YXJ0c1dpdGgoIkxvY2F0aW9uIikpIHsK</text>
       </register>
-      <register name="9" type="4">
-        <text>if (mark.startsWith(&quot;Camera&quot;)) {
-            smote = true;
-            smoteClass = &quot;2&quot;;
-            smotePercent = 130;
-        } else</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobWFyay5zdGFydHNXaXRoKCJTRU4iKSkgewogICAgICAgICAgICBzbW90ZSA9IHRydWU7CiAgICAgICAgICAgIHNtb3RlQ2xhc3MgPSAiMSI7CiAgICAgICAgICAgIHNtb3RlUGVyY2VudCA9IDgzMDsKICAgICAgICAgICAgLy9hdHRyaVNlbCA9IHRydWU7CiAgICAgICAgfSBlbHNlIGlmIChtYXJrLnN0YXJ0c1dpdGgoIkxvY2F0aW9uIikpIHsK</text>
       </register>
       <register name="-" type="4">
         <text />
