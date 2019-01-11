@@ -195,10 +195,11 @@
         <mark key="]" line="17" column="60" />
         <mark key="." line="17" column="60" />
       </file>
-      <file name="D:/workspace/android-ml-weka/src/utils/Log.java" timestamp="1547181724170">
-        <mark key="[" line="46" column="9" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="D:/workspace/android-ml-weka/src/utils/Log.java" timestamp="1547247393494">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="76" column="37" />
       </file>
       <file name="D:/workspace/PlayWalaSlicer/src/slicing/SimpleSlicer.java" timestamp="1490336423224">
         <mark key="[" line="316" column="21" />
@@ -235,13 +236,13 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="D:/workspace/android-ml-weka/src/utils/test/TestLog.java" timestamp="1547181023061">
+      <file name="D:/workspace/android-ml-weka/src/utils/test/TestLog.java" timestamp="1547247449893">
         <mark key="[" line="17" column="51" />
         <mark key="]" line="17" column="19" />
         <mark key="." line="17" column="19" />
         <mark key="^" line="17" column="19" />
       </file>
-      <file name="D:/workspace/android-ml-weka/src/test/RealData.java" timestamp="1547181119891">
+      <file name="D:/workspace/android-ml-weka/src/test/RealData.java" timestamp="1547247527269">
         <mark key="[" line="28" column="69" />
         <mark key="]" line="117" column="15" />
         <mark key="." line="117" column="15" />
@@ -288,11 +289,11 @@
         <mark key="." line="208" column="29" />
         <mark key="^" line="208" column="29" />
       </file>
-      <file name="D:/workspace/android-ml-weka/src/weka/WekaUtils.java" timestamp="1547097685926">
-        <mark key="[" line="475" column="11" />
-        <mark key="]" line="93" column="9" />
-        <mark key="^" line="93" column="9" />
-        <mark key="." line="93" column="9" />
+      <file name="D:/workspace/android-ml-weka/src/weka/WekaUtils.java" timestamp="1547247659865">
+        <mark key="[" line="455" column="29" />
+        <mark key="]" line="455" column="30" />
+        <mark key="^" line="455" column="30" />
+        <mark key="." line="455" column="30" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/Log.java" timestamp="1479197568777">
         <mark key="[" line="60" column="44" />
@@ -335,8 +336,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obG9nLmxvZ2dlci5nZXRMZXZlbCgpKTs=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IFRSQUNFID0gNTsK</text>
@@ -364,7 +365,7 @@ import org.slf4j.LoggerFactory;</text>
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTGV2ZWw7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obG9nLmxvZ2dlci5nZXRMZXZlbCgpKTs=</text>
       </register>
     </registers>
     <search>
